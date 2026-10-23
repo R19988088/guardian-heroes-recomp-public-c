@@ -1,0 +1,12 @@
+game/
+generated/default/
+out/
+build/
+*.xex
+*.zip
+*.nro
+*.elf
+*.log
+*.dksh
+__pycache__/
+mods/
