@@ -32,7 +32,7 @@ jobs:
       - name: Install devkitPro Switch toolchain
         run: |
           dkp-pacman -Syu --noconfirm
-          dkp-pacman -S --needed --noconfirm switch-dev switch-cmake switch-tools deko3d switch-zstd switch-exfat switch-libdrm_nouveau
+          dkp-pacman -S --needed --noconfirm switch-dev switch-cmake switch-tools deko3d switch-libdrm_nouveau
 
       - name: Download build inputs
         run: |
