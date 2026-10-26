@@ -93,17 +93,21 @@ jobs:
             while :; do
               date -u
               ps -eo pid,ppid,stat,pcpu,pmem,rss,etime,cmd --sort=-pcpu | head -12
+              printf 'generated files: '
               find generated/default -type f 2>/dev/null | wc -l
               du -sh generated/default 2>/dev/null || true
               sleep 60
             done
-          ) > "$RUNNER_TEMP/codegen-debug/heartbeat.log" 2>&1 &
+          ) &
           monitor_pid=$!
-          trap 'kill "$monitor_pid" 2>/dev/null || true; tail -100 "$RUNNER_TEMP/codegen-debug/heartbeat.log"' EXIT
-          timeout --signal=TERM --kill-after=60s 30m \
-            "$SDK/out/linux-amd64/Release/rexglue" codegen gh_manifest.toml \
-            > "$RUNNER_TEMP/codegen-debug/codegen.log" 2>&1
+          trap 'kill "$monitor_pid" 2>/dev/null || true; wait "$monitor_pid" 2>/dev/null || true' EXIT
+          if "$SDK/out/linux-amd64/Release/rexglue" codegen gh_manifest.toml             > "$RUNNER_TEMP/codegen-debug/codegen.log" 2>&1; then
+            code=0
+          else
+            code=$?
+          fi
           cat "$RUNNER_TEMP/codegen-debug/codegen.log"
+          test "$code" -eq 0
           test -f generated/default/codegen.build.stamp
           test -f generated/default/codegen.d
           test -f generated/default/gh_pch.h
