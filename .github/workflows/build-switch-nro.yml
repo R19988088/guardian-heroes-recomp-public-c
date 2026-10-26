@@ -105,7 +105,7 @@ jobs:
           codegen_pid=$!
           code=124
           for _ in $(seq 1 180); do
-            if [[ -f generated/default/gh_pch.h && -f generated/default/sources.cmake ]]; then
+            if test -f generated/default/gh_pch.h && test -f generated/default/sources.cmake; then
               code=0
               kill -TERM "$codegen_pid" 2>/dev/null || true
               break
