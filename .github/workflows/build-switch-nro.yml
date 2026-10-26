@@ -71,7 +71,7 @@ jobs:
           python3 "$GITHUB_WORKSPACE/patches/sdk-edits-gh.py" "$RUNNER_TEMP/rexglue-sdk"
           cmake --preset linux-amd64 -S "$RUNNER_TEMP/rexglue-sdk" \
             -DCMAKE_C_COMPILER=clang-20 -DCMAKE_CXX_COMPILER=clang++-20
-          cmake --build --preset linux-amd64-release --parallel 2
+          cmake --build "$RUNNER_TEMP/rexglue-sdk/out/build/linux-amd64" --config Release --parallel 2
           echo "SDK=$RUNNER_TEMP/rexglue-sdk" >> "$GITHUB_ENV"
 
       - name: Generate recompiled sources
