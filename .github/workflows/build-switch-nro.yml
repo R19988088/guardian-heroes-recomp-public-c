@@ -27,7 +27,9 @@ jobs:
         run: |
           echo 'deb [signed-by=/usr/share/keyrings/debian-archive-keyring.gpg] http://deb.debian.org/debian bookworm contrib non-free non-free-firmware' > /etc/apt/sources.list.d/non-free.list
           apt-get update
-          apt-get install -y --no-install-recommends clang lld libclang-dev pkg-config unrar gh lsb-release software-properties-common
+          apt-get install -y --no-install-recommends clang lld libclang-dev pkg-config unrar gh lsb-release software-properties-common \
+            libgtk-3-dev libx11-xcb-dev libxss-dev libwayland-dev libwayland-bin wayland-protocols \
+            libxkbcommon-dev libdecor-0-dev libasound2-dev libpulse-dev libpipewire-0.3-dev
           git config --global --add safe.directory '*'
 
       - name: Install Clang 20
