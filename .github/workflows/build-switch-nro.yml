@@ -11,6 +11,8 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-24.04
+    container:
+      image: devkitpro/devkita64:latest
     timeout-minutes: 180
     env:
       REXGLUE_REF: c94f5ebdcb3c9d1a460ca48e04f9758448f8d518
@@ -23,15 +25,14 @@ jobs:
 
       - name: Install host tools
         run: |
-          sudo apt-get update
-          sudo apt-get install -y cmake ninja-build clang lld python3 unzip rsync git pkg-config libclang-dev p7zip-full
+          apt-get update
+          apt-get install -y --no-install-recommends clang lld libclang-dev pkg-config p7zip-full gh
+          git config --global --add safe.directory '*'
 
       - name: Install devkitPro Switch toolchain
         run: |
-          curl -L https://apt.devkitpro.org/install-devkitpro-pacman | sudo bash
-          sudo dkp-pacman -Syu --noconfirm
-          sudo dkp-pacman -S --noconfirm switch-dev switch-cmake switch-tools deko3d switch-zstd switch-exfat switch-libdrm_nouveau
-          echo 'DEVKITPRO=/opt/devkitpro' >> "$GITHUB_ENV"
+          dkp-pacman -Syu --noconfirm
+          dkp-pacman -S --needed --noconfirm switch-dev switch-cmake switch-tools deko3d switch-zstd switch-exfat switch-libdrm_nouveau
 
       - name: Download build inputs
         run: |
