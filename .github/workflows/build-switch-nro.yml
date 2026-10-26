@@ -32,8 +32,11 @@ jobs:
 
       - name: Install devkitPro Switch toolchain
         run: |
-          dkp-pacman -Syu --noconfirm
-          dkp-pacman -S --needed --noconfirm switch-dev switch-cmake switch-tools deko3d switch-libdrm_nouveau
+          dkp-pacman -Q switch-cmake switch-tools deko3d switch-libdrm_nouveau
+          test -x "$DEVKITPRO/devkitA64/bin/aarch64-none-elf-g++"
+          test -x "$DEVKITPRO/tools/bin/elf2nro"
+          test -x "$DEVKITPRO/tools/bin/nacptool"
+          test -x "$DEVKITPRO/tools/bin/uam"
 
       - name: Download build inputs
         run: |
