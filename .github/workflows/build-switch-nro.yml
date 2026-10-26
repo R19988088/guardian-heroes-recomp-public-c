@@ -5,6 +5,10 @@ on:
   push:
     branches: [main]
 
+concurrency:
+  group: guardian-heroes-switch-nro
+  cancel-in-progress: true
+
 permissions:
   contents: read
 
@@ -101,7 +105,9 @@ jobs:
           ) &
           monitor_pid=$!
           trap 'kill "$monitor_pid" 2>/dev/null || true; wait "$monitor_pid" 2>/dev/null || true' EXIT
-          if "$SDK/out/linux-amd64/Release/rexglue" codegen gh_manifest.toml             > "$RUNNER_TEMP/codegen-debug/codegen.log" 2>&1; then
+          if timeout --signal=TERM --kill-after=60s 30m \
+            "$SDK/out/linux-amd64/Release/rexglue" --log-level=trace codegen gh_manifest.toml \
+            > "$RUNNER_TEMP/codegen-debug/codegen.log" 2>&1; then
             code=0
           else
             code=$?
@@ -112,6 +118,17 @@ jobs:
           test -f generated/default/codegen.d
           test -f generated/default/gh_pch.h
           test -f generated/default/sources.cmake
+
+      - name: Upload codegen diagnostics
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: guardian-heroes-codegen-debug-${{ github.sha }}
+          path: |
+            ${{ runner.temp }}/codegen-debug
+            generated/default
+          if-no-files-found: warn
+          retention-days: 7
 
       - name: Download NVK static library
         run: |
