@@ -88,8 +88,26 @@ jobs:
         if: steps.generated-cache.outputs.cache-hit != 'true'
         run: |
           rm -rf generated/default
-          timeout --signal=TERM --kill-after=60s 30m \
-            "$SDK/out/linux-amd64/Release/rexglue" codegen gh_manifest.toml
+          mkdir -p "$RUNNER_TEMP/codegen-debug"
+          (
+            while :; do
+              date -u
+              ps -eo pid,ppid,stat,pcpu,pmem,rss,etime,cmd --sort=-pcpu | head -12
+              find generated/default -type f 2>/dev/null | wc -l
+              du -sh generated/default 2>/dev/null || true
+              sleep 60
+            done
+          ) > "$RUNNER_TEMP/codegen-debug/heartbeat.log" 2>&1 &
+          monitor_pid=$!
+          trap 'kill "$monitor_pid" 2>/dev/null || true; tail -100 "$RUNNER_TEMP/codegen-debug/heartbeat.log"' EXIT
+          set +e
+          timeout --signal=TERM --kill-after=60s 20m \
+            "$SDK/out/linux-amd64/Release/rexglue" codegen gh_manifest.toml \
+            > "$RUNNER_TEMP/codegen-debug/codegen.log" 2>&1
+          code=$?
+          set -e
+          cat "$RUNNER_TEMP/codegen-debug/codegen.log"
+          test "$code" -eq 0
           test -f generated/default/gh_pch.h
           test -f generated/default/sources.cmake
 
