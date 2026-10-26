@@ -78,9 +78,18 @@ jobs:
           echo "SDK=$RUNNER_TEMP/rexglue-sdk" >> "$GITHUB_ENV"
 
       - name: Generate recompiled sources
+        uses: actions/cache@v4
+        id: generated-cache
+        with:
+          path: generated/default
+          key: guardian-heroes-codegen-${{ hashFiles('game/default.xex', 'gh_manifest.toml', 'patches/**', 'switch/sdk-edits.py') }}-${{ env.REXGLUE_REF }}
+
+      - name: Generate recompiled sources
+        if: steps.generated-cache.outputs.cache-hit != 'true'
         run: |
           rm -rf generated/default
-          "$SDK/out/linux-amd64/Release/rexglue" codegen gh_manifest.toml
+          timeout --signal=TERM --kill-after=60s 30m \
+            "$SDK/out/linux-amd64/Release/rexglue" codegen gh_manifest.toml
           test -f generated/default/gh_pch.h
           test -f generated/default/sources.cmake
 
