@@ -1,0 +1,95 @@
+name: Build Switch NRO
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 180
+    env:
+      REXGLUE_REF: c94f5ebdcb3c9d1a460ca48e04f9758448f8d518
+      NVK_RELEASE: nvk-switch-mesa-25.0.7-r1
+      NVK_REPO: jhuz0/nvk-switch
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Install host tools
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y cmake ninja-build clang lld python3 unzip rsync git pkg-config libclang-dev p7zip-full
+
+      - name: Install devkitPro Switch toolchain
+        run: |
+          curl -L https://apt.devkitpro.org/install-devkitpro-pacman | sudo bash
+          sudo dkp-pacman -Syu --noconfirm
+          sudo dkp-pacman -S --noconfirm switch-dev switch-cmake switch-tools deko3d switch-zstd switch-exfat switch-libdrm_nouveau
+          echo 'DEVKITPRO=/opt/devkitpro' >> "$GITHUB_ENV"
+
+      - name: Download build inputs
+        run: |
+          gh release download game-input -R "${GITHUB_REPOSITORY}" \
+            --pattern Guardian.Heroes.NSP.rar --dir "$RUNNER_TEMP"
+          7z x -y "$RUNNER_TEMP/Guardian.Heroes.NSP.rar" -o"$RUNNER_TEMP/game"
+          cp -a "$RUNNER_TEMP/game/switch/gh/game/." game/
+          cp src/localization/font_zh.xprc game/media/font.xprc
+          cp src/localization/menu_zhs.bin game/media/menu_zhs.bin
+          cp src/localization/script_zhs.mrg game/media/script_zhs.mrg
+          test -s game/default.xex
+        env:
+          GH_TOKEN: ${{ github.token }}
+
+      - name: Build ReXGlue host SDK
+        run: |
+          git clone --filter=blob:none --recurse-submodules --shallow-submodules https://github.com/rexglue/rexglue-sdk.git "$RUNNER_TEMP/rexglue-sdk"
+          git -C "$RUNNER_TEMP/rexglue-sdk" checkout --detach "$REXGLUE_REF"
+          git -C "$RUNNER_TEMP/rexglue-sdk" apply "$GITHUB_WORKSPACE/patches/sdk/0001-codegen-eh-aware-function-discovery.patch"
+          git -C "$RUNNER_TEMP/rexglue-sdk" apply "$GITHUB_WORKSPACE/patches/sdk/0002-fpscr-keep-host-exception-masks.patch"
+          git -C "$RUNNER_TEMP/rexglue-sdk" apply "$GITHUB_WORKSPACE/patches/sdk/0003-project-guest-abi.patch"
+          python3 "$GITHUB_WORKSPACE/switch/sdk-edits.py" "$RUNNER_TEMP/rexglue-sdk"
+          python3 "$GITHUB_WORKSPACE/patches/sdk-edits-gh.py" "$RUNNER_TEMP/rexglue-sdk"
+          cmake --preset linux-amd64-release -S "$RUNNER_TEMP/rexglue-sdk"
+          cmake --build --preset linux-amd64-release --parallel 2
+          echo "SDK=$RUNNER_TEMP/rexglue-sdk" >> "$GITHUB_ENV"
+
+      - name: Generate recompiled sources
+        run: |
+          rm -rf generated/default
+          "$SDK/out/linux-amd64/Release/rexglue" codegen gh_manifest.toml
+          test -f generated/default/gh_pch.h
+          test -f generated/default/sources.cmake
+
+      - name: Download NVK static library
+        run: |
+          mkdir -p "$RUNNER_TEMP/nvk"
+          gh release download "$NVK_RELEASE" -R "$NVK_REPO" \
+            --pattern libvulkan.a --dir "$RUNNER_TEMP/nvk"
+          mkdir -p "$RUNNER_TEMP/nvk/lib" "$RUNNER_TEMP/nvk/include/vulkan"
+          mv "$RUNNER_TEMP/nvk/libvulkan.a" "$RUNNER_TEMP/nvk/lib/libvulkan.a"
+          cp -a "$DEVKITPRO/libnx/include/vulkan/." "$RUNNER_TEMP/nvk/include/vulkan/" 2>/dev/null || true
+          test -s "$RUNNER_TEMP/nvk/lib/libvulkan.a"
+          echo "NVK_SDK=$RUNNER_TEMP/nvk" >> "$GITHUB_ENV"
+        env:
+          GH_TOKEN: ${{ github.token }}
+
+      - name: Build NRO
+        run: |
+          export DEVKITPRO="${DEVKITPRO:-/opt/devkitpro}"
+          export PATH="$DEVKITPRO/tools/bin:$DEVKITPRO/devkitA64/bin:$PATH"
+          bash switch/build.sh
+          test -s out/build/switch/gh.nro
+
+      - name: Upload NRO
+        uses: actions/upload-artifact@v4
+        with:
+          name: guardian-heroes-switch-nro-${{ github.sha }}
+          path: out/build/switch/gh.nro
+          if-no-files-found: error
+          retention-days: 30

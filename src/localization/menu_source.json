@@ -1,0 +1,9263 @@
+[
+  {
+    "id": 0,
+    "en": "Drop dead.",
+    "addresses": [
+      "0x820207a0"
+    ]
+  },
+  {
+    "id": 1,
+    "en": "Let me think abou-- NO.",
+    "addresses": [
+      "0x820207b8"
+    ]
+  },
+  {
+    "id": 2,
+    "en": "You wish.",
+    "addresses": [
+      "0x820207e8"
+    ]
+  },
+  {
+    "id": 3,
+    "en": "Dream on.",
+    "addresses": [
+      "0x820207fc"
+    ]
+  },
+  {
+    "id": 4,
+    "en": "Yes, we seek the answer.",
+    "addresses": [
+      "0x82020810"
+    ]
+  },
+  {
+    "id": 5,
+    "en": "We fight only for our people.",
+    "addresses": [
+      "0x82020844"
+    ]
+  },
+  {
+    "id": 6,
+    "en": "Well, if she's ready to die...",
+    "addresses": [
+      "0x82020880"
+    ]
+  },
+  {
+    "id": 7,
+    "en": "Don't hurt her! We will obey.",
+    "addresses": [
+      "0x820208c0"
+    ]
+  },
+  {
+    "id": 8,
+    "en": "Hang on, Lucia!",
+    "addresses": [
+      "0x820208fc"
+    ]
+  },
+  {
+    "id": 9,
+    "en": "We're listening.",
+    "addresses": [
+      "0x8202091c"
+    ]
+  },
+  {
+    "id": 10,
+    "en": "We have to stop Kanon's mechs.",
+    "addresses": [
+      "0x82020940"
+    ]
+  },
+  {
+    "id": 11,
+    "en": "Our kingdom needs us more.",
+    "addresses": [
+      "0x82020980"
+    ]
+  },
+  {
+    "id": 12,
+    "en": "What would that achieve?",
+    "addresses": [
+      "0x820209b8"
+    ]
+  },
+  {
+    "id": 13,
+    "en": "Stay out of our human quarrels.",
+    "addresses": [
+      "0x820209f0"
+    ]
+  },
+  {
+    "id": 14,
+    "en": "Where we find evil, we end it.",
+    "addresses": [
+      "0x82020a30"
+    ]
+  },
+  {
+    "id": 15,
+    "en": "Listen to yourself, Valgar!",
+    "addresses": [
+      "0x82020a70"
+    ]
+  },
+  {
+    "id": 16,
+    "en": "We WILL stop you, Valgar.",
+    "addresses": [
+      "0x82020aa8"
+    ]
+  },
+  {
+    "id": 17,
+    "en": "They cannot be controlled!",
+    "addresses": [
+      "0x82020adc"
+    ]
+  },
+  {
+    "id": 18,
+    "en": "Humankind needs us here.",
+    "addresses": [
+      "0x82020b14"
+    ]
+  },
+  {
+    "id": 19,
+    "en": "Time to kick some Earthbutt!",
+    "addresses": [
+      "0x82020b48"
+    ]
+  },
+  {
+    "id": 20,
+    "en": "We're listening...",
+    "addresses": [
+      "0x82020b84"
+    ]
+  },
+  {
+    "id": 21,
+    "en": "We belong with our own kind.",
+    "addresses": [
+      "0x82020bac"
+    ]
+  },
+  {
+    "id": 22,
+    "en": "Who asked you, Earthblood?",
+    "addresses": [
+      "0x82020be8"
+    ]
+  },
+  {
+    "id": 23,
+    "en": "Has this freed the Earthblood?",
+    "addresses": [
+      "0x82020c20"
+    ]
+  },
+  {
+    "id": 24,
+    "en": "We must thwart Kanon's plans.",
+    "addresses": [
+      "0x82020c60"
+    ]
+  },
+  {
+    "id": 25,
+    "en": "We've greater threats to face.",
+    "addresses": [
+      "0x82020c9c"
+    ]
+  },
+  {
+    "id": 26,
+    "en": "Have you lost your mind?",
+    "addresses": [
+      "0x82020cdc"
+    ]
+  },
+  {
+    "id": 27,
+    "en": "The king needs to explain.",
+    "addresses": [
+      "0x82020d10"
+    ]
+  },
+  {
+    "id": 28,
+    "en": "We're with you, Valgar.",
+    "addresses": [
+      "0x82020d48"
+    ]
+  },
+  {
+    "id": 29,
+    "en": "How about both your reigns?",
+    "addresses": [
+      "0x82020d78"
+    ]
+  },
+  {
+    "id": 30,
+    "en": "(Lie to protect the people.)",
+    "addresses": [
+      "0x82020db0"
+    ]
+  },
+  {
+    "id": 31,
+    "en": "Let us storm the castle.",
+    "addresses": [
+      "0x82020dec"
+    ]
+  },
+  {
+    "id": 32,
+    "en": "The Earthblood are the tyrants.",
+    "addresses": [
+      "0x82020e20"
+    ]
+  },
+  {
+    "id": 33,
+    "en": "Let us be the judge.",
+    "addresses": [
+      "0x82020e60"
+    ]
+  },
+  {
+    "id": 34,
+    "en": "The false monarchy comes first.",
+    "addresses": [
+      "0x82020e90"
+    ]
+  },
+  {
+    "id": 35,
+    "en": "We will stamp out these evils.",
+    "addresses": [
+      "0x82020ed0"
+    ]
+  },
+  {
+    "id": 36,
+    "en": "You did what you had to.",
+    "addresses": [
+      "0x82020f10"
+    ]
+  },
+  {
+    "id": 37,
+    "en": "Was force the only option?",
+    "addresses": [
+      "0x82020f44"
+    ]
+  },
+  {
+    "id": 38,
+    "en": "We deserve peace.",
+    "addresses": [
+      "0x82020f7c"
+    ]
+  },
+  {
+    "id": 39,
+    "en": "What you did was wrong.",
+    "addresses": [
+      "0x82020fa0"
+    ]
+  },
+  {
+    "id": 40,
+    "en": "You're insane!",
+    "addresses": [
+      "0x82020fd0"
+    ]
+  },
+  {
+    "id": 41,
+    "en": "(Avoid settled areas for now.)",
+    "addresses": [
+      "0x82020ff0"
+    ]
+  },
+  {
+    "id": 42,
+    "en": "(Storm the castle head on.)",
+    "addresses": [
+      "0x82021030"
+    ]
+  },
+  {
+    "id": 43,
+    "en": "(Take the woods to the castle.)",
+    "addresses": [
+      "0x82021068"
+    ]
+  },
+  {
+    "id": 44,
+    "en": "(Rush to the rebels' aid.)",
+    "addresses": [
+      "0x820210a8"
+    ]
+  },
+  {
+    "id": 45,
+    "en": "(Finish Kanon off.)",
+    "addresses": [
+      "0x820210e0"
+    ]
+  },
+  {
+    "id": 46,
+    "en": "(Head for the castle.)",
+    "addresses": [
+      "0x82021108"
+    ]
+  },
+  {
+    "id": 47,
+    "en": "(Save the rebel village.)",
+    "addresses": [
+      "0x82021138"
+    ]
+  },
+  {
+    "id": 48,
+    "en": "The wildwood will shelter us.",
+    "addresses": [
+      "0x8202116c"
+    ]
+  },
+  {
+    "id": 49,
+    "en": "There's a safe village nearby.",
+    "addresses": [
+      "0x820211a8"
+    ]
+  },
+  {
+    "id": 50,
+    "en": "Bah! Let's go back to town.",
+    "addresses": [
+      "0x820211e8"
+    ]
+  },
+  {
+    "id": 51,
+    "en": "My wrath is sated.",
+    "addresses": [
+      "0x82021220"
+    ]
+  },
+  {
+    "id": 52,
+    "en": "Who else wants a piece?",
+    "addresses": [
+      "0x82021248"
+    ]
+  },
+  {
+    "id": 53,
+    "en": "I don't have time for games.",
+    "addresses": [
+      "0x82021278"
+    ]
+  },
+  {
+    "id": 54,
+    "en": "Bring on the challengers!",
+    "addresses": [
+      "0x820212b4"
+    ]
+  },
+  {
+    "id": 55,
+    "en": " as quick attack hits",
+    "addresses": [
+      "0x820250f0"
+    ]
+  },
+  {
+    "id": 56,
+    "en": "(throw)",
+    "addresses": [
+      "0x820251a8"
+    ]
+  },
+  {
+    "id": 57,
+    "en": "(while flying)",
+    "addresses": [
+      "0x820251b8"
+    ]
+  },
+  {
+    "id": 58,
+    "en": "(ground/air)",
+    "addresses": [
+      "0x820251d8"
+    ]
+  },
+  {
+    "id": 59,
+    "en": "(air)",
+    "addresses": [
+      "0x820251f4"
+    ]
+  },
+  {
+    "id": 60,
+    "en": "(ground)",
+    "addresses": [
+      "0x82025200"
+    ]
+  },
+  {
+    "id": 61,
+    "en": "Hold (A)",
+    "addresses": [
+      "0x82025214"
+    ]
+  },
+  {
+    "id": 62,
+    "en": "Repeatedly tap (A) as quick attack hits",
+    "addresses": [
+      "0x82025228"
+    ]
+  },
+  {
+    "id": 63,
+    "en": "Repeatedly tap (A)",
+    "addresses": [
+      "0x82025278"
+    ]
+  },
+  {
+    "id": 64,
+    "en": "(None)",
+    "addresses": [
+      "0x820252a0"
+    ]
+  },
+  {
+    "id": 65,
+    "en": "N-Max",
+    "addresses": [
+      "0x820252b0"
+    ]
+  },
+  {
+    "id": 66,
+    "en": "Spear Shell",
+    "addresses": [
+      "0x820252bc"
+    ]
+  },
+  {
+    "id": 67,
+    "en": "Dummy Division",
+    "addresses": [
+      "0x820252d4"
+    ]
+  },
+  {
+    "id": 68,
+    "en": "Intimidate",
+    "addresses": [
+      "0x820252f4"
+    ]
+  },
+  {
+    "id": 69,
+    "en": "Claw Goyle",
+    "addresses": [
+      "0x8202530c"
+    ]
+  },
+  {
+    "id": 70,
+    "en": "Diving Goyle",
+    "addresses": [
+      "0x82025324"
+    ]
+  },
+  {
+    "id": 71,
+    "en": "Flying Goyle",
+    "addresses": [
+      "0x82025340"
+    ]
+  },
+  {
+    "id": 72,
+    "en": "Sonic Goyle",
+    "addresses": [
+      "0x8202535c"
+    ]
+  },
+  {
+    "id": 73,
+    "en": "Mid-prisonment",
+    "addresses": [
+      "0x82025374"
+    ]
+  },
+  {
+    "id": 74,
+    "en": "Mid Cyclone",
+    "addresses": [
+      "0x82025394"
+    ]
+  },
+  {
+    "id": 75,
+    "en": "Giant Beam",
+    "addresses": [
+      "0x820253ac"
+    ]
+  },
+  {
+    "id": 76,
+    "en": "Giant Pommel",
+    "addresses": [
+      "0x820253c4"
+    ]
+  },
+  {
+    "id": 77,
+    "en": "Giant Bash",
+    "addresses": [
+      "0x820253e0"
+    ]
+  },
+  {
+    "id": 78,
+    "en": "Giant Quake",
+    "addresses": [
+      "0x820253f8"
+    ]
+  },
+  {
+    "id": 79,
+    "en": "Cycloptic Blast",
+    "addresses": [
+      "0x82025410"
+    ]
+  },
+  {
+    "id": 80,
+    "en": "Cy-grounder",
+    "addresses": [
+      "0x82025430"
+    ]
+  },
+  {
+    "id": 81,
+    "en": "Cy-smacker",
+    "addresses": [
+      "0x82025448"
+    ]
+  },
+  {
+    "id": 82,
+    "en": "Cy-quake",
+    "addresses": [
+      "0x82025460"
+    ]
+  },
+  {
+    "id": 83,
+    "en": "Expunger Beam",
+    "addresses": [
+      "0x82025474"
+    ]
+  },
+  {
+    "id": 84,
+    "en": "Omega Particle Cannon",
+    "addresses": [
+      "0x82025490"
+    ]
+  },
+  {
+    "id": 85,
+    "en": "Ice Stupor Neo",
+    "addresses": [
+      "0x820254bc"
+    ]
+  },
+  {
+    "id": 86,
+    "en": "Balls of Magely Fire",
+    "addresses": [
+      "0x820254dc"
+    ]
+  },
+  {
+    "id": 87,
+    "en": "Sublime Thunder",
+    "addresses": [
+      "0x82025508"
+    ]
+  },
+  {
+    "id": 88,
+    "en": "Perfect Purger Barrier",
+    "addresses": [
+      "0x82025528"
+    ]
+  },
+  {
+    "id": 89,
+    "en": "Purger Heal",
+    "addresses": [
+      "0x82025558"
+    ]
+  },
+  {
+    "id": 90,
+    "en": "Purger Triple Cross",
+    "addresses": [
+      "0x82025570"
+    ]
+  },
+  {
+    "id": 91,
+    "en": "Zombie's Big Chance",
+    "addresses": [
+      "0x82025598"
+    ]
+  },
+  {
+    "id": 92,
+    "en": "Jumbo Bones",
+    "addresses": [
+      "0x820255c0"
+    ]
+  },
+  {
+    "id": 93,
+    "en": "Rebel's Miracle",
+    "addresses": [
+      "0x820255d8"
+    ]
+  },
+  {
+    "id": 94,
+    "en": "Peon's Dream",
+    "addresses": [
+      "0x820255f8"
+    ]
+  },
+  {
+    "id": 95,
+    "en": "Super Thunderblade of Justice",
+    "addresses": [
+      "0x82025614"
+    ]
+  },
+  {
+    "id": 96,
+    "en": "Somersault Axe Counter",
+    "addresses": [
+      "0x82025650"
+    ]
+  },
+  {
+    "id": 97,
+    "en": "Rolling Finish",
+    "addresses": [
+      "0x82025680"
+    ]
+  },
+  {
+    "id": 98,
+    "en": "Tornado Attack",
+    "addresses": [
+      "0x820256a0"
+    ]
+  },
+  {
+    "id": 99,
+    "en": "Binding Voice of Passion",
+    "addresses": [
+      "0x820256c0"
+    ]
+  },
+  {
+    "id": 100,
+    "en": "Charming Muscle Bomber",
+    "addresses": [
+      "0x820256f4"
+    ]
+  },
+  {
+    "id": 101,
+    "en": "Sweet Muscle Squat",
+    "addresses": [
+      "0x82025724"
+    ]
+  },
+  {
+    "id": 102,
+    "en": "Sweet Muscle Push-up",
+    "addresses": [
+      "0x8202574c"
+    ]
+  },
+  {
+    "id": 103,
+    "en": "Temptatious Fresh Squall",
+    "addresses": [
+      "0x82025778"
+    ]
+  },
+  {
+    "id": 104,
+    "en": "Temptatious Muscle Shaker",
+    "addresses": [
+      "0x820257ac"
+    ]
+  },
+  {
+    "id": 105,
+    "en": "The Way of Man",
+    "addresses": [
+      "0x820257e0"
+    ]
+  },
+  {
+    "id": 106,
+    "en": "The Soul of Man",
+    "addresses": [
+      "0x82025800"
+    ]
+  },
+  {
+    "id": 107,
+    "en": "Reverse Backsplosion",
+    "addresses": [
+      "0x82025820"
+    ]
+  },
+  {
+    "id": 108,
+    "en": "Backsplosion",
+    "addresses": [
+      "0x8202584c"
+    ]
+  },
+  {
+    "id": 109,
+    "en": "Gambo Fist of Flying Dreams",
+    "addresses": [
+      "0x82025868"
+    ]
+  },
+  {
+    "id": 110,
+    "en": "Sure-kill Locomotive Kick",
+    "addresses": [
+      "0x820258a0"
+    ]
+  },
+  {
+    "id": 111,
+    "en": "Bear-slayer Kick of Pleasure",
+    "addresses": [
+      "0x820258d4"
+    ]
+  },
+  {
+    "id": 112,
+    "en": "Tiger-slayer Kick of Pleasure",
+    "addresses": [
+      "0x82025910"
+    ]
+  },
+  {
+    "id": 113,
+    "en": "Faster-than-the-wind Punch",
+    "addresses": [
+      "0x8202594c"
+    ]
+  },
+  {
+    "id": 114,
+    "en": "Self-taught Hadouhou",
+    "addresses": [
+      "0x82025984"
+    ]
+  },
+  {
+    "id": 115,
+    "en": "Self-taught Kiaidan",
+    "addresses": [
+      "0x820259b0"
+    ]
+  },
+  {
+    "id": 116,
+    "en": "Self-taught Youshisenrin",
+    "addresses": [
+      "0x820259d8"
+    ]
+  },
+  {
+    "id": 117,
+    "en": "Self-taught Tetsuzankou",
+    "addresses": [
+      "0x82025a0c"
+    ]
+  },
+  {
+    "id": 118,
+    "en": "Self-taught Shouryuuga",
+    "addresses": [
+      "0x82025a3c"
+    ]
+  },
+  {
+    "id": 119,
+    "en": "Self-taught Shippuukyaku",
+    "addresses": [
+      "0x82025a6c"
+    ]
+  },
+  {
+    "id": 120,
+    "en": "Self-taught Renkantai",
+    "addresses": [
+      "0x82025aa0"
+    ]
+  },
+  {
+    "id": 121,
+    "en": "Self-taught Utankyaku",
+    "addresses": [
+      "0x82025acc"
+    ]
+  },
+  {
+    "id": 122,
+    "en": "Self-taught Mouko Kouhazan",
+    "addresses": [
+      "0x82025af8"
+    ]
+  },
+  {
+    "id": 123,
+    "en": "Impact Dive",
+    "addresses": [
+      "0x82025b30"
+    ]
+  },
+  {
+    "id": 124,
+    "en": "Death Sentence",
+    "addresses": [
+      "0x82025b48"
+    ]
+  },
+  {
+    "id": 125,
+    "en": "Pressure Slam",
+    "addresses": [
+      "0x82025b68"
+    ]
+  },
+  {
+    "id": 126,
+    "en": "Recharge",
+    "addresses": [
+      "0x82025b84"
+    ]
+  },
+  {
+    "id": 127,
+    "en": "Absolute Zero",
+    "addresses": [
+      "0x82025b98"
+    ]
+  },
+  {
+    "id": 128,
+    "en": "Total Dismissal",
+    "addresses": [
+      "0x82025bb4"
+    ]
+  },
+  {
+    "id": 129,
+    "en": "Flying Fang",
+    "addresses": [
+      "0x82025bd4"
+    ]
+  },
+  {
+    "id": 130,
+    "en": "Descent",
+    "addresses": [
+      "0x82025bec"
+    ]
+  },
+  {
+    "id": 131,
+    "en": "Judgment",
+    "addresses": [
+      "0x82025bfc"
+    ]
+  },
+  {
+    "id": 132,
+    "en": "Rebirth",
+    "addresses": [
+      "0x82025c10"
+    ]
+  },
+  {
+    "id": 133,
+    "en": "Prayer",
+    "addresses": [
+      "0x82025c20"
+    ]
+  },
+  {
+    "id": 134,
+    "en": "Protection",
+    "addresses": [
+      "0x82025c30"
+    ]
+  },
+  {
+    "id": 135,
+    "en": "Creation",
+    "addresses": [
+      "0x82025c48"
+    ]
+  },
+  {
+    "id": 136,
+    "en": "Blessing",
+    "addresses": [
+      "0x82025c5c"
+    ]
+  },
+  {
+    "id": 137,
+    "en": "Thunderbreak",
+    "addresses": [
+      "0x82025c70"
+    ]
+  },
+  {
+    "id": 138,
+    "en": "Passionfire",
+    "addresses": [
+      "0x82025c8c"
+    ]
+  },
+  {
+    "id": 139,
+    "en": "Great Booster Dash",
+    "addresses": [
+      "0x82025ca4"
+    ]
+  },
+  {
+    "id": 140,
+    "en": "Illusionary Scramble",
+    "addresses": [
+      "0x82025ccc"
+    ]
+  },
+  {
+    "id": 141,
+    "en": "Evil Blade",
+    "addresses": [
+      "0x82025cf8"
+    ]
+  },
+  {
+    "id": 142,
+    "en": "Heel Impulse",
+    "addresses": [
+      "0x82025d10"
+    ]
+  },
+  {
+    "id": 143,
+    "en": "Spinning Needle Storm",
+    "addresses": [
+      "0x82025d2c"
+    ]
+  },
+  {
+    "id": 144,
+    "en": "Drill Press Kick",
+    "addresses": [
+      "0x82025d58"
+    ]
+  },
+  {
+    "id": 145,
+    "en": "Archangel Turbo Dash",
+    "addresses": [
+      "0x82025d7c"
+    ]
+  },
+  {
+    "id": 146,
+    "en": "Archangel Hundred Strike",
+    "addresses": [
+      "0x82025da8"
+    ]
+  },
+  {
+    "id": 147,
+    "en": "Archangel Atlantis Strike",
+    "addresses": [
+      "0x82025ddc"
+    ]
+  },
+  {
+    "id": 148,
+    "en": "Archangel Vortex",
+    "addresses": [
+      "0x82025e10"
+    ]
+  },
+  {
+    "id": 149,
+    "en": "Archangel Feint",
+    "addresses": [
+      "0x82025e34"
+    ]
+  },
+  {
+    "id": 150,
+    "en": "Archangel Spin",
+    "addresses": [
+      "0x82025e54"
+    ]
+  },
+  {
+    "id": 151,
+    "en": "Operation Meteor System",
+    "addresses": [
+      "0x82025e74"
+    ]
+  },
+  {
+    "id": 152,
+    "en": "Annihilation Booster System",
+    "addresses": [
+      "0x82025ea4"
+    ]
+  },
+  {
+    "id": 153,
+    "en": "Counter Knife System",
+    "addresses": [
+      "0x82025edc"
+    ]
+  },
+  {
+    "id": 154,
+    "en": "Binding Arm System",
+    "addresses": [
+      "0x82025f08"
+    ]
+  },
+  {
+    "id": 155,
+    "en": "Shoulder Crush System",
+    "addresses": [
+      "0x82025f30"
+    ]
+  },
+  {
+    "id": 156,
+    "en": "Dynamic Crush System",
+    "addresses": [
+      "0x82025f5c"
+    ]
+  },
+  {
+    "id": 157,
+    "en": "Teleportation Punch System",
+    "addresses": [
+      "0x82025f88"
+    ]
+  },
+  {
+    "id": 158,
+    "en": "World Domination Cannon",
+    "addresses": [
+      "0x82025fc0"
+    ]
+  },
+  {
+    "id": 159,
+    "en": "Flying Genius",
+    "addresses": [
+      "0x82025ff0"
+    ]
+  },
+  {
+    "id": 160,
+    "en": "H.D.P.E.S.S.",
+    "addresses": [
+      "0x8202600c"
+    ]
+  },
+  {
+    "id": 161,
+    "en": "Wonder Slicer V",
+    "addresses": [
+      "0x82026028"
+    ]
+  },
+  {
+    "id": 162,
+    "en": "Miracle Spin",
+    "addresses": [
+      "0x82026048"
+    ]
+  },
+  {
+    "id": 163,
+    "en": "Jumping Cross",
+    "addresses": [
+      "0x82026064"
+    ]
+  },
+  {
+    "id": 164,
+    "en": "Flicker Fire",
+    "addresses": [
+      "0x82026080"
+    ]
+  },
+  {
+    "id": 165,
+    "en": "Helm Crusher",
+    "addresses": [
+      "0x8202609c"
+    ]
+  },
+  {
+    "id": 166,
+    "en": "Mega Masher",
+    "addresses": [
+      "0x820260b8"
+    ]
+  },
+  {
+    "id": 167,
+    "en": "Surprise Sword",
+    "addresses": [
+      "0x820260d0"
+    ]
+  },
+  {
+    "id": 168,
+    "en": "Dorin Sword",
+    "addresses": [
+      "0x820260f0"
+    ]
+  },
+  {
+    "id": 169,
+    "en": "Combination Rush",
+    "addresses": [
+      "0x82026108"
+    ]
+  },
+  {
+    "id": 170,
+    "en": "Death-trap Tackle",
+    "addresses": [
+      "0x8202612c"
+    ]
+  },
+  {
+    "id": 171,
+    "en": "Queen's Ice Ray",
+    "addresses": [
+      "0x82026150"
+    ]
+  },
+  {
+    "id": 172,
+    "en": "Queen's Blizzard",
+    "addresses": [
+      "0x82026170"
+    ]
+  },
+  {
+    "id": 173,
+    "en": "Queen's Ice",
+    "addresses": [
+      "0x82026194"
+    ]
+  },
+  {
+    "id": 174,
+    "en": "Queen's Thunder",
+    "addresses": [
+      "0x820261ac"
+    ]
+  },
+  {
+    "id": 175,
+    "en": "Queen's Fire",
+    "addresses": [
+      "0x820261cc"
+    ]
+  },
+  {
+    "id": 176,
+    "en": "Surprise Heel",
+    "addresses": [
+      "0x820261e8"
+    ]
+  },
+  {
+    "id": 177,
+    "en": "Surprise Spin",
+    "addresses": [
+      "0x82026204"
+    ]
+  },
+  {
+    "id": 178,
+    "en": "Infinity Counter",
+    "addresses": [
+      "0x82026220"
+    ]
+  },
+  {
+    "id": 179,
+    "en": "Aurora Evolution",
+    "addresses": [
+      "0x82026244"
+    ]
+  },
+  {
+    "id": 180,
+    "en": "Spectral Slicer",
+    "addresses": [
+      "0x82026268"
+    ]
+  },
+  {
+    "id": 181,
+    "en": "Crimson Shock Wave",
+    "addresses": [
+      "0x82026288"
+    ]
+  },
+  {
+    "id": 182,
+    "en": "Graviton Thunder",
+    "addresses": [
+      "0x820262b0"
+    ]
+  },
+  {
+    "id": 183,
+    "en": "Zero-drive Illusion",
+    "addresses": [
+      "0x820262d4"
+    ]
+  },
+  {
+    "id": 184,
+    "en": "Twin-blade Arc Impulse",
+    "addresses": [
+      "0x820262fc"
+    ]
+  },
+  {
+    "id": 185,
+    "en": "Ebon Shock Wave",
+    "addresses": [
+      "0x8202632c"
+    ]
+  },
+  {
+    "id": 186,
+    "en": "Black Magic: Ray of Despair",
+    "addresses": [
+      "0x8202634c"
+    ]
+  },
+  {
+    "id": 187,
+    "en": "Black Magic: Icy Resentment",
+    "addresses": [
+      "0x82026384"
+    ]
+  },
+  {
+    "id": 188,
+    "en": "Black Magic: Thunderous Vendetta",
+    "addresses": [
+      "0x820263c0"
+    ]
+  },
+  {
+    "id": 189,
+    "en": "Black Magic: Shock Wind",
+    "addresses": [
+      "0x82026404"
+    ]
+  },
+  {
+    "id": 190,
+    "en": "Black Arts: Magic Muster",
+    "addresses": [
+      "0x82026434"
+    ]
+  },
+  {
+    "id": 191,
+    "en": "Dark Levitation",
+    "addresses": [
+      "0x82026468"
+    ]
+  },
+  {
+    "id": 192,
+    "en": "Dark Field",
+    "addresses": [
+      "0x82026488"
+    ]
+  },
+  {
+    "id": 193,
+    "en": "Decimation Blast",
+    "addresses": [
+      "0x820264a0"
+    ]
+  },
+  {
+    "id": 194,
+    "en": "Grudge Blade",
+    "addresses": [
+      "0x820264c4"
+    ]
+  },
+  {
+    "id": 195,
+    "en": "Vertical Vengeance",
+    "addresses": [
+      "0x820264e0"
+    ]
+  },
+  {
+    "id": 196,
+    "en": "Accursed Flame",
+    "addresses": [
+      "0x82026508"
+    ]
+  },
+  {
+    "id": 197,
+    "en": "Decimation Crush",
+    "addresses": [
+      "0x82026528"
+    ]
+  },
+  {
+    "id": 198,
+    "en": "Mortal Buster",
+    "addresses": [
+      "0x8202654c"
+    ]
+  },
+  {
+    "id": 199,
+    "en": "Flying Death Tackle",
+    "addresses": [
+      "0x82026568"
+    ]
+  },
+  {
+    "id": 200,
+    "en": "Deathly Flame",
+    "addresses": [
+      "0x82026590"
+    ]
+  },
+  {
+    "id": 201,
+    "en": "Valkyrie's Javelin",
+    "addresses": [
+      "0x820265ac"
+    ]
+  },
+  {
+    "id": 202,
+    "en": "Angel's Breath",
+    "addresses": [
+      "0x820265d4"
+    ]
+  },
+  {
+    "id": 203,
+    "en": "Byakko Fang",
+    "addresses": [
+      "0x820265f4"
+    ]
+  },
+  {
+    "id": 204,
+    "en": "Thor's Hammer",
+    "addresses": [
+      "0x8202660c"
+    ]
+  },
+  {
+    "id": 205,
+    "en": "Phoenix Arrow",
+    "addresses": [
+      "0x82026628"
+    ]
+  },
+  {
+    "id": 206,
+    "en": "Surprise Kick",
+    "addresses": [
+      "0x82026644"
+    ]
+  },
+  {
+    "id": 207,
+    "en": "Surprise Roll",
+    "addresses": [
+      "0x82026660"
+    ]
+  },
+  {
+    "id": 208,
+    "en": "Nemesis Counter",
+    "addresses": [
+      "0x8202667c"
+    ]
+  },
+  {
+    "id": 209,
+    "en": "Somersault Kick",
+    "addresses": [
+      "0x8202669c"
+    ]
+  },
+  {
+    "id": 210,
+    "en": "Justice Blade",
+    "addresses": [
+      "0x820266bc"
+    ]
+  },
+  {
+    "id": 211,
+    "en": "Moon Slicer",
+    "addresses": [
+      "0x820266d8"
+    ]
+  },
+  {
+    "id": 212,
+    "en": "Sonic Boom",
+    "addresses": [
+      "0x820266f0"
+    ]
+  },
+  {
+    "id": 213,
+    "en": "Smiley",
+    "addresses": [
+      "0x82026708"
+    ]
+  },
+  {
+    "id": 214,
+    "en": "Healing",
+    "addresses": [
+      "0x82026718"
+    ]
+  },
+  {
+    "id": 215,
+    "en": "Barrier",
+    "addresses": [
+      "0x82026728"
+    ]
+  },
+  {
+    "id": 216,
+    "en": "Rocket Jump",
+    "addresses": [
+      "0x82026738"
+    ]
+  },
+  {
+    "id": 217,
+    "en": "Airborne Smiley Staff",
+    "addresses": [
+      "0x82026750"
+    ]
+  },
+  {
+    "id": 218,
+    "en": "Smiley Staff",
+    "addresses": [
+      "0x8202677c"
+    ]
+  },
+  {
+    "id": 219,
+    "en": "Darn You!",
+    "addresses": [
+      "0x82026798"
+    ]
+  },
+  {
+    "id": 220,
+    "en": "Holy Spin",
+    "addresses": [
+      "0x820267ac"
+    ]
+  },
+  {
+    "id": 221,
+    "en": "Oof!",
+    "addresses": [
+      "0x820267c0"
+    ]
+  },
+  {
+    "id": 222,
+    "en": "Lightning Shift",
+    "addresses": [
+      "0x820267cc"
+    ]
+  },
+  {
+    "id": 223,
+    "en": "Thunderblight",
+    "addresses": [
+      "0x820267ec"
+    ]
+  },
+  {
+    "id": 224,
+    "en": "Lightning Palm",
+    "addresses": [
+      "0x82026808"
+    ]
+  },
+  {
+    "id": 225,
+    "en": "Fireblight",
+    "addresses": [
+      "0x82026828"
+    ]
+  },
+  {
+    "id": 226,
+    "en": "Ibushi Thunderclap Kick",
+    "addresses": [
+      "0x82026840"
+    ]
+  },
+  {
+    "id": 227,
+    "en": "Ibushi Shadowless Kick",
+    "addresses": [
+      "0x82026870"
+    ]
+  },
+  {
+    "id": 228,
+    "en": "Ibushi Ambush Spin",
+    "addresses": [
+      "0x820268a0"
+    ]
+  },
+  {
+    "id": 229,
+    "en": "Ibushi Sky Dance",
+    "addresses": [
+      "0x820268c8"
+    ]
+  },
+  {
+    "id": 230,
+    "en": "Ibushi Shadowless Dash",
+    "addresses": [
+      "0x820268ec"
+    ]
+  },
+  {
+    "id": 231,
+    "en": "Ibushi Human Top",
+    "addresses": [
+      "0x8202691c"
+    ]
+  },
+  {
+    "id": 232,
+    "en": "Ibushi Mirage Sword",
+    "addresses": [
+      "0x82026940"
+    ]
+  },
+  {
+    "id": 233,
+    "en": "High Magic: Fire Blaster",
+    "addresses": [
+      "0x82026968"
+    ]
+  },
+  {
+    "id": 234,
+    "en": "High Magic: Tornado",
+    "addresses": [
+      "0x8202699c"
+    ]
+  },
+  {
+    "id": 235,
+    "en": "High Magic: Ice Field",
+    "addresses": [
+      "0x820269c4"
+    ]
+  },
+  {
+    "id": 236,
+    "en": "High Magic: Thunderbolt",
+    "addresses": [
+      "0x820269f0"
+    ]
+  },
+  {
+    "id": 237,
+    "en": "High Magic: Fire Wall",
+    "addresses": [
+      "0x82026a20"
+    ]
+  },
+  {
+    "id": 238,
+    "en": "High Magic: Fireball",
+    "addresses": [
+      "0x82026a4c"
+    ]
+  },
+  {
+    "id": 239,
+    "en": "N-Max (Story Mode only)",
+    "addresses": [
+      "0x82026a78"
+    ]
+  },
+  {
+    "id": 240,
+    "en": "Ibushi Triple Skull Stomp",
+    "addresses": [
+      "0x82026aa8"
+    ]
+  },
+  {
+    "id": 241,
+    "en": "Ibushi Shackle Staff",
+    "addresses": [
+      "0x82026adc"
+    ]
+  },
+  {
+    "id": 242,
+    "en": "Ibushi Wall of Wind",
+    "addresses": [
+      "0x82026b08"
+    ]
+  },
+  {
+    "id": 243,
+    "en": "Ibushi Dancing Staff",
+    "addresses": [
+      "0x82026b30"
+    ]
+  },
+  {
+    "id": 244,
+    "en": "Honcho Burner",
+    "addresses": [
+      "0x82026b5c"
+    ]
+  },
+  {
+    "id": 245,
+    "en": "Honcho Hyperdrive",
+    "addresses": [
+      "0x82026b78"
+    ]
+  },
+  {
+    "id": 246,
+    "en": "Honcho Miracle",
+    "addresses": [
+      "0x82026b9c"
+    ]
+  },
+  {
+    "id": 247,
+    "en": "Honcho Maximum",
+    "addresses": [
+      "0x82026bbc"
+    ]
+  },
+  {
+    "id": 248,
+    "en": "Honcho Finale",
+    "addresses": [
+      "0x82026bdc"
+    ]
+  },
+  {
+    "id": 249,
+    "en": "Honcho Special",
+    "addresses": [
+      "0x82026bf8"
+    ]
+  },
+  {
+    "id": 250,
+    "en": "Honcho Dynamite",
+    "addresses": [
+      "0x82026c18"
+    ]
+  },
+  {
+    "id": 251,
+    "en": "Han Burner",
+    "addresses": [
+      "0x82026c38"
+    ]
+  },
+  {
+    "id": 252,
+    "en": "Han Hyperdrive",
+    "addresses": [
+      "0x82026c50"
+    ]
+  },
+  {
+    "id": 253,
+    "en": "Han Miracle",
+    "addresses": [
+      "0x82026c70"
+    ]
+  },
+  {
+    "id": 254,
+    "en": "Han Maximum",
+    "addresses": [
+      "0x82026c88"
+    ]
+  },
+  {
+    "id": 255,
+    "en": "Han Finale",
+    "addresses": [
+      "0x82026ca0"
+    ]
+  },
+  {
+    "id": 256,
+    "en": "Han Special",
+    "addresses": [
+      "0x82026cb8"
+    ]
+  },
+  {
+    "id": 257,
+    "en": "Han Dynamite",
+    "addresses": [
+      "0x82026cd0"
+    ]
+  },
+  {
+    "id": 258,
+    "en": "Russia",
+    "addresses": [
+      "0x8202f76c"
+    ]
+  },
+  {
+    "id": 259,
+    "en": "United States",
+    "addresses": [
+      "0x8202f77c"
+    ]
+  },
+  {
+    "id": 260,
+    "en": "United Kingdom",
+    "addresses": [
+      "0x8202f798"
+    ]
+  },
+  {
+    "id": 261,
+    "en": "Taiwan",
+    "addresses": [
+      "0x8202f7b8"
+    ]
+  },
+  {
+    "id": 262,
+    "en": "Switzerland",
+    "addresses": [
+      "0x8202f7c8"
+    ]
+  },
+  {
+    "id": 263,
+    "en": "Sweden",
+    "addresses": [
+      "0x8202f7e0"
+    ]
+  },
+  {
+    "id": 264,
+    "en": "Spain",
+    "addresses": [
+      "0x8202f7f0"
+    ]
+  },
+  {
+    "id": 265,
+    "en": "South Africa",
+    "addresses": [
+      "0x8202f7fc"
+    ]
+  },
+  {
+    "id": 266,
+    "en": "Slovakia",
+    "addresses": [
+      "0x8202f818"
+    ]
+  },
+  {
+    "id": 267,
+    "en": "Singapore",
+    "addresses": [
+      "0x8202f82c"
+    ]
+  },
+  {
+    "id": 268,
+    "en": "Portugal",
+    "addresses": [
+      "0x8202f840"
+    ]
+  },
+  {
+    "id": 269,
+    "en": "Poland",
+    "addresses": [
+      "0x8202f854"
+    ]
+  },
+  {
+    "id": 270,
+    "en": "Norway",
+    "addresses": [
+      "0x8202f864"
+    ]
+  },
+  {
+    "id": 271,
+    "en": "New Zealand",
+    "addresses": [
+      "0x8202f874"
+    ]
+  },
+  {
+    "id": 272,
+    "en": "Netherlands",
+    "addresses": [
+      "0x8202f88c"
+    ]
+  },
+  {
+    "id": 273,
+    "en": "Mexico",
+    "addresses": [
+      "0x8202f8a4"
+    ]
+  },
+  {
+    "id": 274,
+    "en": "Korea",
+    "addresses": [
+      "0x8202f8b4"
+    ]
+  },
+  {
+    "id": 275,
+    "en": "Japan",
+    "addresses": [
+      "0x8202f8c0"
+    ]
+  },
+  {
+    "id": 276,
+    "en": "Italy",
+    "addresses": [
+      "0x8202f8cc"
+    ]
+  },
+  {
+    "id": 277,
+    "en": "Ireland",
+    "addresses": [
+      "0x8202f8d8"
+    ]
+  },
+  {
+    "id": 278,
+    "en": "India",
+    "addresses": [
+      "0x8202f8e8"
+    ]
+  },
+  {
+    "id": 279,
+    "en": "Hungary",
+    "addresses": [
+      "0x8202f8f4"
+    ]
+  },
+  {
+    "id": 280,
+    "en": "Hong Kong SAR",
+    "addresses": [
+      "0x8202f904"
+    ]
+  },
+  {
+    "id": 281,
+    "en": "Greece",
+    "addresses": [
+      "0x8202f920"
+    ]
+  },
+  {
+    "id": 282,
+    "en": "Germany",
+    "addresses": [
+      "0x8202f930"
+    ]
+  },
+  {
+    "id": 283,
+    "en": "France",
+    "addresses": [
+      "0x8202f940"
+    ]
+  },
+  {
+    "id": 284,
+    "en": "Finland",
+    "addresses": [
+      "0x8202f950"
+    ]
+  },
+  {
+    "id": 285,
+    "en": "Denmark",
+    "addresses": [
+      "0x8202f960"
+    ]
+  },
+  {
+    "id": 286,
+    "en": "Czech Republic",
+    "addresses": [
+      "0x8202f970"
+    ]
+  },
+  {
+    "id": 287,
+    "en": "Colombia",
+    "addresses": [
+      "0x8202f990"
+    ]
+  },
+  {
+    "id": 288,
+    "en": "China",
+    "addresses": [
+      "0x8202f9a4"
+    ]
+  },
+  {
+    "id": 289,
+    "en": "Chile",
+    "addresses": [
+      "0x8202f9b0"
+    ]
+  },
+  {
+    "id": 290,
+    "en": "Canada",
+    "addresses": [
+      "0x8202f9bc"
+    ]
+  },
+  {
+    "id": 291,
+    "en": "Brazil",
+    "addresses": [
+      "0x8202f9cc"
+    ]
+  },
+  {
+    "id": 292,
+    "en": "Belgium",
+    "addresses": [
+      "0x8202f9dc"
+    ]
+  },
+  {
+    "id": 293,
+    "en": "Austria",
+    "addresses": [
+      "0x8202f9ec"
+    ]
+  },
+  {
+    "id": 294,
+    "en": "Australia",
+    "addresses": [
+      "0x8202f9fc"
+    ]
+  },
+  {
+    "id": 295,
+    "en": "Unknown",
+    "addresses": [
+      "0x8202fa10"
+    ]
+  },
+  {
+    "id": 296,
+    "en": "Total",
+    "addresses": [
+      "0x8202fa20"
+    ]
+  },
+  {
+    "id": 297,
+    "en": "Defaults",
+    "addresses": [
+      "0x8202fa2c"
+    ]
+  },
+  {
+    "id": 298,
+    "en": "Random",
+    "addresses": [
+      "0x8202fa40"
+    ]
+  },
+  {
+    "id": 299,
+    "en": "None",
+    "addresses": [
+      "0x8202fa50"
+    ]
+  },
+  {
+    "id": 300,
+    "en": "Trap",
+    "addresses": [
+      "0x8202fa5c"
+    ]
+  },
+  {
+    "id": 301,
+    "en": "Complex Soldiers",
+    "addresses": [
+      "0x8202fa68"
+    ]
+  },
+  {
+    "id": 302,
+    "en": "A Happy New World",
+    "addresses": [
+      "0x8202fa8c"
+    ]
+  },
+  {
+    "id": 303,
+    "en": "Notorious Don",
+    "addresses": [
+      "0x8202fab0"
+    ]
+  },
+  {
+    "id": 304,
+    "en": "Heroes' Theme",
+    "addresses": [
+      "0x8202facc"
+    ]
+  },
+  {
+    "id": 305,
+    "en": "Rough and Ready",
+    "addresses": [
+      "0x8202fae8"
+    ]
+  },
+  {
+    "id": 306,
+    "en": "Methods",
+    "addresses": [
+      "0x8202fb08"
+    ]
+  },
+  {
+    "id": 307,
+    "en": "Pointer Bros & Sis",
+    "addresses": [
+      "0x8202fb18"
+    ]
+  },
+  {
+    "id": 308,
+    "en": "\"Toki\" Meki Saxophone",
+    "addresses": [
+      "0x8202fb40"
+    ]
+  },
+  {
+    "id": 309,
+    "en": "Roundabout",
+    "addresses": [
+      "0x8202fb6c"
+    ]
+  },
+  {
+    "id": 310,
+    "en": "I'm Not Alone",
+    "addresses": [
+      "0x8202fb84"
+    ]
+  },
+  {
+    "id": 311,
+    "en": "Bolero Finale",
+    "addresses": [
+      "0x8202fba0"
+    ]
+  },
+  {
+    "id": 312,
+    "en": "The Sword",
+    "addresses": [
+      "0x8202fbbc"
+    ]
+  },
+  {
+    "id": 313,
+    "en": "Dear \"Amadeus\"",
+    "addresses": [
+      "0x8202fbd0"
+    ]
+  },
+  {
+    "id": 314,
+    "en": "It's Alive",
+    "addresses": [
+      "0x8202fbf0"
+    ]
+  },
+  {
+    "id": 315,
+    "en": "Brave Parade",
+    "addresses": [
+      "0x8202fc08"
+    ]
+  },
+  {
+    "id": 316,
+    "en": "The Plot",
+    "addresses": [
+      "0x8202fc24"
+    ]
+  },
+  {
+    "id": 317,
+    "en": "Jazzy Sabotage",
+    "addresses": [
+      "0x8202fc38"
+    ]
+  },
+  {
+    "id": 318,
+    "en": "Indy",
+    "addresses": [
+      "0x8202fc58"
+    ]
+  },
+  {
+    "id": 319,
+    "en": "Shuffler in the Dark",
+    "addresses": [
+      "0x8202fc64"
+    ]
+  },
+  {
+    "id": 320,
+    "en": "Escape from XX",
+    "addresses": [
+      "0x8202fc90"
+    ]
+  },
+  {
+    "id": 321,
+    "en": "Fighters of Pain",
+    "addresses": [
+      "0x8202fcb0"
+    ]
+  },
+  {
+    "id": 322,
+    "en": "Open Your Heart",
+    "addresses": [
+      "0x8202fcd4"
+    ]
+  },
+  {
+    "id": 323,
+    "en": "Throne Room",
+    "addresses": [
+      "0x8202fcf4"
+    ]
+  },
+  {
+    "id": 324,
+    "en": "The Valley",
+    "addresses": [
+      "0x8202fd0c"
+    ]
+  },
+  {
+    "id": 325,
+    "en": "The Waste",
+    "addresses": [
+      "0x8202fd24"
+    ]
+  },
+  {
+    "id": 326,
+    "en": "The Hellhall",
+    "addresses": [
+      "0x8202fd38"
+    ]
+  },
+  {
+    "id": 327,
+    "en": "The Cavern",
+    "addresses": [
+      "0x8202fd54"
+    ]
+  },
+  {
+    "id": 328,
+    "en": "Rogues' Lair",
+    "addresses": [
+      "0x8202fd6c"
+    ]
+  },
+  {
+    "id": 329,
+    "en": "The Church",
+    "addresses": [
+      "0x8202fd88"
+    ]
+  },
+  {
+    "id": 330,
+    "en": "The Bridge",
+    "addresses": [
+      "0x8202fda0"
+    ]
+  },
+  {
+    "id": 331,
+    "en": "The Cemetery",
+    "addresses": [
+      "0x8202fdb8"
+    ]
+  },
+  {
+    "id": 332,
+    "en": "Castle Gates",
+    "addresses": [
+      "0x8202fdd4"
+    ]
+  },
+  {
+    "id": 333,
+    "en": "Castle Halls",
+    "addresses": [
+      "0x8202fdf0"
+    ]
+  },
+  {
+    "id": 334,
+    "en": "Town (Night)",
+    "addresses": [
+      "0x8202fe0c"
+    ]
+  },
+  {
+    "id": 335,
+    "en": "Town (Daytime)",
+    "addresses": [
+      "0x8202fe28"
+    ]
+  },
+  {
+    "id": 336,
+    "en": "The Coliseum",
+    "addresses": [
+      "0x8202fe48"
+    ]
+  },
+  {
+    "id": 337,
+    "en": "Shrine Tunnel",
+    "addresses": [
+      "0x8202fe64"
+    ]
+  },
+  {
+    "id": 338,
+    "en": "Dark Shrine",
+    "addresses": [
+      "0x8202fe80"
+    ]
+  },
+  {
+    "id": 339,
+    "en": "Temple Sanctum",
+    "addresses": [
+      "0x8202fe98"
+    ]
+  },
+  {
+    "id": 340,
+    "en": "Temple On High",
+    "addresses": [
+      "0x8202feb8"
+    ]
+  },
+  {
+    "id": 341,
+    "en": "The Wildwood",
+    "addresses": [
+      "0x8202fed8"
+    ]
+  },
+  {
+    "id": 342,
+    "en": "Old Wargrounds",
+    "addresses": [
+      "0x8202fef4"
+    ]
+  },
+  {
+    "id": 343,
+    "en": "The Village",
+    "addresses": [
+      "0x8202ff14"
+    ]
+  },
+  {
+    "id": 344,
+    "en": "The Meadows",
+    "addresses": [
+      "0x8202ff2c"
+    ]
+  },
+  {
+    "id": 345,
+    "en": "A New Journey",
+    "addresses": [
+      "0x8202ff44"
+    ]
+  },
+  {
+    "id": 346,
+    "en": "Paradise",
+    "addresses": [
+      "0x8202ff60"
+    ]
+  },
+  {
+    "id": 347,
+    "en": "Warrior of Light",
+    "addresses": [
+      "0x8202ff74"
+    ]
+  },
+  {
+    "id": 348,
+    "en": "Geared for Disaster",
+    "addresses": [
+      "0x8202ff98"
+    ]
+  },
+  {
+    "id": 349,
+    "en": "Scenario for Destruction",
+    "addresses": [
+      "0x8202ffc0"
+    ]
+  },
+  {
+    "id": 350,
+    "en": "The Madman's Ball",
+    "addresses": [
+      "0x8202fff4"
+    ]
+  },
+  {
+    "id": 351,
+    "en": "Destiny",
+    "addresses": [
+      "0x82030018"
+    ]
+  },
+  {
+    "id": 352,
+    "en": "The Truth",
+    "addresses": [
+      "0x82030028"
+    ]
+  },
+  {
+    "id": 353,
+    "en": "The Steel Keep",
+    "addresses": [
+      "0x8203003c"
+    ]
+  },
+  {
+    "id": 354,
+    "en": "Battle Beneath the Castle",
+    "addresses": [
+      "0x8203005c"
+    ]
+  },
+  {
+    "id": 355,
+    "en": "Choices",
+    "addresses": [
+      "0x82030090"
+    ]
+  },
+  {
+    "id": 356,
+    "en": "Whose Heart Beats Stronger",
+    "addresses": [
+      "0x820300a0"
+    ]
+  },
+  {
+    "id": 357,
+    "en": "Wings of Defiance",
+    "addresses": [
+      "0x820300d8"
+    ]
+  },
+  {
+    "id": 358,
+    "en": "Vengeance",
+    "addresses": [
+      "0x820300fc"
+    ]
+  },
+  {
+    "id": 359,
+    "en": "Dark Labyrinth",
+    "addresses": [
+      "0x82030110"
+    ]
+  },
+  {
+    "id": 360,
+    "en": "Wizard's Fortress",
+    "addresses": [
+      "0x82030130"
+    ]
+  },
+  {
+    "id": 361,
+    "en": "A Flash of Smitening",
+    "addresses": [
+      "0x82030154"
+    ]
+  },
+  {
+    "id": 362,
+    "en": "Unforeseen Developments",
+    "addresses": [
+      "0x82030180"
+    ]
+  },
+  {
+    "id": 363,
+    "en": "Straight On Till Mourning",
+    "addresses": [
+      "0x820301b0"
+    ]
+  },
+  {
+    "id": 364,
+    "en": "The Puppet's Doubts",
+    "addresses": [
+      "0x820301e4"
+    ]
+  },
+  {
+    "id": 365,
+    "en": "Town of Treachery",
+    "addresses": [
+      "0x8203020c"
+    ]
+  },
+  {
+    "id": 366,
+    "en": "Macho and His Muscle",
+    "addresses": [
+      "0x82030230"
+    ]
+  },
+  {
+    "id": 367,
+    "en": "Grounds of Sorrow",
+    "addresses": [
+      "0x8203025c"
+    ]
+  },
+  {
+    "id": 368,
+    "en": "The Captive Kingdom",
+    "addresses": [
+      "0x82030280"
+    ]
+  },
+  {
+    "id": 369,
+    "en": "Royally Set Up",
+    "addresses": [
+      "0x820302a8"
+    ]
+  },
+  {
+    "id": 370,
+    "en": "Futile Resistance",
+    "addresses": [
+      "0x820302c8"
+    ]
+  },
+  {
+    "id": 371,
+    "en": "Of Mechs and Men",
+    "addresses": [
+      "0x820302ec"
+    ]
+  },
+  {
+    "id": 372,
+    "en": "Menace in the Wood",
+    "addresses": [
+      "0x82030310"
+    ]
+  },
+  {
+    "id": 373,
+    "en": "Prelude to Hope",
+    "addresses": [
+      "0x82030338"
+    ]
+  },
+  {
+    "id": 374,
+    "en": "Awakening",
+    "addresses": [
+      "0x82030358"
+    ]
+  },
+  {
+    "id": 375,
+    "en": "Belus",
+    "addresses": [
+      "0x8203036c"
+    ]
+  },
+  {
+    "id": 376,
+    "en": "Gash",
+    "addresses": [
+      "0x82030378"
+    ]
+  },
+  {
+    "id": 377,
+    "en": "Earth Spirit",
+    "addresses": [
+      "0x82030384"
+    ]
+  },
+  {
+    "id": 378,
+    "en": "Sky Warrior",
+    "addresses": [
+      "0x820303a0"
+    ]
+  },
+  {
+    "id": 379,
+    "en": "Sky Spirit",
+    "addresses": [
+      "0x820303b8"
+    ]
+  },
+  {
+    "id": 380,
+    "en": "Civ. Blimp",
+    "addresses": [
+      "0x820303d0"
+    ]
+  },
+  {
+    "id": 381,
+    "en": "Civ. Wimp",
+    "addresses": [
+      "0x820303e8"
+    ]
+  },
+  {
+    "id": 382,
+    "en": "Civ. Elder",
+    "addresses": [
+      "0x820303fc"
+    ]
+  },
+  {
+    "id": 383,
+    "en": "Civ. Child",
+    "addresses": [
+      "0x82030414"
+    ]
+  },
+  {
+    "id": 384,
+    "en": "Civ. Woman",
+    "addresses": [
+      "0x8203042c"
+    ]
+  },
+  {
+    "id": 385,
+    "en": "Manon",
+    "addresses": [
+      "0x82030444"
+    ]
+  },
+  {
+    "id": 386,
+    "en": "Gambo",
+    "addresses": [
+      "0x82030450"
+    ]
+  },
+  {
+    "id": 387,
+    "en": "Macho",
+    "addresses": [
+      "0x8203045c"
+    ]
+  },
+  {
+    "id": 388,
+    "en": "Golem God",
+    "addresses": [
+      "0x82030468"
+    ]
+  },
+  {
+    "id": 389,
+    "en": "Katrina",
+    "addresses": [
+      "0x8203047c"
+    ]
+  },
+  {
+    "id": 390,
+    "en": "Lucia",
+    "addresses": [
+      "0x8203048c"
+    ]
+  },
+  {
+    "id": 391,
+    "en": "The King",
+    "addresses": [
+      "0x82030498"
+    ]
+  },
+  {
+    "id": 392,
+    "en": "Valgar",
+    "addresses": [
+      "0x820304ac"
+    ]
+  },
+  {
+    "id": 393,
+    "en": "Kanon",
+    "addresses": [
+      "0x820304bc"
+    ]
+  },
+  {
+    "id": 394,
+    "en": "Nicole",
+    "addresses": [
+      "0x820304c8"
+    ]
+  },
+  {
+    "id": 395,
+    "en": "Ginjirou",
+    "addresses": [
+      "0x820304d8"
+    ]
+  },
+  {
+    "id": 396,
+    "en": "Randy",
+    "addresses": [
+      "0x820304ec"
+    ]
+  },
+  {
+    "id": 397,
+    "en": "Serena",
+    "addresses": [
+      "0x820304f8"
+    ]
+  },
+  {
+    "id": 398,
+    "en": "Undead Hero",
+    "addresses": [
+      "0x82030508"
+    ]
+  },
+  {
+    "id": 399,
+    "en": "Contact Machine",
+    "addresses": [
+      "0x82030520"
+    ]
+  },
+  {
+    "id": 400,
+    "en": "The Baron of Belus",
+    "addresses": [
+      "0x82030540"
+    ]
+  },
+  {
+    "id": 401,
+    "en": "Bat",
+    "addresses": [
+      "0x82030568"
+    ]
+  },
+  {
+    "id": 402,
+    "en": "Golden Silver",
+    "addresses": [
+      "0x82030570"
+    ]
+  },
+  {
+    "id": 403,
+    "en": "Gash Deadeye",
+    "addresses": [
+      "0x8203058c"
+    ]
+  },
+  {
+    "id": 404,
+    "en": "The Great Earth Spirit",
+    "addresses": [
+      "0x820305a8"
+    ]
+  },
+  {
+    "id": 405,
+    "en": "Xenovia",
+    "addresses": [
+      "0x820305d8"
+    ]
+  },
+  {
+    "id": 406,
+    "en": "The Sky Warrior",
+    "addresses": [
+      "0x820305e8"
+    ]
+  },
+  {
+    "id": 407,
+    "en": "Royal Knight",
+    "addresses": [
+      "0x82030608"
+    ]
+  },
+  {
+    "id": 408,
+    "en": "Super Zur",
+    "addresses": [
+      "0x82030624"
+    ]
+  },
+  {
+    "id": 409,
+    "en": "The Sky Spirit",
+    "addresses": [
+      "0x82030638"
+    ]
+  },
+  {
+    "id": 410,
+    "en": "Royal Purger",
+    "addresses": [
+      "0x82030658"
+    ]
+  },
+  {
+    "id": 411,
+    "en": "Loper",
+    "addresses": [
+      "0x82030674"
+    ]
+  },
+  {
+    "id": 412,
+    "en": "Royal Mech",
+    "addresses": [
+      "0x82030680"
+    ]
+  },
+  {
+    "id": 413,
+    "en": "Civilian Blimp",
+    "addresses": [
+      "0x82030698"
+    ]
+  },
+  {
+    "id": 414,
+    "en": "Civilian Wimp",
+    "addresses": [
+      "0x820306b8"
+    ]
+  },
+  {
+    "id": 415,
+    "en": "Civilian Elder",
+    "addresses": [
+      "0x820306d4"
+    ]
+  },
+  {
+    "id": 416,
+    "en": "Civilian Child",
+    "addresses": [
+      "0x820306f4"
+    ]
+  },
+  {
+    "id": 417,
+    "en": "Civilian Woman",
+    "addresses": [
+      "0x82030714"
+    ]
+  },
+  {
+    "id": 418,
+    "en": "Deadly Plant",
+    "addresses": [
+      "0x82030734"
+    ]
+  },
+  {
+    "id": 419,
+    "en": "Bee",
+    "addresses": [
+      "0x82030750"
+    ]
+  },
+  {
+    "id": 420,
+    "en": "Wolf",
+    "addresses": [
+      "0x82030758"
+    ]
+  },
+  {
+    "id": 421,
+    "en": "Goblin",
+    "addresses": [
+      "0x82030764"
+    ]
+  },
+  {
+    "id": 422,
+    "en": "Mid",
+    "addresses": [
+      "0x82030774"
+    ]
+  },
+  {
+    "id": 423,
+    "en": "Manon the Brown",
+    "addresses": [
+      "0x8203077c"
+    ]
+  },
+  {
+    "id": 424,
+    "en": "Giant",
+    "addresses": [
+      "0x8203079c"
+    ]
+  },
+  {
+    "id": 425,
+    "en": "Cyclops",
+    "addresses": [
+      "0x820307a8"
+    ]
+  },
+  {
+    "id": 426,
+    "en": "Glute",
+    "addresses": [
+      "0x820307b8"
+    ]
+  },
+  {
+    "id": 427,
+    "en": "Gambo Sinayuma",
+    "addresses": [
+      "0x820307c4"
+    ]
+  },
+  {
+    "id": 428,
+    "en": "Macho Goroh",
+    "addresses": [
+      "0x820307e4"
+    ]
+  },
+  {
+    "id": 429,
+    "en": "The Golem God",
+    "addresses": [
+      "0x820307fc"
+    ]
+  },
+  {
+    "id": 430,
+    "en": "Gargoyle",
+    "addresses": [
+      "0x82030818"
+    ]
+  },
+  {
+    "id": 431,
+    "en": "Undead Rogue",
+    "addresses": [
+      "0x8203082c"
+    ]
+  },
+  {
+    "id": 432,
+    "en": "Royal Mage",
+    "addresses": [
+      "0x82030848"
+    ]
+  },
+  {
+    "id": 433,
+    "en": "Specter",
+    "addresses": [
+      "0x82030860"
+    ]
+  },
+  {
+    "id": 434,
+    "en": "Zombie",
+    "addresses": [
+      "0x82030870"
+    ]
+  },
+  {
+    "id": 435,
+    "en": "Skeleton",
+    "addresses": [
+      "0x82030880"
+    ]
+  },
+  {
+    "id": 436,
+    "en": "Rebel",
+    "addresses": [
+      "0x82030894"
+    ]
+  },
+  {
+    "id": 437,
+    "en": "Royal Blade",
+    "addresses": [
+      "0x820308a0"
+    ]
+  },
+  {
+    "id": 438,
+    "en": "Zur Repticius",
+    "addresses": [
+      "0x820308b8"
+    ]
+  },
+  {
+    "id": 439,
+    "en": "Katrina Sark",
+    "addresses": [
+      "0x820308d4"
+    ]
+  },
+  {
+    "id": 440,
+    "en": "Lucia Valgar",
+    "addresses": [
+      "0x820308f0"
+    ]
+  },
+  {
+    "id": 441,
+    "en": "King Valgar",
+    "addresses": [
+      "0x8203090c"
+    ]
+  },
+  {
+    "id": 442,
+    "en": "Reinhart Valgar",
+    "addresses": [
+      "0x82030924"
+    ]
+  },
+  {
+    "id": 443,
+    "en": "Proto Silver",
+    "addresses": [
+      "0x82030944"
+    ]
+  },
+  {
+    "id": 444,
+    "en": "Kanon the Grey",
+    "addresses": [
+      "0x82030960"
+    ]
+  },
+  {
+    "id": 445,
+    "en": "Han the Hero",
+    "addresses": [
+      "0x82030980"
+    ]
+  },
+  {
+    "id": 446,
+    "en": "Nando",
+    "addresses": [
+      "0x8203099c"
+    ]
+  },
+  {
+    "id": 447,
+    "en": "Nicole Neil",
+    "addresses": [
+      "0x820309a8"
+    ]
+  },
+  {
+    "id": 448,
+    "en": "Ginjirou Ibushi",
+    "addresses": [
+      "0x820309c0"
+    ]
+  },
+  {
+    "id": 449,
+    "en": "Randy the Green",
+    "addresses": [
+      "0x820309e0"
+    ]
+  },
+  {
+    "id": 450,
+    "en": "Samwell Han",
+    "addresses": [
+      "0x82030a00"
+    ]
+  },
+  {
+    "id": 451,
+    "en": "Serena Corsair",
+    "addresses": [
+      "0x82030a18"
+    ]
+  },
+  {
+    "id": 452,
+    "en": "The Undead Hero",
+    "addresses": [
+      "0x82030a38"
+    ]
+  },
+  {
+    "id": 453,
+    "en": "View special moves.",
+    "addresses": [
+      "0x82034fd8"
+    ]
+  },
+  {
+    "id": 454,
+    "en": "End current session and return to Main Menu.",
+    "addresses": [
+      "0x82035000"
+    ]
+  },
+  {
+    "id": 455,
+    "en": "Sets the Starting Position for Player(s)",
+    "addresses": [
+      "0x82035060"
+    ]
+  },
+  {
+    "id": 456,
+    "en": "Set the Connection Type. ",
+    "addresses": [
+      "0x820350b4"
+    ]
+  },
+  {
+    "id": 457,
+    "en": "Display an explanation of the Xbox LIVE Mode.",
+    "addresses": [
+      "0x820350e8"
+    ]
+  },
+  {
+    "id": 458,
+    "en": "Display an explanation of Row Shift.",
+    "addresses": [
+      "0x82035148"
+    ]
+  },
+  {
+    "id": 459,
+    "en": "however, lag after button input during gameplay will become greater.  ",
+    "addresses": [
+      "0x82035198"
+    ]
+  },
+  {
+    "id": 460,
+    "en": "Selecting \"Prioritize Quality\" lessens the frequency of syncing caused by voice chat or connection status; ",
+    "addresses": [
+      "0x82035228"
+    ]
+  },
+  {
+    "id": 461,
+    "en": "Raising this value will result in fewer instances of waiting for\n the match to sync, but lag after button input will increase.",
+    "addresses": [
+      "0x82035300"
+    ]
+  },
+  {
+    "id": 462,
+    "en": "Plays the opening movie from the Saturn version ",
+    "addresses": [
+      "0x82035400"
+    ]
+  },
+  {
+    "id": 463,
+    "en": "Display your Xbox LIVE match records.",
+    "addresses": [
+      "0x82035468"
+    ]
+  },
+  {
+    "id": 464,
+    "en": "Display your local match records.",
+    "addresses": [
+      "0x820354b8"
+    ]
+  },
+  {
+    "id": 465,
+    "en": "Set up game rules.",
+    "addresses": [
+      "0x820354fc"
+    ]
+  },
+  {
+    "id": 466,
+    "en": "Choose how empty player slots are filled.",
+    "addresses": [
+      "0x82035528"
+    ]
+  },
+  {
+    "id": 467,
+    "en": "Choose who is included when judging matches.",
+    "addresses": [
+      "0x82035580"
+    ]
+  },
+  {
+    "id": 468,
+    "en": "Adjust the number of rows.",
+    "addresses": [
+      "0x820355dc"
+    ]
+  },
+  {
+    "id": 469,
+    "en": "Learn about Arcade Mode.",
+    "addresses": [
+      "0x82035614"
+    ]
+  },
+  {
+    "id": 470,
+    "en": "Learn about Training Mode.",
+    "addresses": [
+      "0x82035648"
+    ]
+  },
+  {
+    "id": 471,
+    "en": "Learn about Versus Mode.",
+    "addresses": [
+      "0x82035680"
+    ]
+  },
+  {
+    "id": 472,
+    "en": "Learn about Story Mode.",
+    "addresses": [
+      "0x820356b4"
+    ]
+  },
+  {
+    "id": 473,
+    "en": "Learn about each game mode.",
+    "addresses": [
+      "0x820356e4"
+    ]
+  },
+  {
+    "id": 474,
+    "en": "(Works only when you have graphics set to Remix.)",
+    "addresses": [
+      "0x82035720"
+    ]
+  },
+  {
+    "id": 475,
+    "en": "(Works only when you have graphics set to Original.)",
+    "addresses": [
+      "0x82035788"
+    ]
+  },
+  {
+    "id": 476,
+    "en": "Lock or unlock specific special moves.",
+    "addresses": [
+      "0x820357f8"
+    ]
+  },
+  {
+    "id": 477,
+    "en": "Scale the rate at which MP is consumed.",
+    "addresses": [
+      "0x82035848"
+    ]
+  },
+  {
+    "id": 478,
+    "en": "Create a Versus Mode session Xbox LIVE Party members can join.",
+    "addresses": [
+      "0x82035898"
+    ]
+  },
+  {
+    "id": 479,
+    "en": "Create a Story Mode session Xbox LIVE Party members can join.",
+    "addresses": [
+      "0x82035918"
+    ]
+  },
+  {
+    "id": 480,
+    "en": "Search for Xbox LIVE Party member sessions.",
+    "addresses": [
+      "0x82035998"
+    ]
+  },
+  {
+    "id": 481,
+    "en": "Begin an Xbox LIVE Party.",
+    "addresses": [
+      "0x820359f0"
+    ]
+  },
+  {
+    "id": 482,
+    "en": "6 teams of 2 players fight in this rule set for Remix Mode.",
+    "addresses": [
+      "0x82035a28"
+    ]
+  },
+  {
+    "id": 483,
+    "en": "4 teams of 3 players fight in this rule set for Remix Mode.",
+    "addresses": [
+      "0x82035aa0"
+    ]
+  },
+  {
+    "id": 484,
+    "en": "2 teams of 6 players fight in this rule set for Remix Mode.",
+    "addresses": [
+      "0x82035b18"
+    ]
+  },
+  {
+    "id": 485,
+    "en": "6 teams of 2 players fight in this rule set for Original Mode.",
+    "addresses": [
+      "0x82035b90"
+    ]
+  },
+  {
+    "id": 486,
+    "en": "4 teams of 3 players fight in this rule set for Original Mode.",
+    "addresses": [
+      "0x82035c10"
+    ]
+  },
+  {
+    "id": 487,
+    "en": "2 teams of 6 players fight in this rule set for Original Mode.",
+    "addresses": [
+      "0x82035c90"
+    ]
+  },
+  {
+    "id": 488,
+    "en": "Close all windows.",
+    "addresses": [
+      "0x82035d10"
+    ]
+  },
+  {
+    "id": 489,
+    "en": "Note: Graphics filters are only applied to Original Mode.",
+    "addresses": [
+      "0x82035d38"
+    ]
+  },
+  {
+    "id": 490,
+    "en": "Set the graphics filter.",
+    "addresses": [
+      "0x82035dac"
+    ]
+  },
+  {
+    "id": 491,
+    "en": "Set the graphics mode.",
+    "addresses": [
+      "0x82035de0"
+    ]
+  },
+  {
+    "id": 492,
+    "en": "Limit your search to one country.",
+    "addresses": [
+      "0x82035e10"
+    ]
+  },
+  {
+    "id": 493,
+    "en": "Search for a specific game mode.",
+    "addresses": [
+      "0x82035e58"
+    ]
+  },
+  {
+    "id": 494,
+    "en": "Search for a specific difficulty level.",
+    "addresses": [
+      "0x82035ea0"
+    ]
+  },
+  {
+    "id": 495,
+    "en": "Limit players to one country.",
+    "addresses": [
+      "0x82035ef0"
+    ]
+  },
+  {
+    "id": 496,
+    "en": "Allow Xbox LIVE players to join your game midway.",
+    "addresses": [
+      "0x82035f30"
+    ]
+  },
+  {
+    "id": 497,
+    "en": "Begin a Network match.",
+    "addresses": [
+      "0x82035f94"
+    ]
+  },
+  {
+    "id": 498,
+    "en": "Create the session and wait for players to join.",
+    "addresses": [
+      "0x82035fc8"
+    ]
+  },
+  {
+    "id": 499,
+    "en": "Select your connection method.",
+    "addresses": [
+      "0x8203602c"
+    ]
+  },
+  {
+    "id": 500,
+    "en": "Set the number of slots reserved for inviting friends.",
+    "addresses": [
+      "0x82036070"
+    ]
+  },
+  {
+    "id": 501,
+    "en": "Set the number of players who can join.",
+    "addresses": [
+      "0x820360e0"
+    ]
+  },
+  {
+    "id": 502,
+    "en": "Select rules to use in the game.",
+    "addresses": [
+      "0x82036130"
+    ]
+  },
+  {
+    "id": 503,
+    "en": "Begin searching.",
+    "addresses": [
+      "0x82036174"
+    ]
+  },
+  {
+    "id": 504,
+    "en": "Enable or disable your character restrictions.",
+    "addresses": [
+      "0x82036198"
+    ]
+  },
+  {
+    "id": 505,
+    "en": "Display Xbox LIVE scores.",
+    "addresses": [
+      "0x820361f8"
+    ]
+  },
+  {
+    "id": 506,
+    "en": "Display local scores.",
+    "addresses": [
+      "0x8203622c"
+    ]
+  },
+  {
+    "id": 507,
+    "en": "Host your own Network session.",
+    "addresses": [
+      "0x82036258"
+    ]
+  },
+  {
+    "id": 508,
+    "en": "Search for a System Link session.",
+    "addresses": [
+      "0x82036298"
+    ]
+  },
+  {
+    "id": 509,
+    "en": "Search for a session with certain parameters.",
+    "addresses": [
+      "0x820362e0"
+    ]
+  },
+  {
+    "id": 510,
+    "en": "Search for a session without setting parameters.",
+    "addresses": [
+      "0x82036340"
+    ]
+  },
+  {
+    "id": 511,
+    "en": "Begin a local match.",
+    "addresses": [
+      "0x820363a4"
+    ]
+  },
+  {
+    "id": 512,
+    "en": "Learn about Luck.",
+    "addresses": [
+      "0x820363d0"
+    ]
+  },
+  {
+    "id": 513,
+    "en": "Learn about elements.",
+    "addresses": [
+      "0x820363f4"
+    ]
+  },
+  {
+    "id": 514,
+    "en": "Learn about Karma.",
+    "addresses": [
+      "0x82036420"
+    ]
+  },
+  {
+    "id": 515,
+    "en": "Learn about additional controls.",
+    "addresses": [
+      "0x82036448"
+    ]
+  },
+  {
+    "id": 516,
+    "en": "Learn about recovering from blows.",
+    "addresses": [
+      "0x82036490"
+    ]
+  },
+  {
+    "id": 517,
+    "en": "Learn about forcebacks.",
+    "addresses": [
+      "0x820364d8"
+    ]
+  },
+  {
+    "id": 518,
+    "en": "Learn about counters.",
+    "addresses": [
+      "0x82036508"
+    ]
+  },
+  {
+    "id": 519,
+    "en": "Learn about backsteps.",
+    "addresses": [
+      "0x82036534"
+    ]
+  },
+  {
+    "id": 520,
+    "en": "Learn about stuns.",
+    "addresses": [
+      "0x82036564"
+    ]
+  },
+  {
+    "id": 521,
+    "en": "Learn how MP is recovered.",
+    "addresses": [
+      "0x8203658c"
+    ]
+  },
+  {
+    "id": 522,
+    "en": "Learn how to command the Undead Hero.",
+    "addresses": [
+      "0x820365c8"
+    ]
+  },
+  {
+    "id": 523,
+    "en": "Learn how leveling up works.",
+    "addresses": [
+      "0x82036614"
+    ]
+  },
+  {
+    "id": 524,
+    "en": "Learn how to block.",
+    "addresses": [
+      "0x82036650"
+    ]
+  },
+  {
+    "id": 525,
+    "en": "Learn about special moves.",
+    "addresses": [
+      "0x82036678"
+    ]
+  },
+  {
+    "id": 526,
+    "en": "Learn how to use magic.",
+    "addresses": [
+      "0x820366b0"
+    ]
+  },
+  {
+    "id": 527,
+    "en": "Learn about basic attacks.",
+    "addresses": [
+      "0x820366e0"
+    ]
+  },
+  {
+    "id": 528,
+    "en": "Learn how to dash.",
+    "addresses": [
+      "0x82036718"
+    ]
+  },
+  {
+    "id": 529,
+    "en": "Learn how to move your character.",
+    "addresses": [
+      "0x82036740"
+    ]
+  },
+  {
+    "id": 530,
+    "en": "View special tips for pros.",
+    "addresses": [
+      "0x82036784"
+    ]
+  },
+  {
+    "id": 531,
+    "en": "View advanced instructions.",
+    "addresses": [
+      "0x820367bc"
+    ]
+  },
+  {
+    "id": 532,
+    "en": "View basic instructions.",
+    "addresses": [
+      "0x820367f4"
+    ]
+  },
+  {
+    "id": 533,
+    "en": "Lock or unlock certain special moves.",
+    "addresses": [
+      "0x82036828"
+    ]
+  },
+  {
+    "id": 534,
+    "en": "Scale how much MP your magic uses.",
+    "addresses": [
+      "0x82036878"
+    ]
+  },
+  {
+    "id": 535,
+    "en": "Set the maximum selectable level.",
+    "addresses": [
+      "0x820368c0"
+    ]
+  },
+  {
+    "id": 536,
+    "en": "Set the minimum selectable level.",
+    "addresses": [
+      "0x82036908"
+    ]
+  },
+  {
+    "id": 537,
+    "en": "Allow players to use the Civilian Blimp.",
+    "addresses": [
+      "0x82036950"
+    ]
+  },
+  {
+    "id": 538,
+    "en": "Allow players to use the Civilian Wimp.",
+    "addresses": [
+      "0x820369a8"
+    ]
+  },
+  {
+    "id": 539,
+    "en": "Allow players to use the Civilian Elder.",
+    "addresses": [
+      "0x820369f8"
+    ]
+  },
+  {
+    "id": 540,
+    "en": "Allow players to use the Civilian Child.",
+    "addresses": [
+      "0x82036a50"
+    ]
+  },
+  {
+    "id": 541,
+    "en": "Allow players to use the Civilian Woman.",
+    "addresses": [
+      "0x82036aa8"
+    ]
+  },
+  {
+    "id": 542,
+    "en": "Allow players to use Nando.",
+    "addresses": [
+      "0x82036afc"
+    ]
+  },
+  {
+    "id": 543,
+    "en": "Allow players to use the Wolf.",
+    "addresses": [
+      "0x82036b34"
+    ]
+  },
+  {
+    "id": 544,
+    "en": "Allow players to use the Loper.",
+    "addresses": [
+      "0x82036b78"
+    ]
+  },
+  {
+    "id": 545,
+    "en": "Allow players to use the Goblin.",
+    "addresses": [
+      "0x82036bb8"
+    ]
+  },
+  {
+    "id": 546,
+    "en": "Allow players to use the Gargoyle.",
+    "addresses": [
+      "0x82036c00"
+    ]
+  },
+  {
+    "id": 547,
+    "en": "Allow players to use Mid.",
+    "addresses": [
+      "0x82036c48"
+    ]
+  },
+  {
+    "id": 548,
+    "en": "Allow players to use the Giant.",
+    "addresses": [
+      "0x82036c80"
+    ]
+  },
+  {
+    "id": 549,
+    "en": "Allow players to use the Cyclops.",
+    "addresses": [
+      "0x82036cc0"
+    ]
+  },
+  {
+    "id": 550,
+    "en": "Allow players to use the Golem God.",
+    "addresses": [
+      "0x82036d08"
+    ]
+  },
+  {
+    "id": 551,
+    "en": "Allow players to use the Royal Mech.",
+    "addresses": [
+      "0x82036d50"
+    ]
+  },
+  {
+    "id": 552,
+    "en": "Allow players to use the Royal Mage.",
+    "addresses": [
+      "0x82036da0"
+    ]
+  },
+  {
+    "id": 553,
+    "en": "Allow players to use the Royal Purger.",
+    "addresses": [
+      "0x82036df0"
+    ]
+  },
+  {
+    "id": 554,
+    "en": "Allow players to use the Zombie.",
+    "addresses": [
+      "0x82036e40"
+    ]
+  },
+  {
+    "id": 555,
+    "en": "Allow players to use the Skeleton.",
+    "addresses": [
+      "0x82036e88"
+    ]
+  },
+  {
+    "id": 556,
+    "en": "Allow players to use the Rebel.",
+    "addresses": [
+      "0x82036ed0"
+    ]
+  },
+  {
+    "id": 557,
+    "en": "Allow players to use the Royal Blade.",
+    "addresses": [
+      "0x82036f10"
+    ]
+  },
+  {
+    "id": 558,
+    "en": "Allow players to use the Royal Knight.",
+    "addresses": [
+      "0x82036f60"
+    ]
+  },
+  {
+    "id": 559,
+    "en": "Allow players to use the Glutes.",
+    "addresses": [
+      "0x82036fb0"
+    ]
+  },
+  {
+    "id": 560,
+    "en": "Allow players to use Gambo.",
+    "addresses": [
+      "0x82036ff4"
+    ]
+  },
+  {
+    "id": 561,
+    "en": "Allow players to use Macho.",
+    "addresses": [
+      "0x8203702c"
+    ]
+  },
+  {
+    "id": 562,
+    "en": "Allow players to use the Earth Spirit.",
+    "addresses": [
+      "0x82037068"
+    ]
+  },
+  {
+    "id": 563,
+    "en": "Allow players to use the Sky Spirit.",
+    "addresses": [
+      "0x820370b8"
+    ]
+  },
+  {
+    "id": 564,
+    "en": "Allow players to use Xenovia.",
+    "addresses": [
+      "0x82037104"
+    ]
+  },
+  {
+    "id": 565,
+    "en": "Allow players to use the Sky Warrior.",
+    "addresses": [
+      "0x82037140"
+    ]
+  },
+  {
+    "id": 566,
+    "en": "Allow players to use Golden Silver.",
+    "addresses": [
+      "0x82037190"
+    ]
+  },
+  {
+    "id": 567,
+    "en": "Allow players to use Proto Silver.",
+    "addresses": [
+      "0x820371d8"
+    ]
+  },
+  {
+    "id": 568,
+    "en": "Allow players to use Super Zur.",
+    "addresses": [
+      "0x82037220"
+    ]
+  },
+  {
+    "id": 569,
+    "en": "Allow players to use Zur.",
+    "addresses": [
+      "0x82037260"
+    ]
+  },
+  {
+    "id": 570,
+    "en": "Allow players to use Gash.",
+    "addresses": [
+      "0x82037294"
+    ]
+  },
+  {
+    "id": 571,
+    "en": "Allow players to use Katrina.",
+    "addresses": [
+      "0x820372cc"
+    ]
+  },
+  {
+    "id": 572,
+    "en": "Allow players to use Valgar.",
+    "addresses": [
+      "0x82037308"
+    ]
+  },
+  {
+    "id": 573,
+    "en": "Allow players to use Kanon.",
+    "addresses": [
+      "0x82037344"
+    ]
+  },
+  {
+    "id": 574,
+    "en": "Allow players to use the Undead Rogue.",
+    "addresses": [
+      "0x82037380"
+    ]
+  },
+  {
+    "id": 575,
+    "en": "Allow players to use the Undead Hero.",
+    "addresses": [
+      "0x820373d0"
+    ]
+  },
+  {
+    "id": 576,
+    "en": "Allow players to use Serena.",
+    "addresses": [
+      "0x8203741c"
+    ]
+  },
+  {
+    "id": 577,
+    "en": "Allow players to use Nicole.",
+    "addresses": [
+      "0x82037458"
+    ]
+  },
+  {
+    "id": 578,
+    "en": "Allow players to use Randy.",
+    "addresses": [
+      "0x82037494"
+    ]
+  },
+  {
+    "id": 579,
+    "en": "Allow players to use Han the Hero.",
+    "addresses": [
+      "0x820374d0"
+    ]
+  },
+  {
+    "id": 580,
+    "en": "Allow players to use Han.",
+    "addresses": [
+      "0x82037518"
+    ]
+  },
+  {
+    "id": 581,
+    "en": "Note: Turning this on may result in unfair or stalemate matches.",
+    "addresses": [
+      "0x82037550"
+    ]
+  },
+  {
+    "id": 582,
+    "en": "Advanced",
+    "addresses": [
+      "0x820375d4"
+    ]
+  },
+  {
+    "id": 583,
+    "en": "Lock or unlock certain characters.",
+    "addresses": [
+      "0x820375e8"
+    ]
+  },
+  {
+    "id": 584,
+    "en": "Configure Player 12's character.",
+    "addresses": [
+      "0x82037630"
+    ]
+  },
+  {
+    "id": 585,
+    "en": "Configure Player 11's character.",
+    "addresses": [
+      "0x82037678"
+    ]
+  },
+  {
+    "id": 586,
+    "en": "Configure Player 10's character.",
+    "addresses": [
+      "0x820376c0"
+    ]
+  },
+  {
+    "id": 587,
+    "en": "Configure Player 9's character.",
+    "addresses": [
+      "0x82037708"
+    ]
+  },
+  {
+    "id": 588,
+    "en": "Configure Player 8's character.",
+    "addresses": [
+      "0x82037748"
+    ]
+  },
+  {
+    "id": 589,
+    "en": "Configure Player 7's character.",
+    "addresses": [
+      "0x82037788"
+    ]
+  },
+  {
+    "id": 590,
+    "en": "Configure Player 6's character.",
+    "addresses": [
+      "0x820377c8"
+    ]
+  },
+  {
+    "id": 591,
+    "en": "Configure Player 5's character.",
+    "addresses": [
+      "0x82037808"
+    ]
+  },
+  {
+    "id": 592,
+    "en": "Configure Player 4's character.",
+    "addresses": [
+      "0x82037848"
+    ]
+  },
+  {
+    "id": 593,
+    "en": "Configure Player 3's character.",
+    "addresses": [
+      "0x82037888"
+    ]
+  },
+  {
+    "id": 594,
+    "en": "Configure Player 2's character.",
+    "addresses": [
+      "0x820378c8"
+    ]
+  },
+  {
+    "id": 595,
+    "en": "Configure Player 1's character.",
+    "addresses": [
+      "0x82037908"
+    ]
+  },
+  {
+    "id": 596,
+    "en": "Configure Player 12's team.",
+    "addresses": [
+      "0x82037948"
+    ]
+  },
+  {
+    "id": 597,
+    "en": "Configure Player 11's team.",
+    "addresses": [
+      "0x82037980"
+    ]
+  },
+  {
+    "id": 598,
+    "en": "Configure Player 10's team.",
+    "addresses": [
+      "0x820379b8"
+    ]
+  },
+  {
+    "id": 599,
+    "en": "Configure Player 9's team.",
+    "addresses": [
+      "0x820379f0"
+    ]
+  },
+  {
+    "id": 600,
+    "en": "Configure Player 8's team.",
+    "addresses": [
+      "0x82037a28"
+    ]
+  },
+  {
+    "id": 601,
+    "en": "Configure Player 7's team.",
+    "addresses": [
+      "0x82037a60"
+    ]
+  },
+  {
+    "id": 602,
+    "en": "Configure Player 6's team.",
+    "addresses": [
+      "0x82037a98"
+    ]
+  },
+  {
+    "id": 603,
+    "en": "Configure Player 5's team.",
+    "addresses": [
+      "0x82037ad0"
+    ]
+  },
+  {
+    "id": 604,
+    "en": "Configure Player 4's team.",
+    "addresses": [
+      "0x82037b08"
+    ]
+  },
+  {
+    "id": 605,
+    "en": "Configure Player 3's team.",
+    "addresses": [
+      "0x82037b40"
+    ]
+  },
+  {
+    "id": 606,
+    "en": "Configure Player 2's team.",
+    "addresses": [
+      "0x82037b78"
+    ]
+  },
+  {
+    "id": 607,
+    "en": "Configure Player 1's team.",
+    "addresses": [
+      "0x82037bb0"
+    ]
+  },
+  {
+    "id": 608,
+    "en": "Choose how levels are assigned.",
+    "addresses": [
+      "0x82037be8"
+    ]
+  },
+  {
+    "id": 609,
+    "en": "Choose how teams are assigned.",
+    "addresses": [
+      "0x82037c28"
+    ]
+  },
+  {
+    "id": 610,
+    "en": "Choose how characters are assigned.",
+    "addresses": [
+      "0x82037c68"
+    ]
+  },
+  {
+    "id": 611,
+    "en": "Toggle counters.",
+    "addresses": [
+      "0x82037cb0"
+    ]
+  },
+  {
+    "id": 612,
+    "en": "Toggle forcebacks.",
+    "addresses": [
+      "0x82037cd4"
+    ]
+  },
+  {
+    "id": 613,
+    "en": "Toggle \"mental distress\" when low on MP.",
+    "addresses": [
+      "0x82037d00"
+    ]
+  },
+  {
+    "id": 614,
+    "en": "Toggle HP recovery while stunned.",
+    "addresses": [
+      "0x82037d58"
+    ]
+  },
+  {
+    "id": 615,
+    "en": "Toggle stuns.",
+    "addresses": [
+      "0x82037d9c"
+    ]
+  },
+  {
+    "id": 616,
+    "en": "Toggle whether Luck factors into combat.",
+    "addresses": [
+      "0x82037db8"
+    ]
+  },
+  {
+    "id": 617,
+    "en": "Toggle whether elements factor into combat.",
+    "addresses": [
+      "0x82037e10"
+    ]
+  },
+  {
+    "id": 618,
+    "en": "Toggle whether characters can still be attacked after they are killed.",
+    "addresses": [
+      "0x82037e68"
+    ]
+  },
+  {
+    "id": 619,
+    "en": "Toggle whether aerial special moves can be used in endless succession.",
+    "addresses": [
+      "0x82037ef8"
+    ]
+  },
+  {
+    "id": 620,
+    "en": "Toggle the ability some characters have to fly.",
+    "addresses": [
+      "0x82037f88"
+    ]
+  },
+  {
+    "id": 621,
+    "en": "Toggle the ability some characters have to gradually move between rows.",
+    "addresses": [
+      "0x82037fe8"
+    ]
+  },
+  {
+    "id": 622,
+    "en": "Toggle minor damage when blocking normal attacks.",
+    "addresses": [
+      "0x82038078"
+    ]
+  },
+  {
+    "id": 623,
+    "en": "Set a time limit for matches.",
+    "addresses": [
+      "0x820380dc"
+    ]
+  },
+  {
+    "id": 624,
+    "en": "Scale the Strength of combatants.",
+    "addresses": [
+      "0x82038118"
+    ]
+  },
+  {
+    "id": 625,
+    "en": "Set the game mode.",
+    "addresses": [
+      "0x8203815c"
+    ]
+  },
+  {
+    "id": 626,
+    "en": "Select the rules to swap places with.",
+    "addresses": [
+      "0x82038188"
+    ]
+  },
+  {
+    "id": 627,
+    "en": "Select the rules you want to reorder.",
+    "addresses": [
+      "0x820381d8"
+    ]
+  },
+  {
+    "id": 628,
+    "en": "Select the rules to delete.",
+    "addresses": [
+      "0x82038224"
+    ]
+  },
+  {
+    "id": 629,
+    "en": "Rename",
+    "addresses": [
+      "0x8203825c"
+    ]
+  },
+  {
+    "id": 630,
+    "en": "Select the rules to edit.",
+    "addresses": [
+      "0x8203826c"
+    ]
+  },
+  {
+    "id": 631,
+    "en": "Give these rules a name.",
+    "addresses": [
+      "0x820382a0"
+    ]
+  },
+  {
+    "id": 632,
+    "en": "Select a rule set to start from.",
+    "addresses": [
+      "0x820382d8"
+    ]
+  },
+  {
+    "id": 633,
+    "en": "Reorder your rules.",
+    "addresses": [
+      "0x8203831c"
+    ]
+  },
+  {
+    "id": 634,
+    "en": "Delete rules.",
+    "addresses": [
+      "0x82038344"
+    ]
+  },
+  {
+    "id": 635,
+    "en": "Edit your rules.",
+    "addresses": [
+      "0x82038360"
+    ]
+  },
+  {
+    "id": 636,
+    "en": "Create new rules.",
+    "addresses": [
+      "0x82038384"
+    ]
+  },
+  {
+    "id": 637,
+    "en": "Note: Certain character combinations and strategies may result in unfair or stalemate matches.",
+    "addresses": [
+      "0x820383a8"
+    ]
+  },
+  {
+    "id": 638,
+    "en": "This rule set pits 6 teams of 2 players against each other.",
+    "addresses": [
+      "0x82038468"
+    ]
+  },
+  {
+    "id": 639,
+    "en": "This rule set pits 4 teams of 3 players against each other.",
+    "addresses": [
+      "0x820384e0"
+    ]
+  },
+  {
+    "id": 640,
+    "en": "This rule set pits 2 teams of 6 players against each other.",
+    "addresses": [
+      "0x82038558"
+    ]
+  },
+  {
+    "id": 641,
+    "en": "This rule set for Remix Mode randomizes match rules.",
+    "addresses": [
+      "0x820385d0"
+    ]
+  },
+  {
+    "id": 642,
+    "en": "This rule set for Original Mode randomizes match rules.",
+    "addresses": [
+      "0x82038640"
+    ]
+  },
+  {
+    "id": 643,
+    "en": "This rule set for Remix Mode removes all play restrictions.",
+    "addresses": [
+      "0x820386b0"
+    ]
+  },
+  {
+    "id": 644,
+    "en": "This rule set for Original Mode removes all play restrictions.",
+    "addresses": [
+      "0x82038728"
+    ]
+  },
+  {
+    "id": 645,
+    "en": "This rule set for Remix Mode excludes weak characters.",
+    "addresses": [
+      "0x820387a8"
+    ]
+  },
+  {
+    "id": 646,
+    "en": "This rule set for Original Mode excludes weak characters.",
+    "addresses": [
+      "0x82038818"
+    ]
+  },
+  {
+    "id": 647,
+    "en": "Watch Ending 5 (dark path).",
+    "addresses": [
+      "0x8203888c"
+    ]
+  },
+  {
+    "id": 648,
+    "en": "Watch Ending 5 (light path).",
+    "addresses": [
+      "0x820388c4"
+    ]
+  },
+  {
+    "id": 649,
+    "en": "Watch Ending 4.",
+    "addresses": [
+      "0x82038900"
+    ]
+  },
+  {
+    "id": 650,
+    "en": "Watch Ending 3 (dark path).",
+    "addresses": [
+      "0x82038920"
+    ]
+  },
+  {
+    "id": 651,
+    "en": "Watch Ending 3 (light path).",
+    "addresses": [
+      "0x82038958"
+    ]
+  },
+  {
+    "id": 652,
+    "en": "Watch Ending 2.",
+    "addresses": [
+      "0x82038994"
+    ]
+  },
+  {
+    "id": 653,
+    "en": "Watch Ending 1.",
+    "addresses": [
+      "0x820389b4"
+    ]
+  },
+  {
+    "id": 654,
+    "en": "Read about each game stage.",
+    "addresses": [
+      "0x820389d4"
+    ]
+  },
+  {
+    "id": 655,
+    "en": "Read about the game's characters.",
+    "addresses": [
+      "0x82038a10"
+    ]
+  },
+  {
+    "id": 656,
+    "en": "Listen to sound effects from the game.",
+    "addresses": [
+      "0x82038a58"
+    ]
+  },
+  {
+    "id": 657,
+    "en": "Listen to music from the game.",
+    "addresses": [
+      "0x82038aa8"
+    ]
+  },
+  {
+    "id": 658,
+    "en": "Open the Ending Gallery.",
+    "addresses": [
+      "0x82038ae8"
+    ]
+  },
+  {
+    "id": 659,
+    "en": "Open the Story Gallery.",
+    "addresses": [
+      "0x82038b1c"
+    ]
+  },
+  {
+    "id": 660,
+    "en": "Open the Character Gallery.",
+    "addresses": [
+      "0x82038b4c"
+    ]
+  },
+  {
+    "id": 661,
+    "en": "Open the Sound Gallery.",
+    "addresses": [
+      "0x82038b84"
+    ]
+  },
+  {
+    "id": 662,
+    "en": "Adjust the CPU's Luck.",
+    "addresses": [
+      "0x82038bb4"
+    ]
+  },
+  {
+    "id": 663,
+    "en": "Adjust the CPU's Agility.",
+    "addresses": [
+      "0x82038be4"
+    ]
+  },
+  {
+    "id": 664,
+    "en": "Adjust the CPU's Mentality.",
+    "addresses": [
+      "0x82038c18"
+    ]
+  },
+  {
+    "id": 665,
+    "en": "Adjust the CPU's Intelligence.",
+    "addresses": [
+      "0x82038c50"
+    ]
+  },
+  {
+    "id": 666,
+    "en": "Adjust the CPU's Vitality.",
+    "addresses": [
+      "0x82038c90"
+    ]
+  },
+  {
+    "id": 667,
+    "en": "Adjust the CPU's Strength.",
+    "addresses": [
+      "0x82038cc8"
+    ]
+  },
+  {
+    "id": 668,
+    "en": "Adjust the CPU's level.",
+    "addresses": [
+      "0x82038d00"
+    ]
+  },
+  {
+    "id": 669,
+    "en": "Select how the CPU recovers MP.",
+    "addresses": [
+      "0x82038d30"
+    ]
+  },
+  {
+    "id": 670,
+    "en": "Tell the CPU whether to break out of stuns/freezes.",
+    "addresses": [
+      "0x82038d70"
+    ]
+  },
+  {
+    "id": 671,
+    "en": "Tell the CPU whether or not to block.",
+    "addresses": [
+      "0x82038dd8"
+    ]
+  },
+  {
+    "id": 672,
+    "en": "Tell the CPU how to recover from blows.",
+    "addresses": [
+      "0x82038e28"
+    ]
+  },
+  {
+    "id": 673,
+    "en": "Tell the CPU to stand, jump, or crouch.",
+    "addresses": [
+      "0x82038e78"
+    ]
+  },
+  {
+    "id": 674,
+    "en": "Adjust your character's Luck.",
+    "addresses": [
+      "0x82038ec8"
+    ]
+  },
+  {
+    "id": 675,
+    "en": "Adjust your character's Agility.",
+    "addresses": [
+      "0x82038f08"
+    ]
+  },
+  {
+    "id": 676,
+    "en": "Adjust your character's Mentality.",
+    "addresses": [
+      "0x82038f50"
+    ]
+  },
+  {
+    "id": 677,
+    "en": "Adjust your character's Intelligence.",
+    "addresses": [
+      "0x82038f98"
+    ]
+  },
+  {
+    "id": 678,
+    "en": "Adjust your character's Vitality.",
+    "addresses": [
+      "0x82038fe8"
+    ]
+  },
+  {
+    "id": 679,
+    "en": "Adjust your character's Strength.",
+    "addresses": [
+      "0x82039030"
+    ]
+  },
+  {
+    "id": 680,
+    "en": "Adjust your character's level.",
+    "addresses": [
+      "0x82039074"
+    ]
+  },
+  {
+    "id": 681,
+    "en": "Select how your character recovers MP.",
+    "addresses": [
+      "0x820390b8"
+    ]
+  },
+  {
+    "id": 682,
+    "en": "Open the setup menu for your computer opponent.",
+    "addresses": [
+      "0x82039108"
+    ]
+  },
+  {
+    "id": 683,
+    "en": "Open the setup menu for your character.",
+    "addresses": [
+      "0x82039168"
+    ]
+  },
+  {
+    "id": 684,
+    "en": "End this play session and return to the title screen.",
+    "addresses": [
+      "0x820391b8"
+    ]
+  },
+  {
+    "id": 685,
+    "en": "End this play session and pick another character.",
+    "addresses": [
+      "0x82039228"
+    ]
+  },
+  {
+    "id": 686,
+    "en": "Set up your training session.",
+    "addresses": [
+      "0x8203928c"
+    ]
+  },
+  {
+    "id": 687,
+    "en": "Show a list of your character's moves.",
+    "addresses": [
+      "0x820392c8"
+    ]
+  },
+  {
+    "id": 688,
+    "en": "Resume the game.",
+    "addresses": [
+      "0x82039318"
+    ]
+  },
+  {
+    "id": 689,
+    "en": "Revert to the default settings.",
+    "addresses": [
+      "0x82039340"
+    ]
+  },
+  {
+    "id": 690,
+    "en": "Set the volume for voices.",
+    "addresses": [
+      "0x82039380"
+    ]
+  },
+  {
+    "id": 691,
+    "en": "Set the volume for sound effects.",
+    "addresses": [
+      "0x820393b8"
+    ]
+  },
+  {
+    "id": 692,
+    "en": "Set the volume for music.",
+    "addresses": [
+      "0x820393fc"
+    ]
+  },
+  {
+    "id": 693,
+    "en": "Adjust screen brightness.",
+    "addresses": [
+      "0x82039430"
+    ]
+  },
+  {
+    "id": 694,
+    "en": "Adjust how much the screen shakes.",
+    "addresses": [
+      "0x82039468"
+    ]
+  },
+  {
+    "id": 695,
+    "en": "Show or hide the numbers that indicate damage dealt.",
+    "addresses": [
+      "0x820394b0"
+    ]
+  },
+  {
+    "id": 696,
+    "en": "Show or hide the numbers that count your consecutive hits.",
+    "addresses": [
+      "0x82039520"
+    ]
+  },
+  {
+    "id": 697,
+    "en": "Select a storage device for saving your game data.",
+    "addresses": [
+      "0x82039598"
+    ]
+  },
+  {
+    "id": 698,
+    "en": "Open the sound setup menu.",
+    "addresses": [
+      "0x82039600"
+    ]
+  },
+  {
+    "id": 699,
+    "en": "Open the graphics setup menu.",
+    "addresses": [
+      "0x82039638"
+    ]
+  },
+  {
+    "id": 700,
+    "en": "Set up Remix Mode.",
+    "addresses": [
+      "0x82039674"
+    ]
+  },
+  {
+    "id": 701,
+    "en": "Set up Original Mode.",
+    "addresses": [
+      "0x8203969c"
+    ]
+  },
+  {
+    "id": 702,
+    "en": "Open the Remix Mode setup menu.",
+    "addresses": [
+      "0x820396c8"
+    ]
+  },
+  {
+    "id": 703,
+    "en": "Open the Original Mode setup menu.",
+    "addresses": [
+      "0x82039708"
+    ]
+  },
+  {
+    "id": 704,
+    "en": "View the credits.",
+    "addresses": [
+      "0x82039750"
+    ]
+  },
+  {
+    "id": 705,
+    "en": "Open the graphics and sound setup menu.",
+    "addresses": [
+      "0x82039778"
+    ]
+  },
+  {
+    "id": 706,
+    "en": "Open the controller setup menu.",
+    "addresses": [
+      "0x820397c8"
+    ]
+  },
+  {
+    "id": 707,
+    "en": "Get instructions on how to play the game.",
+    "addresses": [
+      "0x82039808"
+    ]
+  },
+  {
+    "id": 708,
+    "en": "Continue the game with a different character.",
+    "addresses": [
+      "0x82039860"
+    ]
+  },
+  {
+    "id": 709,
+    "en": "Set the mode for new Story Mode games.",
+    "addresses": [
+      "0x820398c0"
+    ]
+  },
+  {
+    "id": 710,
+    "en": "Set the difficulty for new Story Mode games.",
+    "addresses": [
+      "0x82039910"
+    ]
+  },
+  {
+    "id": 711,
+    "en": "Start a new Story Mode game from the beginning.",
+    "addresses": [
+      "0x82039970"
+    ]
+  },
+  {
+    "id": 712,
+    "en": "Continue Story Mode from the last stage you saved.",
+    "addresses": [
+      "0x820399d0"
+    ]
+  },
+  {
+    "id": 713,
+    "en": "End the game and return to the Game Library.",
+    "addresses": [
+      "0x82039a38"
+    ]
+  },
+  {
+    "id": 714,
+    "en": "Unlock the full game.",
+    "addresses": [
+      "0x82039a94"
+    ]
+  },
+  {
+    "id": 715,
+    "en": "Learn how to play and configure game settings.",
+    "addresses": [
+      "0x82039ac0"
+    ]
+  },
+  {
+    "id": 716,
+    "en": "Display the list of achievements.",
+    "addresses": [
+      "0x82039b20"
+    ]
+  },
+  {
+    "id": 717,
+    "en": "View the leaderboards.",
+    "addresses": [
+      "0x82039b64"
+    ]
+  },
+  {
+    "id": 718,
+    "en": "Create personalized match rules for Versus Mode.",
+    "addresses": [
+      "0x82039b98"
+    ]
+  },
+  {
+    "id": 719,
+    "en": "View the game galleries.",
+    "addresses": [
+      "0x82039bfc"
+    ]
+  },
+  {
+    "id": 720,
+    "en": "Begin a game in Arcade Mode.",
+    "addresses": [
+      "0x82039c30"
+    ]
+  },
+  {
+    "id": 721,
+    "en": "Sharpen your skills in Training Mode.",
+    "addresses": [
+      "0x82039c70"
+    ]
+  },
+  {
+    "id": 722,
+    "en": "Begin a game in Versus Mode.",
+    "addresses": [
+      "0x82039cbc"
+    ]
+  },
+  {
+    "id": 723,
+    "en": "Begin a game in Story Mode.",
+    "addresses": [
+      "0x82039cf8"
+    ]
+  },
+  {
+    "id": 724,
+    "en": "Special Moves list",
+    "addresses": [
+      "0x82052f7c"
+    ]
+  },
+  {
+    "id": 725,
+    "en": "Starting Position",
+    "addresses": [
+      "0x82052fa4"
+    ]
+  },
+  {
+    "id": 726,
+    "en": "Session Settings ",
+    "addresses": [
+      "0x82052fc8"
+    ]
+  },
+  {
+    "id": 727,
+    "en": "Xbox LIVE Mode ",
+    "addresses": [
+      "0x82052fec"
+    ]
+  },
+  {
+    "id": 728,
+    "en": "Automatic Optimization",
+    "addresses": [
+      "0x8205300c"
+    ]
+  },
+  {
+    "id": 729,
+    "en": "Prioritize Stability ",
+    "addresses": [
+      "0x8205303c"
+    ]
+  },
+  {
+    "id": 730,
+    "en": "Connection type",
+    "addresses": [
+      "0x82053068"
+    ]
+  },
+  {
+    "id": 731,
+    "en": "Row Shift",
+    "addresses": [
+      "0x82053088"
+    ]
+  },
+  {
+    "id": 732,
+    "en": "Prioritize Quality ",
+    "addresses": [
+      "0x8205309c"
+    ]
+  },
+  {
+    "id": 733,
+    "en": "Prioritize Speed ",
+    "addresses": [
+      "0x820530c4"
+    ]
+  },
+  {
+    "id": 734,
+    "en": "Prioritize Connection Settings ",
+    "addresses": [
+      "0x820530e8"
+    ]
+  },
+  {
+    "id": 735,
+    "en": "Equally divided ",
+    "addresses": [
+      "0x82053128"
+    ]
+  },
+  {
+    "id": 736,
+    "en": "Distribution",
+    "addresses": [
+      "0x8205314c"
+    ]
+  },
+  {
+    "id": 737,
+    "en": "Delay Correction",
+    "addresses": [
+      "0x82053168"
+    ]
+  },
+  {
+    "id": 738,
+    "en": "Bonus",
+    "addresses": [
+      "0x8205318c"
+    ]
+  },
+  {
+    "id": 739,
+    "en": "12 team Match",
+    "addresses": [
+      "0x82053198"
+    ]
+  },
+  {
+    "id": 740,
+    "en": "6 team Match",
+    "addresses": [
+      "0x820531b4"
+    ]
+  },
+  {
+    "id": 741,
+    "en": "4 team Match",
+    "addresses": [
+      "0x820531d0"
+    ]
+  },
+  {
+    "id": 742,
+    "en": "2 team Match",
+    "addresses": [
+      "0x820531ec"
+    ]
+  },
+  {
+    "id": 743,
+    "en": "Times Used",
+    "addresses": [
+      "0x82053208"
+    ]
+  },
+  {
+    "id": 744,
+    "en": "Match Count",
+    "addresses": [
+      "0x82053220"
+    ]
+  },
+  {
+    "id": 745,
+    "en": "Xbox LIVE Records",
+    "addresses": [
+      "0x82053238"
+    ]
+  },
+  {
+    "id": 746,
+    "en": "Local Records",
+    "addresses": [
+      "0x8205325c"
+    ]
+  },
+  {
+    "id": 747,
+    "en": "Point Match",
+    "addresses": [
+      "0x82053278"
+    ]
+  },
+  {
+    "id": 748,
+    "en": "Deathmatch",
+    "addresses": [
+      "0x82053290"
+    ]
+  },
+  {
+    "id": 749,
+    "en": "Match Type",
+    "addresses": [
+      "0x820532a8"
+    ]
+  },
+  {
+    "id": 750,
+    "en": "All Decide",
+    "addresses": [
+      "0x820532c0"
+    ]
+  },
+  {
+    "id": 751,
+    "en": "Host Decides",
+    "addresses": [
+      "0x820532d8"
+    ]
+  },
+  {
+    "id": 752,
+    "en": "Randomize",
+    "addresses": [
+      "0x820532f4"
+    ]
+  },
+  {
+    "id": 753,
+    "en": "Leave Empty",
+    "addresses": [
+      "0x82053308"
+    ]
+  },
+  {
+    "id": 754,
+    "en": "Unfilled Slots",
+    "addresses": [
+      "0x82053320"
+    ]
+  },
+  {
+    "id": 755,
+    "en": "Include CPU",
+    "addresses": [
+      "0x82053340"
+    ]
+  },
+  {
+    "id": 756,
+    "en": "Players Only",
+    "addresses": [
+      "0x82053358"
+    ]
+  },
+  {
+    "id": 757,
+    "en": "Eligibility",
+    "addresses": [
+      "0x82053374"
+    ]
+  },
+  {
+    "id": 758,
+    "en": "Rows",
+    "addresses": [
+      "0x8205338c"
+    ]
+  },
+  {
+    "id": 759,
+    "en": "Game Modes",
+    "addresses": [
+      "0x82053398"
+    ]
+  },
+  {
+    "id": 760,
+    "en": "Custom Rules",
+    "addresses": [
+      "0x820533b0"
+    ]
+  },
+  {
+    "id": 761,
+    "en": "Create Session (Versus Mode)",
+    "addresses": [
+      "0x820533cc"
+    ]
+  },
+  {
+    "id": 762,
+    "en": "Create Session (Story Mode)",
+    "addresses": [
+      "0x82053408"
+    ]
+  },
+  {
+    "id": 763,
+    "en": "Xbox LIVE Party",
+    "addresses": [
+      "0x82053440"
+    ]
+  },
+  {
+    "id": 764,
+    "en": "Six-team Match (Remix)",
+    "addresses": [
+      "0x82053460"
+    ]
+  },
+  {
+    "id": 765,
+    "en": "Six-team Match (Original)",
+    "addresses": [
+      "0x82053490"
+    ]
+  },
+  {
+    "id": 766,
+    "en": "Four-team Match (Remix)",
+    "addresses": [
+      "0x820534c4"
+    ]
+  },
+  {
+    "id": 767,
+    "en": "Four-team Match (Original)",
+    "addresses": [
+      "0x820534f4"
+    ]
+  },
+  {
+    "id": 768,
+    "en": "Two-team Match (Remix)",
+    "addresses": [
+      "0x8205352c"
+    ]
+  },
+  {
+    "id": 769,
+    "en": "Two-team Match (Original)",
+    "addresses": [
+      "0x8205355c"
+    ]
+  },
+  {
+    "id": 770,
+    "en": "Default",
+    "addresses": [
+      "0x82053590"
+    ]
+  },
+  {
+    "id": 771,
+    "en": "Filter",
+    "addresses": [
+      "0x820535a0"
+    ]
+  },
+  {
+    "id": 772,
+    "en": "Graphics",
+    "addresses": [
+      "0x820535b0"
+    ]
+  },
+  {
+    "id": 773,
+    "en": "Yours Only",
+    "addresses": [
+      "0x820535c4"
+    ]
+  },
+  {
+    "id": 774,
+    "en": "Country Filter",
+    "addresses": [
+      "0x820535dc"
+    ]
+  },
+  {
+    "id": 775,
+    "en": "Any",
+    "addresses": [
+      "0x820535fc"
+    ]
+  },
+  {
+    "id": 776,
+    "en": "Network Match",
+    "addresses": [
+      "0x82053604"
+    ]
+  },
+  {
+    "id": 777,
+    "en": "Private Slots",
+    "addresses": [
+      "0x82053620"
+    ]
+  },
+  {
+    "id": 778,
+    "en": "Players",
+    "addresses": [
+      "0x8205363c"
+    ]
+  },
+  {
+    "id": 779,
+    "en": "Character",
+    "addresses": [
+      "0x8205364c"
+    ]
+  },
+  {
+    "id": 780,
+    "en": "Play Time",
+    "addresses": [
+      "0x82053660"
+    ]
+  },
+  {
+    "id": 781,
+    "en": "Score",
+    "addresses": [
+      "0x82053674"
+    ]
+  },
+  {
+    "id": 782,
+    "en": "Gamertag",
+    "addresses": [
+      "0x82053680"
+    ]
+  },
+  {
+    "id": 783,
+    "en": "Rank",
+    "addresses": [
+      "0x82053694"
+    ]
+  },
+  {
+    "id": 784,
+    "en": "Friends",
+    "addresses": [
+      "0x820536a0"
+    ]
+  },
+  {
+    "id": 785,
+    "en": "My Position",
+    "addresses": [
+      "0x820536b0"
+    ]
+  },
+  {
+    "id": 786,
+    "en": "Global",
+    "addresses": [
+      "0x820536c8"
+    ]
+  },
+  {
+    "id": 787,
+    "en": "Xbox LIVE",
+    "addresses": [
+      "0x820536d8"
+    ]
+  },
+  {
+    "id": 788,
+    "en": "Local",
+    "addresses": [
+      "0x820536ec"
+    ]
+  },
+  {
+    "id": 789,
+    "en": "Create New",
+    "addresses": [
+      "0x820536f8"
+    ]
+  },
+  {
+    "id": 790,
+    "en": "Connection",
+    "addresses": [
+      "0x82053710"
+    ]
+  },
+  {
+    "id": 791,
+    "en": "Private",
+    "addresses": [
+      "0x82053728"
+    ]
+  },
+  {
+    "id": 792,
+    "en": "Select Rules",
+    "addresses": [
+      "0x82053738"
+    ]
+  },
+  {
+    "id": 793,
+    "en": "Begin Search",
+    "addresses": [
+      "0x82053754"
+    ]
+  },
+  {
+    "id": 794,
+    "en": "Create Session",
+    "addresses": [
+      "0x82053770"
+    ]
+  },
+  {
+    "id": 795,
+    "en": "System Link",
+    "addresses": [
+      "0x82053790"
+    ]
+  },
+  {
+    "id": 796,
+    "en": "Custom Match",
+    "addresses": [
+      "0x820537a8"
+    ]
+  },
+  {
+    "id": 797,
+    "en": "Quick Match",
+    "addresses": [
+      "0x820537c4"
+    ]
+  },
+  {
+    "id": 798,
+    "en": "Local Match",
+    "addresses": [
+      "0x820537dc"
+    ]
+  },
+  {
+    "id": 799,
+    "en": "Luck",
+    "addresses": [
+      "0x820537f4"
+    ]
+  },
+  {
+    "id": 800,
+    "en": "The Elements",
+    "addresses": [
+      "0x82053800"
+    ]
+  },
+  {
+    "id": 801,
+    "en": "Karma",
+    "addresses": [
+      "0x8205381c"
+    ]
+  },
+  {
+    "id": 802,
+    "en": "Additional Controls",
+    "addresses": [
+      "0x82053828"
+    ]
+  },
+  {
+    "id": 803,
+    "en": "Recovering",
+    "addresses": [
+      "0x82053850"
+    ]
+  },
+  {
+    "id": 804,
+    "en": "Countering",
+    "addresses": [
+      "0x82053868"
+    ]
+  },
+  {
+    "id": 805,
+    "en": "Backstepping",
+    "addresses": [
+      "0x82053880"
+    ]
+  },
+  {
+    "id": 806,
+    "en": "Stun & Mental Distress",
+    "addresses": [
+      "0x8205389c"
+    ]
+  },
+  {
+    "id": 807,
+    "en": "Recovering MP",
+    "addresses": [
+      "0x820538cc"
+    ]
+  },
+  {
+    "id": 808,
+    "en": "Issuing Commands",
+    "addresses": [
+      "0x820538e8"
+    ]
+  },
+  {
+    "id": 809,
+    "en": "Leveling Up",
+    "addresses": [
+      "0x8205390c"
+    ]
+  },
+  {
+    "id": 810,
+    "en": "Basic Attacks",
+    "addresses": [
+      "0x82053924"
+    ]
+  },
+  {
+    "id": 811,
+    "en": "Dashing",
+    "addresses": [
+      "0x82053940"
+    ]
+  },
+  {
+    "id": 812,
+    "en": "Moving",
+    "addresses": [
+      "0x82053950"
+    ]
+  },
+  {
+    "id": 813,
+    "en": "Sublime",
+    "addresses": [
+      "0x82053960"
+    ]
+  },
+  {
+    "id": 814,
+    "en": "Basics",
+    "addresses": [
+      "0x82053970"
+    ]
+  },
+  {
+    "id": 815,
+    "en": "Special Moves",
+    "addresses": [
+      "0x82053980"
+    ]
+  },
+  {
+    "id": 816,
+    "en": "MP Consumption",
+    "addresses": [
+      "0x8205399c"
+    ]
+  },
+  {
+    "id": 817,
+    "en": "Maximum Level",
+    "addresses": [
+      "0x820539bc"
+    ]
+  },
+  {
+    "id": 818,
+    "en": "Minimum Level",
+    "addresses": [
+      "0x820539d8"
+    ]
+  },
+  {
+    "id": 819,
+    "en": "Reorder",
+    "addresses": [
+      "0x820539f4"
+    ]
+  },
+  {
+    "id": 820,
+    "en": "Delete",
+    "addresses": [
+      "0x82053a04"
+    ]
+  },
+  {
+    "id": 821,
+    "en": "Edit",
+    "addresses": [
+      "0x82053a14"
+    ]
+  },
+  {
+    "id": 822,
+    "en": "New",
+    "addresses": [
+      "0x82053a20"
+    ]
+  },
+  {
+    "id": 823,
+    "en": "Locked",
+    "addresses": [
+      "0x82053a28"
+    ]
+  },
+  {
+    "id": 824,
+    "en": "Selectable",
+    "addresses": [
+      "0x82053a38"
+    ]
+  },
+  {
+    "id": 825,
+    "en": "15 minutes",
+    "addresses": [
+      "0x82053a50"
+    ]
+  },
+  {
+    "id": 826,
+    "en": "12 minutes",
+    "addresses": [
+      "0x82053a68"
+    ]
+  },
+  {
+    "id": 827,
+    "en": "10 minutes",
+    "addresses": [
+      "0x82053a80"
+    ]
+  },
+  {
+    "id": 828,
+    "en": "7 minutes",
+    "addresses": [
+      "0x82053a98"
+    ]
+  },
+  {
+    "id": 829,
+    "en": "5 minutes",
+    "addresses": [
+      "0x82053aac"
+    ]
+  },
+  {
+    "id": 830,
+    "en": "3 minutes",
+    "addresses": [
+      "0x82053ac0"
+    ]
+  },
+  {
+    "id": 831,
+    "en": "1 minute",
+    "addresses": [
+      "0x82053ad4"
+    ]
+  },
+  {
+    "id": 832,
+    "en": "Levels",
+    "addresses": [
+      "0x82053ae8"
+    ]
+  },
+  {
+    "id": 833,
+    "en": "Teams",
+    "addresses": [
+      "0x82053af8"
+    ]
+  },
+  {
+    "id": 834,
+    "en": "Counters",
+    "addresses": [
+      "0x82053b04"
+    ]
+  },
+  {
+    "id": 835,
+    "en": "Forcebacks",
+    "addresses": [
+      "0x82053b18"
+    ]
+  },
+  {
+    "id": 836,
+    "en": "Mental Distress",
+    "addresses": [
+      "0x82053b30"
+    ]
+  },
+  {
+    "id": 837,
+    "en": "Healthy Stun",
+    "addresses": [
+      "0x82053b50"
+    ]
+  },
+  {
+    "id": 838,
+    "en": "Stun",
+    "addresses": [
+      "0x82053b6c"
+    ]
+  },
+  {
+    "id": 839,
+    "en": "Luck Mods",
+    "addresses": [
+      "0x82053b78"
+    ]
+  },
+  {
+    "id": 840,
+    "en": "Element Mods",
+    "addresses": [
+      "0x82053b8c"
+    ]
+  },
+  {
+    "id": 841,
+    "en": "Corpse Abuse",
+    "addresses": [
+      "0x82053ba8"
+    ]
+  },
+  {
+    "id": 842,
+    "en": "Infinite Aerial Moves",
+    "addresses": [
+      "0x82053bc4"
+    ]
+  },
+  {
+    "id": 843,
+    "en": "Flight",
+    "addresses": [
+      "0x82053bf0"
+    ]
+  },
+  {
+    "id": 844,
+    "en": "Analog Row Movement",
+    "addresses": [
+      "0x82053c00"
+    ]
+  },
+  {
+    "id": 845,
+    "en": "Blocking Damage",
+    "addresses": [
+      "0x82053c28"
+    ]
+  },
+  {
+    "id": 846,
+    "en": "Time Limit",
+    "addresses": [
+      "0x82053c48"
+    ]
+  },
+  {
+    "id": 847,
+    "en": "Strength Boost",
+    "addresses": [
+      "0x82053c60"
+    ]
+  },
+  {
+    "id": 848,
+    "en": "Six-team Match",
+    "addresses": [
+      "0x82053c80"
+    ]
+  },
+  {
+    "id": 849,
+    "en": "Four-team Match",
+    "addresses": [
+      "0x82053ca0"
+    ]
+  },
+  {
+    "id": 850,
+    "en": "Two-team Match",
+    "addresses": [
+      "0x82053cc0"
+    ]
+  },
+  {
+    "id": 851,
+    "en": "Who Knows What Goes? (Remix)",
+    "addresses": [
+      "0x82053ce0"
+    ]
+  },
+  {
+    "id": 852,
+    "en": "Who Knows What Goes? (Original)",
+    "addresses": [
+      "0x82053d20"
+    ]
+  },
+  {
+    "id": 853,
+    "en": "Anything Goes (Remix)",
+    "addresses": [
+      "0x82053d60"
+    ]
+  },
+  {
+    "id": 854,
+    "en": "Anything Goes (Original)",
+    "addresses": [
+      "0x82053d8c"
+    ]
+  },
+  {
+    "id": 855,
+    "en": "Orthodox (Remix)",
+    "addresses": [
+      "0x82053dc0"
+    ]
+  },
+  {
+    "id": 856,
+    "en": "Orthodox (Original)",
+    "addresses": [
+      "0x82053de4"
+    ]
+  },
+  {
+    "id": 857,
+    "en": "Ending 5 (Darkness)",
+    "addresses": [
+      "0x82053e0c"
+    ]
+  },
+  {
+    "id": 858,
+    "en": "Ending 5 (Light)",
+    "addresses": [
+      "0x82053e34"
+    ]
+  },
+  {
+    "id": 859,
+    "en": "Ending 4",
+    "addresses": [
+      "0x82053e58"
+    ]
+  },
+  {
+    "id": 860,
+    "en": "Ending 3 (Darkness)",
+    "addresses": [
+      "0x82053e6c"
+    ]
+  },
+  {
+    "id": 861,
+    "en": "Ending 3 (Light)",
+    "addresses": [
+      "0x82053e94"
+    ]
+  },
+  {
+    "id": 862,
+    "en": "Ending 2",
+    "addresses": [
+      "0x82053eb8"
+    ]
+  },
+  {
+    "id": 863,
+    "en": "Ending 1",
+    "addresses": [
+      "0x82053ecc"
+    ]
+  },
+  {
+    "id": 864,
+    "en": "Stage",
+    "addresses": [
+      "0x82053ee0"
+    ]
+  },
+  {
+    "id": 865,
+    "en": "Voice",
+    "addresses": [
+      "0x82053eec"
+    ]
+  },
+  {
+    "id": 866,
+    "en": "SFX",
+    "addresses": [
+      "0x82053ef8"
+    ]
+  },
+  {
+    "id": 867,
+    "en": "Music",
+    "addresses": [
+      "0x82053f00"
+    ]
+  },
+  {
+    "id": 868,
+    "en": "Endings",
+    "addresses": [
+      "0x82053f0c"
+    ]
+  },
+  {
+    "id": 869,
+    "en": "Characters",
+    "addresses": [
+      "0x82053f1c"
+    ]
+  },
+  {
+    "id": 870,
+    "en": "Sound",
+    "addresses": [
+      "0x82053f34"
+    ]
+  },
+  {
+    "id": 871,
+    "en": "Infinite",
+    "addresses": [
+      "0x82053f40"
+    ]
+  },
+  {
+    "id": 872,
+    "en": "Reverse",
+    "addresses": [
+      "0x82053f54"
+    ]
+  },
+  {
+    "id": 873,
+    "en": "Forward",
+    "addresses": [
+      "0x82053f64"
+    ]
+  },
+  {
+    "id": 874,
+    "en": "Vertical",
+    "addresses": [
+      "0x82053f74"
+    ]
+  },
+  {
+    "id": 875,
+    "en": "On",
+    "addresses": [
+      "0x82053f88"
+    ]
+  },
+  {
+    "id": 876,
+    "en": "AI",
+    "addresses": [
+      "0x82053f90"
+    ]
+  },
+  {
+    "id": 877,
+    "en": "Jump",
+    "addresses": [
+      "0x82053f98"
+    ]
+  },
+  {
+    "id": 878,
+    "en": "Crouch",
+    "addresses": [
+      "0x82053fa4"
+    ]
+  },
+  {
+    "id": 879,
+    "en": "Stand",
+    "addresses": [
+      "0x82053fb4"
+    ]
+  },
+  {
+    "id": 880,
+    "en": "LCK",
+    "addresses": [
+      "0x82053fc0"
+    ]
+  },
+  {
+    "id": 881,
+    "en": "AGI",
+    "addresses": [
+      "0x82053fc8"
+    ]
+  },
+  {
+    "id": 882,
+    "en": "MNT",
+    "addresses": [
+      "0x82053fd0"
+    ]
+  },
+  {
+    "id": 883,
+    "en": "INT",
+    "addresses": [
+      "0x82053fd8"
+    ]
+  },
+  {
+    "id": 884,
+    "en": "VIT",
+    "addresses": [
+      "0x82053fe0"
+    ]
+  },
+  {
+    "id": 885,
+    "en": "STR",
+    "addresses": [
+      "0x82053fe8"
+    ]
+  },
+  {
+    "id": 886,
+    "en": "Level",
+    "addresses": [
+      "0x82053ff0"
+    ]
+  },
+  {
+    "id": 887,
+    "en": "MP Regen",
+    "addresses": [
+      "0x82053ffc"
+    ]
+  },
+  {
+    "id": 888,
+    "en": "Un-stun",
+    "addresses": [
+      "0x82054010"
+    ]
+  },
+  {
+    "id": 889,
+    "en": "Blocking",
+    "addresses": [
+      "0x82054020"
+    ]
+  },
+  {
+    "id": 890,
+    "en": "Recovery",
+    "addresses": [
+      "0x82054034"
+    ]
+  },
+  {
+    "id": 891,
+    "en": "Posture",
+    "addresses": [
+      "0x82054048"
+    ]
+  },
+  {
+    "id": 892,
+    "en": "CPU Settings",
+    "addresses": [
+      "0x82054058"
+    ]
+  },
+  {
+    "id": 893,
+    "en": "Player Settings",
+    "addresses": [
+      "0x82054074"
+    ]
+  },
+  {
+    "id": 894,
+    "en": "Training Setup",
+    "addresses": [
+      "0x82054094"
+    ]
+  },
+  {
+    "id": 895,
+    "en": "Repertoire",
+    "addresses": [
+      "0x820540b4"
+    ]
+  },
+  {
+    "id": 896,
+    "en": "Resume Game",
+    "addresses": [
+      "0x820540cc"
+    ]
+  },
+  {
+    "id": 897,
+    "en": "Voice Volume",
+    "addresses": [
+      "0x820540e4"
+    ]
+  },
+  {
+    "id": 898,
+    "en": "SFX Volume",
+    "addresses": [
+      "0x82054100"
+    ]
+  },
+  {
+    "id": 899,
+    "en": "Music Volume",
+    "addresses": [
+      "0x82054118"
+    ]
+  },
+  {
+    "id": 900,
+    "en": "Mild",
+    "addresses": [
+      "0x82054134"
+    ]
+  },
+  {
+    "id": 901,
+    "en": "Off",
+    "addresses": [
+      "0x82054140"
+    ]
+  },
+  {
+    "id": 902,
+    "en": "Brightness",
+    "addresses": [
+      "0x82054148"
+    ]
+  },
+  {
+    "id": 903,
+    "en": "Screen Quake",
+    "addresses": [
+      "0x82054160"
+    ]
+  },
+  {
+    "id": 904,
+    "en": "Damage Numbers",
+    "addresses": [
+      "0x8205417c"
+    ]
+  },
+  {
+    "id": 905,
+    "en": "Hit Count",
+    "addresses": [
+      "0x8205419c"
+    ]
+  },
+  {
+    "id": 906,
+    "en": "Select Storage Device",
+    "addresses": [
+      "0x820541b0"
+    ]
+  },
+  {
+    "id": 907,
+    "en": "Audio Settings",
+    "addresses": [
+      "0x820541dc"
+    ]
+  },
+  {
+    "id": 908,
+    "en": "Video Settings",
+    "addresses": [
+      "0x820541fc"
+    ]
+  },
+  {
+    "id": 909,
+    "en": "Row Shift (Away)",
+    "addresses": [
+      "0x8205421c"
+    ]
+  },
+  {
+    "id": 910,
+    "en": "Row Shift (Closer)",
+    "addresses": [
+      "0x82054240"
+    ]
+  },
+  {
+    "id": 911,
+    "en": "Block",
+    "addresses": [
+      "0x82054268"
+    ]
+  },
+  {
+    "id": 912,
+    "en": "Commands",
+    "addresses": [
+      "0x82054274"
+    ]
+  },
+  {
+    "id": 913,
+    "en": "Backstep",
+    "addresses": [
+      "0x82054288"
+    ]
+  },
+  {
+    "id": 914,
+    "en": "Strong Attack",
+    "addresses": [
+      "0x8205429c"
+    ]
+  },
+  {
+    "id": 915,
+    "en": "Medium Attack",
+    "addresses": [
+      "0x820542b8"
+    ]
+  },
+  {
+    "id": 916,
+    "en": "Quick Attack",
+    "addresses": [
+      "0x820542d4"
+    ]
+  },
+  {
+    "id": 917,
+    "en": "Vibration",
+    "addresses": [
+      "0x820542f0"
+    ]
+  },
+  {
+    "id": 918,
+    "en": "Remix Mode Settings",
+    "addresses": [
+      "0x82054304"
+    ]
+  },
+  {
+    "id": 919,
+    "en": "Original Mode Settings",
+    "addresses": [
+      "0x8205432c"
+    ]
+  },
+  {
+    "id": 920,
+    "en": "Credits",
+    "addresses": [
+      "0x8205435c"
+    ]
+  },
+  {
+    "id": 921,
+    "en": "Settings",
+    "addresses": [
+      "0x8205436c"
+    ]
+  },
+  {
+    "id": 922,
+    "en": "Controls",
+    "addresses": [
+      "0x82054380"
+    ]
+  },
+  {
+    "id": 923,
+    "en": "How to Play",
+    "addresses": [
+      "0x82054394"
+    ]
+  },
+  {
+    "id": 924,
+    "en": "Select Character",
+    "addresses": [
+      "0x820543ac"
+    ]
+  },
+  {
+    "id": 925,
+    "en": "Remix",
+    "addresses": [
+      "0x820543d0"
+    ]
+  },
+  {
+    "id": 926,
+    "en": "Original",
+    "addresses": [
+      "0x820543dc"
+    ]
+  },
+  {
+    "id": 927,
+    "en": "Mode",
+    "addresses": [
+      "0x820543f0"
+    ]
+  },
+  {
+    "id": 928,
+    "en": "Difficulty",
+    "addresses": [
+      "0x820543fc"
+    ]
+  },
+  {
+    "id": 929,
+    "en": "New Game",
+    "addresses": [
+      "0x82054414"
+    ]
+  },
+  {
+    "id": 930,
+    "en": "Continue",
+    "addresses": [
+      "0x82054428"
+    ]
+  },
+  {
+    "id": 931,
+    "en": "Exit Game",
+    "addresses": [
+      "0x8205443c"
+    ]
+  },
+  {
+    "id": 932,
+    "en": "Unlock Full Game",
+    "addresses": [
+      "0x82054450"
+    ]
+  },
+  {
+    "id": 933,
+    "en": "Help & Options",
+    "addresses": [
+      "0x82054474"
+    ]
+  },
+  {
+    "id": 934,
+    "en": "Achievements",
+    "addresses": [
+      "0x82054494"
+    ]
+  },
+  {
+    "id": 935,
+    "en": "Leaderboards",
+    "addresses": [
+      "0x820544b0"
+    ]
+  },
+  {
+    "id": 936,
+    "en": "Rule Editor",
+    "addresses": [
+      "0x820544cc"
+    ]
+  },
+  {
+    "id": 937,
+    "en": "Gallery",
+    "addresses": [
+      "0x820544e4"
+    ]
+  },
+  {
+    "id": 938,
+    "en": "Arcade",
+    "addresses": [
+      "0x820544f4"
+    ]
+  },
+  {
+    "id": 939,
+    "en": "Training",
+    "addresses": [
+      "0x82054504"
+    ]
+  },
+  {
+    "id": 940,
+    "en": "Versus",
+    "addresses": [
+      "0x82054518"
+    ]
+  },
+  {
+    "id": 941,
+    "en": "Story",
+    "addresses": [
+      "0x82054528"
+    ]
+  },
+  {
+    "id": 942,
+    "en": "There are not enough open slots, unable to join the session.",
+    "addresses": [
+      "0x8205ae28"
+    ]
+  },
+  {
+    "id": 943,
+    "en": "There are not enough open slots in the session for all profiles to join.",
+    "addresses": [
+      "0x8205aea8"
+    ]
+  },
+  {
+    "id": 944,
+    "en": "Xbox LIVE multiplayer functionality requires an Xbox LIVE Gold Membership",
+    "addresses": [
+      "0x8205af40"
+    ]
+  },
+  {
+    "id": 945,
+    "en": "Raising this value will result in fewer instances of waiting for the match to sync, but lag after button input will increase. ",
+    "addresses": [
+      "0x8205afd8"
+    ]
+  },
+  {
+    "id": 946,
+    "en": "You do not have sufficient Xbox LIVE privileges to access this feature. ",
+    "addresses": [
+      "0x8205b0d8"
+    ]
+  },
+  {
+    "id": 947,
+    "en": "Please check the network connection and try again.",
+    "addresses": [
+      "0x8205b170"
+    ]
+  },
+  {
+    "id": 948,
+    "en": "You must be connected to a local network to access System Link features.",
+    "addresses": [
+      "0x8205b1d8"
+    ]
+  },
+  {
+    "id": 949,
+    "en": "Update leaderboards again?",
+    "addresses": [
+      "0x8205b26c"
+    ]
+  },
+  {
+    "id": 950,
+    "en": "Xbox LIVE to update the leaderboards.",
+    "addresses": [
+      "0x8205b2a8"
+    ]
+  },
+  {
+    "id": 951,
+    "en": "You must be signed in to",
+    "addresses": [
+      "0x8205b2f4"
+    ]
+  },
+  {
+    "id": 952,
+    "en": "No friends ranked on the Leaderboard. ",
+    "addresses": [
+      "0x8205b328"
+    ]
+  },
+  {
+    "id": 953,
+    "en": "The selected session is no longer available. ",
+    "addresses": [
+      "0x8205b378"
+    ]
+  },
+  {
+    "id": 954,
+    "en": "Lost connection with Versus player.",
+    "addresses": [
+      "0x8205b3d8"
+    ]
+  },
+  {
+    "id": 955,
+    "en": "Lost connection with Co-op player. ",
+    "addresses": [
+      "0x8205b420"
+    ]
+  },
+  {
+    "id": 956,
+    "en": "Upload the current score. ",
+    "addresses": [
+      "0x8205b468"
+    ]
+  },
+  {
+    "id": 957,
+    "en": "Return to the Main Menu.",
+    "addresses": [
+      "0x8205b4a0"
+    ]
+  },
+  {
+    "id": 958,
+    "en": "End this play session and return to the Main Menu?",
+    "addresses": [
+      "0x8205b4d8"
+    ]
+  },
+  {
+    "id": 959,
+    "en": "[Gamertag] has left the session. ",
+    "addresses": [
+      "0x8205b540"
+    ]
+  },
+  {
+    "id": 960,
+    "en": "[Gamertag] has joined the session. ",
+    "addresses": [
+      "0x8205b588"
+    ]
+  },
+  {
+    "id": 961,
+    "en": "Return to Main Menu.",
+    "addresses": [
+      "0x8205b5d0"
+    ]
+  },
+  {
+    "id": 962,
+    "en": "Due to a connection error, the session cannot be continued.",
+    "addresses": [
+      "0x8205b600"
+    ]
+  },
+  {
+    "id": 963,
+    "en": "Press <BACK> to Skip",
+    "addresses": [
+      "0x8205b678"
+    ]
+  },
+  {
+    "id": 964,
+    "en": "PRESS <A> BUTTON",
+    "addresses": [
+      "0x8205b6a4"
+    ]
+  },
+  {
+    "id": 965,
+    "en": "The connection to Xbox LIVE may have been interrupted. ",
+    "addresses": [
+      "0x8205b6c8"
+    ]
+  },
+  {
+    "id": 966,
+    "en": "Rule Name Check could not be completed. ",
+    "addresses": [
+      "0x8205b738"
+    ]
+  },
+  {
+    "id": 967,
+    "en": "Switch NPC Controls",
+    "addresses": [
+      "0x8205b78c"
+    ]
+  },
+  {
+    "id": 968,
+    "en": "Preparing network connection. ",
+    "addresses": [
+      "0x8205b7b4"
+    ]
+  },
+  {
+    "id": 969,
+    "en": "Someone wants to join your session. ",
+    "addresses": [
+      "0x8205b7f8"
+    ]
+  },
+  {
+    "id": 970,
+    "en": "Checking connection with other players.",
+    "addresses": [
+      "0x8205b848"
+    ]
+  },
+  {
+    "id": 971,
+    "en": "Kick this player?",
+    "addresses": [
+      "0x8205b898"
+    ]
+  },
+  {
+    "id": 972,
+    "en": "Exit the lobby?",
+    "addresses": [
+      "0x8205b8bc"
+    ]
+  },
+  {
+    "id": 973,
+    "en": "Closing session...",
+    "addresses": [
+      "0x8205b8dc"
+    ]
+  },
+  {
+    "id": 974,
+    "en": "Join the session anyway?",
+    "addresses": [
+      "0x8205b904"
+    ]
+  },
+  {
+    "id": 975,
+    "en": "so players may join from other countries.",
+    "addresses": [
+      "0x8205b938"
+    ]
+  },
+  {
+    "id": 976,
+    "en": "The host is not using the country filter,",
+    "addresses": [
+      "0x8205b990"
+    ]
+  },
+  {
+    "id": 977,
+    "en": "Could not join the session because not everyone was able to connect.",
+    "addresses": [
+      "0x8205b9e8"
+    ]
+  },
+  {
+    "id": 978,
+    "en": "Please check your network settings to ensure your NAT type is not restricted.",
+    "addresses": [
+      "0x8205ba78"
+    ]
+  },
+  {
+    "id": 979,
+    "en": "Some network environments may affect Xbox LIVE play.",
+    "addresses": [
+      "0x8205bb18"
+    ]
+  },
+  {
+    "id": 980,
+    "en": "An unexpected error has occurred.",
+    "addresses": [
+      "0x8205bb88"
+    ]
+  },
+  {
+    "id": 981,
+    "en": "A new player has arrived!",
+    "addresses": [
+      "0x8205bbcc"
+    ]
+  },
+  {
+    "id": 982,
+    "en": "Session Options",
+    "addresses": [
+      "0x8205bc00"
+    ]
+  },
+  {
+    "id": 983,
+    "en": "Syncing...",
+    "addresses": [
+      "0x8205bc20"
+    ]
+  },
+  {
+    "id": 984,
+    "en": "Damage",
+    "addresses": [
+      "0x8205bc38"
+    ]
+  },
+  {
+    "id": 985,
+    "en": "A total of 45 unlockable characters for Versus and Arcade Modes!",
+    "addresses": [
+      "0x8205bc4a"
+    ]
+  },
+  {
+    "id": 986,
+    "en": "Leaderboard support in Arcade Mode!",
+    "addresses": [
+      "0x8205bcd2"
+    ]
+  },
+  {
+    "id": 987,
+    "en": "Xbox LIVE matches in Versus Mode!",
+    "addresses": [
+      "0x8205bd22"
+    ]
+  },
+  {
+    "id": 988,
+    "en": "Xbox LIVE co-op for Story Mode!",
+    "addresses": [
+      "0x8205bd6a"
+    ]
+  },
+  {
+    "id": 989,
+    "en": "All branches of Story Mode and multiple endings!",
+    "addresses": [
+      "0x8205bdb2"
+    ]
+  },
+  {
+    "id": 990,
+    "en": "Here's what you get with the full game.",
+    "addresses": [
+      "0x8205be18"
+    ]
+  },
+  {
+    "id": 991,
+    "en": "Voices",
+    "addresses": [
+      "0x8205be68"
+    ]
+  },
+  {
+    "id": 992,
+    "en": "Colors",
+    "addresses": [
+      "0x8205be78"
+    ]
+  },
+  {
+    "id": 993,
+    "en": "Element",
+    "addresses": [
+      "0x8205be88"
+    ]
+  },
+  {
+    "id": 994,
+    "en": "Selecting",
+    "addresses": [
+      "0x8205be98"
+    ]
+  },
+  {
+    "id": 995,
+    "en": "Join",
+    "addresses": [
+      "0x8205beac"
+    ]
+  },
+  {
+    "id": 996,
+    "en": "Start the Game",
+    "addresses": [
+      "0x8205beb8"
+    ]
+  },
+  {
+    "id": 997,
+    "en": "Xbox LIVE Party.",
+    "addresses": [
+      "0x8205bed8"
+    ]
+  },
+  {
+    "id": 998,
+    "en": "To proceed, you must first join an",
+    "addresses": [
+      "0x8205bf00"
+    ]
+  },
+  {
+    "id": 999,
+    "en": "sign in to a profile that is allowed",
+    "addresses": [
+      "0x8205bf48"
+    ]
+  },
+  {
+    "id": 1000,
+    "en": "To play on Xbox LIVE, you must",
+    "addresses": [
+      "0x8205bf94"
+    ]
+  },
+  {
+    "id": 1001,
+    "en": "you are not connected to Xbox LIVE.",
+    "addresses": [
+      "0x8205bfd8"
+    ]
+  },
+  {
+    "id": 1002,
+    "en": "Unable to complete the upload because",
+    "addresses": [
+      "0x8205c020"
+    ]
+  },
+  {
+    "id": 1003,
+    "en": "matched up with. Are you sure?",
+    "addresses": [
+      "0x8205c06c"
+    ]
+  },
+  {
+    "id": 1004,
+    "en": "overwritten by that of the player you are",
+    "addresses": [
+      "0x8205c0b0"
+    ]
+  },
+  {
+    "id": 1005,
+    "en": "Your existing game in progress will be",
+    "addresses": [
+      "0x8205c108"
+    ]
+  },
+  {
+    "id": 1006,
+    "en": "game in progress. Are you sure?",
+    "addresses": [
+      "0x8205c158"
+    ]
+  },
+  {
+    "id": 1007,
+    "en": "This will cause you to lose your existing",
+    "addresses": [
+      "0x8205c198"
+    ]
+  },
+  {
+    "id": 1008,
+    "en": "Your current score will be posted to the leaderboards.",
+    "addresses": [
+      "0x8205c1f0"
+    ]
+  },
+  {
+    "id": 1009,
+    "en": "End the play session and return to the title screen.",
+    "addresses": [
+      "0x8205c260"
+    ]
+  },
+  {
+    "id": 1010,
+    "en": "Unable to join the session because no slots were available.",
+    "addresses": [
+      "0x8205c2d0"
+    ]
+  },
+  {
+    "id": 1011,
+    "en": "The host left while setting up the game. You will be returned to the lobby.",
+    "addresses": [
+      "0x8205c348"
+    ]
+  },
+  {
+    "id": 1012,
+    "en": "Time out in: ",
+    "addresses": [
+      "0x8205c3e0"
+    ]
+  },
+  {
+    "id": 1013,
+    "en": "Connecting to the lobby...",
+    "addresses": [
+      "0x8205c3fc"
+    ]
+  },
+  {
+    "id": 1014,
+    "en": "Setting up the game...",
+    "addresses": [
+      "0x8205c434"
+    ]
+  },
+  {
+    "id": 1015,
+    "en": "Rules in Use",
+    "addresses": [
+      "0x8205c464"
+    ]
+  },
+  {
+    "id": 1016,
+    "en": "View Rules",
+    "addresses": [
+      "0x8205c480"
+    ]
+  },
+  {
+    "id": 1017,
+    "en": "LV",
+    "addresses": [
+      "0x8205c49c"
+    ]
+  },
+  {
+    "id": 1018,
+    "en": "Xbox LIVE Party?",
+    "addresses": [
+      "0x8205c4a4"
+    ]
+  },
+  {
+    "id": 1019,
+    "en": "Send a game invite to your",
+    "addresses": [
+      "0x8205c4c8"
+    ]
+  },
+  {
+    "id": 1020,
+    "en": "Invite Xbox LIVE Party",
+    "addresses": [
+      "0x8205c500"
+    ]
+  },
+  {
+    "id": 1021,
+    "en": "Uploading...",
+    "addresses": [
+      "0x8205c530"
+    ]
+  },
+  {
+    "id": 1022,
+    "en": "Retrieve Rankings",
+    "addresses": [
+      "0x8205c54c"
+    ]
+  },
+  {
+    "id": 1023,
+    "en": "Downloading...",
+    "addresses": [
+      "0x8205c570"
+    ]
+  },
+  {
+    "id": 1024,
+    "en": "Begin an offline game?",
+    "addresses": [
+      "0x8205c590"
+    ]
+  },
+  {
+    "id": 1025,
+    "en": "Connection failed.",
+    "addresses": [
+      "0x8205c5c0"
+    ]
+  },
+  {
+    "id": 1026,
+    "en": "You have been kicked from the session.",
+    "addresses": [
+      "0x8205c5e8"
+    ]
+  },
+  {
+    "id": 1027,
+    "en": "You left the lobby.",
+    "addresses": [
+      "0x8205c638"
+    ]
+  },
+  {
+    "id": 1028,
+    "en": "Sending request to join the session...",
+    "addresses": [
+      "0x8205c660"
+    ]
+  },
+  {
+    "id": 1029,
+    "en": "Unable to join the session.",
+    "addresses": [
+      "0x8205c6b0"
+    ]
+  },
+  {
+    "id": 1030,
+    "en": "Accept the request?",
+    "addresses": [
+      "0x8205c6e8"
+    ]
+  },
+  {
+    "id": 1031,
+    "en": "Someone wants to join your session.",
+    "addresses": [
+      "0x8205c710"
+    ]
+  },
+  {
+    "id": 1032,
+    "en": "Creating a session",
+    "addresses": [
+      "0x8205c758"
+    ]
+  },
+  {
+    "id": 1033,
+    "en": "Waiting for opponents",
+    "addresses": [
+      "0x8205c780"
+    ]
+  },
+  {
+    "id": 1034,
+    "en": "Canceling",
+    "addresses": [
+      "0x8205c7ac"
+    ]
+  },
+  {
+    "id": 1035,
+    "en": "Playing",
+    "addresses": [
+      "0x8205c7c0"
+    ]
+  },
+  {
+    "id": 1036,
+    "en": "Ready",
+    "addresses": [
+      "0x8205c7d0"
+    ]
+  },
+  {
+    "id": 1037,
+    "en": "Delay Level",
+    "addresses": [
+      "0x8205c7dc"
+    ]
+  },
+  {
+    "id": 1038,
+    "en": "Kick",
+    "addresses": [
+      "0x8205c7f4"
+    ]
+  },
+  {
+    "id": 1039,
+    "en": "Gamer Card",
+    "addresses": [
+      "0x8205c800"
+    ]
+  },
+  {
+    "id": 1040,
+    "en": "Invite Friends",
+    "addresses": [
+      "0x8205c818"
+    ]
+  },
+  {
+    "id": 1041,
+    "en": "Refresh List",
+    "addresses": [
+      "0x8205c838"
+    ]
+  },
+  {
+    "id": 1042,
+    "en": "Back",
+    "addresses": [
+      "0x8205c854"
+    ]
+  },
+  {
+    "id": 1043,
+    "en": "Search Again",
+    "addresses": [
+      "0x8205c860"
+    ]
+  },
+  {
+    "id": 1044,
+    "en": "Signal Strength",
+    "addresses": [
+      "0x8205c87c"
+    ]
+  },
+  {
+    "id": 1045,
+    "en": "Receiving data...",
+    "addresses": [
+      "0x8205c89c"
+    ]
+  },
+  {
+    "id": 1046,
+    "en": "Sending data...",
+    "addresses": [
+      "0x8205c8c0"
+    ]
+  },
+  {
+    "id": 1047,
+    "en": "Rating",
+    "addresses": [
+      "0x8205c8e0"
+    ]
+  },
+  {
+    "id": 1048,
+    "en": "Waiting for players...",
+    "addresses": [
+      "0x8205c8f0"
+    ]
+  },
+  {
+    "id": 1049,
+    "en": "Searching for players...",
+    "addresses": [
+      "0x8205c920"
+    ]
+  },
+  {
+    "id": 1050,
+    "en": "No players found.",
+    "addresses": [
+      "0x8205c954"
+    ]
+  },
+  {
+    "id": 1051,
+    "en": "No sessions found.",
+    "addresses": [
+      "0x8205c978"
+    ]
+  },
+  {
+    "id": 1052,
+    "en": "No entries.",
+    "addresses": [
+      "0x8205c9a0"
+    ]
+  },
+  {
+    "id": 1053,
+    "en": "You cannot perform this action when using System Link.",
+    "addresses": [
+      "0x8205c9b8"
+    ]
+  },
+  {
+    "id": 1054,
+    "en": "Download failed.",
+    "addresses": [
+      "0x8205ca28"
+    ]
+  },
+  {
+    "id": 1055,
+    "en": "Upload failed.",
+    "addresses": [
+      "0x8205ca4c"
+    ]
+  },
+  {
+    "id": 1056,
+    "en": "Load failed.",
+    "addresses": [
+      "0x8205ca6c"
+    ]
+  },
+  {
+    "id": 1057,
+    "en": "Save failed.",
+    "addresses": [
+      "0x8205ca88"
+    ]
+  },
+  {
+    "id": 1058,
+    "en": "Please connect a controller.",
+    "addresses": [
+      "0x8205caa4"
+    ]
+  },
+  {
+    "id": 1059,
+    "en": "The controller has been disconnected.",
+    "addresses": [
+      "0x8205cae0"
+    ]
+  },
+  {
+    "id": 1060,
+    "en": "You cannot choose this in the trial game.",
+    "addresses": [
+      "0x8205cb30"
+    ]
+  },
+  {
+    "id": 1061,
+    "en": "You will be returned to the lobby.",
+    "addresses": [
+      "0x8205cb88"
+    ]
+  },
+  {
+    "id": 1062,
+    "en": "Communication failure.",
+    "addresses": [
+      "0x8205cbd0"
+    ]
+  },
+  {
+    "id": 1063,
+    "en": "Operation canceled.",
+    "addresses": [
+      "0x8205cc00"
+    ]
+  },
+  {
+    "id": 1064,
+    "en": "To use these rules, please change the name.",
+    "addresses": [
+      "0x8205cc28"
+    ]
+  },
+  {
+    "id": 1065,
+    "en": "words that are not allowed on Xbox LIVE.",
+    "addresses": [
+      "0x8205cc80"
+    ]
+  },
+  {
+    "id": 1066,
+    "en": "The name you chose for your rules contains",
+    "addresses": [
+      "0x8205ccd8"
+    ]
+  },
+  {
+    "id": 1067,
+    "en": "The game will be reset.",
+    "addresses": [
+      "0x8205cd30"
+    ]
+  },
+  {
+    "id": 1068,
+    "en": "You will be returned to the title screen.",
+    "addresses": [
+      "0x8205cd60"
+    ]
+  },
+  {
+    "id": 1069,
+    "en": "Your sign-in status has changed.",
+    "addresses": [
+      "0x8205cdb8"
+    ]
+  },
+  {
+    "id": 1070,
+    "en": "You have been disconnected from Xbox LIVE. ",
+    "addresses": [
+      "0x8205ce00"
+    ]
+  },
+  {
+    "id": 1071,
+    "en": "To continue, please reconnect to Xbox LIVE.",
+    "addresses": [
+      "0x8205ce58"
+    ]
+  },
+  {
+    "id": 1072,
+    "en": "You must be signed in to Xbox LIVE to access this feature.",
+    "addresses": [
+      "0x8205ceb0"
+    ]
+  },
+  {
+    "id": 1073,
+    "en": "Unable to continue due to insufficient privileges in another player's profile.",
+    "addresses": [
+      "0x8205cf28"
+    ]
+  },
+  {
+    "id": 1074,
+    "en": "Unable to continue due to insufficient privileges in your current profile.",
+    "addresses": [
+      "0x8205cfc8"
+    ]
+  },
+  {
+    "id": 1075,
+    "en": "privileges to perform this action.",
+    "addresses": [
+      "0x8205d060"
+    ]
+  },
+  {
+    "id": 1076,
+    "en": "Your current profile has insufficient",
+    "addresses": [
+      "0x8205d0a8"
+    ]
+  },
+  {
+    "id": 1077,
+    "en": "You have been disconnected from Xbox LIVE. Returning to main menu. ",
+    "addresses": [
+      "0x8205d0f8"
+    ]
+  },
+  {
+    "id": 1078,
+    "en": "Connecting...",
+    "addresses": [
+      "0x8205d180"
+    ]
+  },
+  {
+    "id": 1079,
+    "en": "Searching...",
+    "addresses": [
+      "0x8205d19c"
+    ]
+  },
+  {
+    "id": 1080,
+    "en": "Darkproof",
+    "addresses": [
+      "0x8205d1b8"
+    ]
+  },
+  {
+    "id": 1081,
+    "en": "Darkguard",
+    "addresses": [
+      "0x8205d1cc"
+    ]
+  },
+  {
+    "id": 1082,
+    "en": "Darkfrail",
+    "addresses": [
+      "0x8205d1e0"
+    ]
+  },
+  {
+    "id": 1083,
+    "en": "Lightproof",
+    "addresses": [
+      "0x8205d1f4"
+    ]
+  },
+  {
+    "id": 1084,
+    "en": "Lightguard",
+    "addresses": [
+      "0x8205d20c"
+    ]
+  },
+  {
+    "id": 1085,
+    "en": "Lightfrail",
+    "addresses": [
+      "0x8205d224"
+    ]
+  },
+  {
+    "id": 1086,
+    "en": "Iceproof",
+    "addresses": [
+      "0x8205d23c"
+    ]
+  },
+  {
+    "id": 1087,
+    "en": "Iceguard",
+    "addresses": [
+      "0x8205d250"
+    ]
+  },
+  {
+    "id": 1088,
+    "en": "Icefrail",
+    "addresses": [
+      "0x8205d264"
+    ]
+  },
+  {
+    "id": 1089,
+    "en": "Thndrproof",
+    "addresses": [
+      "0x8205d278"
+    ]
+  },
+  {
+    "id": 1090,
+    "en": "Thndrguard",
+    "addresses": [
+      "0x8205d290"
+    ]
+  },
+  {
+    "id": 1091,
+    "en": "Thndrfrail",
+    "addresses": [
+      "0x8205d2a8"
+    ]
+  },
+  {
+    "id": 1092,
+    "en": "Fireproof",
+    "addresses": [
+      "0x8205d2c0"
+    ]
+  },
+  {
+    "id": 1093,
+    "en": "Fireguard",
+    "addresses": [
+      "0x8205d2d4"
+    ]
+  },
+  {
+    "id": 1094,
+    "en": "Firefrail",
+    "addresses": [
+      "0x8205d2e8"
+    ]
+  },
+  {
+    "id": 1095,
+    "en": "Forceproof",
+    "addresses": [
+      "0x8205d2fc"
+    ]
+  },
+  {
+    "id": 1096,
+    "en": "Forceguard",
+    "addresses": [
+      "0x8205d314"
+    ]
+  },
+  {
+    "id": 1097,
+    "en": "Forcefrail",
+    "addresses": [
+      "0x8205d32c"
+    ]
+  },
+  {
+    "id": 1098,
+    "en": "Are you sure?",
+    "addresses": [
+      "0x8205d344"
+    ]
+  },
+  {
+    "id": 1099,
+    "en": "Branch",
+    "addresses": [
+      "0x8205d360"
+    ]
+  },
+  {
+    "id": 1100,
+    "en": "Team L",
+    "addresses": [
+      "0x8205d370"
+    ]
+  },
+  {
+    "id": 1101,
+    "en": "Team K",
+    "addresses": [
+      "0x8205d380"
+    ]
+  },
+  {
+    "id": 1102,
+    "en": "Team J",
+    "addresses": [
+      "0x8205d390"
+    ]
+  },
+  {
+    "id": 1103,
+    "en": "Team I",
+    "addresses": [
+      "0x8205d3a0"
+    ]
+  },
+  {
+    "id": 1104,
+    "en": "Team H",
+    "addresses": [
+      "0x8205d3b0"
+    ]
+  },
+  {
+    "id": 1105,
+    "en": "Team G",
+    "addresses": [
+      "0x8205d3c0"
+    ]
+  },
+  {
+    "id": 1106,
+    "en": "Team F",
+    "addresses": [
+      "0x8205d3d0"
+    ]
+  },
+  {
+    "id": 1107,
+    "en": "Team E",
+    "addresses": [
+      "0x8205d3e0"
+    ]
+  },
+  {
+    "id": 1108,
+    "en": "Team D",
+    "addresses": [
+      "0x8205d3f0"
+    ]
+  },
+  {
+    "id": 1109,
+    "en": "Team C",
+    "addresses": [
+      "0x8205d400"
+    ]
+  },
+  {
+    "id": 1110,
+    "en": "Team B",
+    "addresses": [
+      "0x8205d410"
+    ]
+  },
+  {
+    "id": 1111,
+    "en": "Team A",
+    "addresses": [
+      "0x8205d420"
+    ]
+  },
+  {
+    "id": 1112,
+    "en": "Player 12",
+    "addresses": [
+      "0x8205d430"
+    ]
+  },
+  {
+    "id": 1113,
+    "en": "Player 11",
+    "addresses": [
+      "0x8205d444"
+    ]
+  },
+  {
+    "id": 1114,
+    "en": "Player 10",
+    "addresses": [
+      "0x8205d458"
+    ]
+  },
+  {
+    "id": 1115,
+    "en": "Player 9",
+    "addresses": [
+      "0x8205d46c"
+    ]
+  },
+  {
+    "id": 1116,
+    "en": "Player 8",
+    "addresses": [
+      "0x8205d480"
+    ]
+  },
+  {
+    "id": 1117,
+    "en": "Player 7",
+    "addresses": [
+      "0x8205d494"
+    ]
+  },
+  {
+    "id": 1118,
+    "en": "Player 6",
+    "addresses": [
+      "0x8205d4a8"
+    ]
+  },
+  {
+    "id": 1119,
+    "en": "Player 5",
+    "addresses": [
+      "0x8205d4bc"
+    ]
+  },
+  {
+    "id": 1120,
+    "en": "Player 4",
+    "addresses": [
+      "0x8205d4d0"
+    ]
+  },
+  {
+    "id": 1121,
+    "en": "Player 3",
+    "addresses": [
+      "0x8205d4e4"
+    ]
+  },
+  {
+    "id": 1122,
+    "en": "Player 2",
+    "addresses": [
+      "0x8205d4f8"
+    ]
+  },
+  {
+    "id": 1123,
+    "en": "Player 1",
+    "addresses": [
+      "0x8205d50c"
+    ]
+  },
+  {
+    "id": 1124,
+    "en": "Controller 4",
+    "addresses": [
+      "0x8205d520"
+    ]
+  },
+  {
+    "id": 1125,
+    "en": "Controller 3",
+    "addresses": [
+      "0x8205d53c"
+    ]
+  },
+  {
+    "id": 1126,
+    "en": "Controller 2",
+    "addresses": [
+      "0x8205d558"
+    ]
+  },
+  {
+    "id": 1127,
+    "en": "Controller 1",
+    "addresses": [
+      "0x8205d574"
+    ]
+  },
+  {
+    "id": 1128,
+    "en": "Points",
+    "addresses": [
+      "0x8205d590"
+    ]
+  },
+  {
+    "id": 1129,
+    "en": "MP",
+    "addresses": [
+      "0x8205d5a0"
+    ]
+  },
+  {
+    "id": 1130,
+    "en": "HP",
+    "addresses": [
+      "0x8205d5a8"
+    ]
+  },
+  {
+    "id": 1131,
+    "en": "Next",
+    "addresses": [
+      "0x8205d5b0"
+    ]
+  },
+  {
+    "id": 1132,
+    "en": "EXP",
+    "addresses": [
+      "0x8205d5bc"
+    ]
+  },
+  {
+    "id": 1133,
+    "en": "Please choose a permitted character.",
+    "addresses": [
+      "0x8205d5c8"
+    ]
+  },
+  {
+    "id": 1134,
+    "en": "Please unlock at least one character.",
+    "addresses": [
+      "0x8205d618"
+    ]
+  },
+  {
+    "id": 1135,
+    "en": "Please ensure you have at least 2 teams.",
+    "addresses": [
+      "0x8205d668"
+    ]
+  },
+  {
+    "id": 1136,
+    "en": "Please ensure you have at least 2 players.",
+    "addresses": [
+      "0x8205d6c0"
+    ]
+  },
+  {
+    "id": 1137,
+    "en": "playing with user-created content.",
+    "addresses": [
+      "0x8205d718"
+    ]
+  },
+  {
+    "id": 1138,
+    "en": "Your current profile is restricted from",
+    "addresses": [
+      "0x8205d760"
+    ]
+  },
+  {
+    "id": 1139,
+    "en": "to join multiplayer game sessions.",
+    "addresses": [
+      "0x8205d7b0"
+    ]
+  },
+  {
+    "id": 1140,
+    "en": "Xbox LIVE with a profile that is allowed",
+    "addresses": [
+      "0x8205d7f8"
+    ]
+  },
+  {
+    "id": 1141,
+    "en": "To continue, you must sign in to",
+    "addresses": [
+      "0x8205d850"
+    ]
+  },
+  {
+    "id": 1142,
+    "en": "Sign in?",
+    "addresses": [
+      "0x8205d894"
+    ]
+  },
+  {
+    "id": 1143,
+    "en": "A gamer profile is required to play.",
+    "addresses": [
+      "0x8205d8a8"
+    ]
+  },
+  {
+    "id": 1144,
+    "en": "- ERROR -",
+    "addresses": [
+      "0x8205d8f4"
+    ]
+  },
+  {
+    "id": 1145,
+    "en": "End this play session and select a new character?",
+    "addresses": [
+      "0x8205d908"
+    ]
+  },
+  {
+    "id": 1146,
+    "en": "Your current progress will be lost.",
+    "addresses": [
+      "0x8205d970"
+    ]
+  },
+  {
+    "id": 1147,
+    "en": "End this play session and return to the title screen?",
+    "addresses": [
+      "0x8205d9b8"
+    ]
+  },
+  {
+    "id": 1148,
+    "en": "Any unsaved data will be lost.",
+    "addresses": [
+      "0x8205da24"
+    ]
+  },
+  {
+    "id": 1149,
+    "en": "End the game and return to the Game Library?",
+    "addresses": [
+      "0x8205da68"
+    ]
+  },
+  {
+    "id": 1150,
+    "en": "The number of bars indicates the highest speed connection possible for sending data.",
+    "addresses": [
+      "0x8206b690"
+    ]
+  },
+  {
+    "id": 1151,
+    "en": "\"Upload Speed\" Icon",
+    "addresses": [
+      "0x8206b73c"
+    ]
+  },
+  {
+    "id": 1152,
+    "en": "Even if more players join, performance will not decrease.",
+    "addresses": [
+      "0x8206b768"
+    ]
+  },
+  {
+    "id": 1153,
+    "en": "The number of bars indicates the fastest connection possible for receiving data.",
+    "addresses": [
+      "0x8206b7e0"
+    ]
+  },
+  {
+    "id": 1154,
+    "en": "\"Download Speed\" Icon",
+    "addresses": [
+      "0x8206b884"
+    ]
+  },
+  {
+    "id": 1155,
+    "en": "The number of bars indicates how much delay will be reduced after button input. ",
+    "addresses": [
+      "0x8206b8b0"
+    ]
+  },
+  {
+    "id": 1156,
+    "en": "Response Icon",
+    "addresses": [
+      "0x8206b954"
+    ]
+  },
+  {
+    "id": 1157,
+    "en": "When syncing and connection errors occur, increase this value to stabilize your connection.",
+    "addresses": [
+      "0x8206b970"
+    ]
+  },
+  {
+    "id": 1158,
+    "en": "Delay after button input increases in exchange for a more stable connection. ",
+    "addresses": [
+      "0x8206ba28"
+    ]
+  },
+  {
+    "id": 1159,
+    "en": "but the possibility of connection errors increases if all players have a slow connection.",
+    "addresses": [
+      "0x8206bac8"
+    ]
+  },
+  {
+    "id": 1160,
+    "en": "this is most effective with a mixture of players with high and low speed connections,",
+    "addresses": [
+      "0x8206bb80"
+    ]
+  },
+  {
+    "id": 1161,
+    "en": "The player with the highest connection speed will become the host,",
+    "addresses": [
+      "0x8206bc30"
+    ]
+  },
+  {
+    "id": 1162,
+    "en": "Effective when connected player(s) have a slower or unstable connection. ",
+    "addresses": [
+      "0x8206bcb8"
+    ]
+  },
+  {
+    "id": 1163,
+    "en": "and connection errors may occur less often. ",
+    "addresses": [
+      "0x8206bd50"
+    ]
+  },
+  {
+    "id": 1164,
+    "en": "but depending on your network connection, frequency of syncing can decrease,",
+    "addresses": [
+      "0x8206bdb0"
+    ]
+  },
+  {
+    "id": 1165,
+    "en": "Lag after button input increases,",
+    "addresses": [
+      "0x8206be50"
+    ]
+  },
+  {
+    "id": 1166,
+    "en": "Prioritize Stability",
+    "addresses": [
+      "0x8206be94"
+    ]
+  },
+  {
+    "id": 1167,
+    "en": "Effective when all players have a stable, high-speed connection. ",
+    "addresses": [
+      "0x8206bec0"
+    ]
+  },
+  {
+    "id": 1168,
+    "en": "connection errors may occur more often. ",
+    "addresses": [
+      "0x8206bf48"
+    ]
+  },
+  {
+    "id": 1169,
+    "en": "but depending on your network connection, frequency of syncing can increase and",
+    "addresses": [
+      "0x8206bfa0"
+    ]
+  },
+  {
+    "id": 1170,
+    "en": "Lag after button input is reduced,",
+    "addresses": [
+      "0x8206c040"
+    ]
+  },
+  {
+    "id": 1171,
+    "en": "Prioritize Speed",
+    "addresses": [
+      "0x8206c088"
+    ]
+  },
+  {
+    "id": 1172,
+    "en": "The Host can change \"Session Settings\" from Versus Lobby.",
+    "addresses": [
+      "0x8206c0b0"
+    ]
+  },
+  {
+    "id": 1173,
+    "en": "Shift  to the row furthest away when in the closest row. ",
+    "addresses": [
+      "0x8206c128"
+    ]
+  },
+  {
+    "id": 1174,
+    "en": "Shift to the closest row when in the row farthest away. ",
+    "addresses": [
+      "0x8206c1a0"
+    ]
+  },
+  {
+    "id": 1175,
+    "en": "You can exit an Xbox LIVE play session by holding down START.",
+    "addresses": [
+      "0x8206c218"
+    ]
+  },
+  {
+    "id": 1176,
+    "en": "where you can see how you stack up against players across the globe.",
+    "addresses": [
+      "0x8206c298"
+    ]
+  },
+  {
+    "id": 1177,
+    "en": "Your score (and time) will be logged to the leaderboards, ",
+    "addresses": [
+      "0x8206c328"
+    ]
+  },
+  {
+    "id": 1178,
+    "en": "at random, and you keep playing until your character is defeated. ",
+    "addresses": [
+      "0x8206c3a0"
+    ]
+  },
+  {
+    "id": 1179,
+    "en": "of opponents. Leveling up in Arcade Mode will improve your stats ",
+    "addresses": [
+      "0x8206c428"
+    ]
+  },
+  {
+    "id": 1180,
+    "en": "This mode lets you test your endurance against wave after wave",
+    "addresses": [
+      "0x8206c4b0"
+    ]
+  },
+  {
+    "id": 1181,
+    "en": "the pause menu to adjust settings for your character and the CPU.",
+    "addresses": [
+      "0x8206c530"
+    ]
+  },
+  {
+    "id": 1182,
+    "en": "Set up general rules on the character selection screen, then open ",
+    "addresses": [
+      "0x8206c5b8"
+    ]
+  },
+  {
+    "id": 1183,
+    "en": "Use this mode to create the perfect training ground. ",
+    "addresses": [
+      "0x8206c640"
+    ]
+  },
+  {
+    "id": 1184,
+    "en": "   (Characters cannot be permanently defeated.)",
+    "addresses": [
+      "0x8206c6b0"
+    ]
+  },
+  {
+    "id": 1185,
+    "en": "- Point Matches, where you vie for the most points before time runs out.",
+    "addresses": [
+      "0x8206c710"
+    ]
+  },
+  {
+    "id": 1186,
+    "en": "- Deathmatches, where you fight to be the last hero standing, and",
+    "addresses": [
+      "0x8206c7a8"
+    ]
+  },
+  {
+    "id": 1187,
+    "en": "You can choose from two match types:",
+    "addresses": [
+      "0x8206c830"
+    ]
+  },
+  {
+    "id": 1188,
+    "en": "Story Mode. You can use the Rule Editor to create custom rules.",
+    "addresses": [
+      "0x8206c880"
+    ]
+  },
+  {
+    "id": 1189,
+    "en": "battle each other using any characters that have been unlocked in ",
+    "addresses": [
+      "0x8206c900"
+    ]
+  },
+  {
+    "id": 1190,
+    "en": "In this mode, up to 4 people locally or 12 people on Xbox LIVE can  ",
+    "addresses": [
+      "0x8206c988"
+    ]
+  },
+  {
+    "id": 1191,
+    "en": "the same pool of credits.",
+    "addresses": [
+      "0x8206ca14"
+    ]
+  },
+  {
+    "id": 1192,
+    "en": "game by pressing START on a controller not in use. Both players share ",
+    "addresses": [
+      "0x8206ca48"
+    ]
+  },
+  {
+    "id": 1193,
+    "en": "and your progress will be erased. A second player can join your 1-player  ",
+    "addresses": [
+      "0x8206cad8"
+    ]
+  },
+  {
+    "id": 1194,
+    "en": "However, if you are defeated with no credits to spare, it's Game Over ",
+    "addresses": [
+      "0x8206cb70"
+    ]
+  },
+  {
+    "id": 1195,
+    "en": "After each stage, your progress will be saved automatically. ",
+    "addresses": [
+      "0x8206cc00"
+    ]
+  },
+  {
+    "id": 1196,
+    "en": "on the choices you make. ",
+    "addresses": [
+      "0x8206cc7c"
+    ]
+  },
+  {
+    "id": 1197,
+    "en": "The game's stages, story and ending will change greatly depending ",
+    "addresses": [
+      "0x8206ccb0"
+    ]
+  },
+  {
+    "id": 1198,
+    "en": "In this mode, you play alone or as a two-person team. ",
+    "addresses": [
+      "0x8206cd38"
+    ]
+  },
+  {
+    "id": 1199,
+    "en": "- HP/MP recovery after each scene",
+    "addresses": [
+      "0x8206cda8"
+    ]
+  },
+  {
+    "id": 1200,
+    "en": "- How much EXP you earn",
+    "addresses": [
+      "0x8206cdec"
+    ]
+  },
+  {
+    "id": 1201,
+    "en": "- How much damage you take",
+    "addresses": [
+      "0x8206ce1c"
+    ]
+  },
+  {
+    "id": 1202,
+    "en": "- How much damage you deal",
+    "addresses": [
+      "0x8206ce54"
+    ]
+  },
+  {
+    "id": 1203,
+    "en": "Your Luck stat affects the following:",
+    "addresses": [
+      "0x8206ce90"
+    ]
+  },
+  {
+    "id": 1204,
+    "en": "Characters who are weak against light will take damage from healing magic.",
+    "addresses": [
+      "0x8206cee0"
+    ]
+  },
+  {
+    "id": 1205,
+    "en": "Characters marked as \"-proof\" take zero damage from that element.",
+    "addresses": [
+      "0x8206cf78"
+    ]
+  },
+  {
+    "id": 1206,
+    "en": "Characters marked as \"-frail\" take more damage from that element.",
+    "addresses": [
+      "0x8206d000"
+    ]
+  },
+  {
+    "id": 1207,
+    "en": "Characters marked as \"-guard\" take less damage from that element.",
+    "addresses": [
+      "0x8206d088"
+    ]
+  },
+  {
+    "id": 1208,
+    "en": "- Darkness",
+    "addresses": [
+      "0x8206d10c"
+    ]
+  },
+  {
+    "id": 1209,
+    "en": "- Light",
+    "addresses": [
+      "0x8206d124"
+    ]
+  },
+  {
+    "id": 1210,
+    "en": "- Ice",
+    "addresses": [
+      "0x8206d134"
+    ]
+  },
+  {
+    "id": 1211,
+    "en": "- Thunder",
+    "addresses": [
+      "0x8206d140"
+    ]
+  },
+  {
+    "id": 1212,
+    "en": "- Fire",
+    "addresses": [
+      "0x8206d154"
+    ]
+  },
+  {
+    "id": 1213,
+    "en": "- Force (physical attacks)",
+    "addresses": [
+      "0x8206d164"
+    ]
+  },
+  {
+    "id": 1214,
+    "en": "There are six elements:",
+    "addresses": [
+      "0x8206d19c"
+    ]
+  },
+  {
+    "id": 1215,
+    "en": "Negative Karma changes certain endings to \"dark\" endings.",
+    "addresses": [
+      "0x8206d1d0"
+    ]
+  },
+  {
+    "id": 1216,
+    "en": "- Allowing fleeing soldiers to escape",
+    "addresses": [
+      "0x8206d248"
+    ]
+  },
+  {
+    "id": 1217,
+    "en": "- Allowing fleeing civilians to escape",
+    "addresses": [
+      "0x8206d298"
+    ]
+  },
+  {
+    "id": 1218,
+    "en": "- Completing scenes in each stage",
+    "addresses": [
+      "0x8206d2e8"
+    ]
+  },
+  {
+    "id": 1219,
+    "en": "You can raise your Karma with these actions:",
+    "addresses": [
+      "0x8206d330"
+    ]
+  },
+  {
+    "id": 1220,
+    "en": "- Continuing to attack slain enemies",
+    "addresses": [
+      "0x8206d390"
+    ]
+  },
+  {
+    "id": 1221,
+    "en": "- Attacking fleeing soldiers",
+    "addresses": [
+      "0x8206d3dc"
+    ]
+  },
+  {
+    "id": 1222,
+    "en": "- Attacking civilians",
+    "addresses": [
+      "0x8206d418"
+    ]
+  },
+  {
+    "id": 1223,
+    "en": "- Breaking bushels of produce or certain other objects",
+    "addresses": [
+      "0x8206d448"
+    ]
+  },
+  {
+    "id": 1224,
+    "en": "The following actions in Story Mode lower your Karma:",
+    "addresses": [
+      "0x8206d4b8"
+    ]
+  },
+  {
+    "id": 1225,
+    "en": "Escape Throw",
+    "addresses": [
+      "0x8206d524"
+    ]
+  },
+  {
+    "id": 1226,
+    "en": "(the instant you are thrown)",
+    "addresses": [
+      "0x8206d540"
+    ]
+  },
+  {
+    "id": 1227,
+    "en": "Sidestep",
+    "addresses": [
+      "0x8206d57c"
+    ]
+  },
+  {
+    "id": 1228,
+    "en": "Hold the block button",
+    "addresses": [
+      "0x8206d590"
+    ]
+  },
+  {
+    "id": 1229,
+    "en": "Blocking Recovery",
+    "addresses": [
+      "0x8206d5bc"
+    ]
+  },
+  {
+    "id": 1230,
+    "en": "Reverse Recovery",
+    "addresses": [
+      "0x8206d5e0"
+    ]
+  },
+  {
+    "id": 1231,
+    "en": "Forward Recovery",
+    "addresses": [
+      "0x8206d604"
+    ]
+  },
+  {
+    "id": 1232,
+    "en": "Vertical Recovery",
+    "addresses": [
+      "0x8206d628"
+    ]
+  },
+  {
+    "id": 1233,
+    "en": "(on the way down after being sent flying)",
+    "addresses": [
+      "0x8206d650"
+    ]
+  },
+  {
+    "id": 1234,
+    "en": "Recover",
+    "addresses": [
+      "0x8206d6a4"
+    ]
+  },
+  {
+    "id": 1235,
+    "en": "Repeatedly tap the attack/block buttons",
+    "addresses": [
+      "0x8206d6b8"
+    ]
+  },
+  {
+    "id": 1236,
+    "en": "(after being sent flying)",
+    "addresses": [
+      "0x8206d708"
+    ]
+  },
+  {
+    "id": 1237,
+    "en": "This uses MP to force surrounding enemies away.",
+    "addresses": [
+      "0x8206d740"
+    ]
+  },
+  {
+    "id": 1238,
+    "en": "(right after blocking an attack)",
+    "addresses": [
+      "0x8206d7a0"
+    ]
+  },
+  {
+    "id": 1239,
+    "en": "Forceback",
+    "addresses": [
+      "0x8206d7e4"
+    ]
+  },
+  {
+    "id": 1240,
+    "en": "Uses MP. You will avoid being sent flying and attack foes in range.",
+    "addresses": [
+      "0x8206d7f8"
+    ]
+  },
+  {
+    "id": 1241,
+    "en": "(while under attack)",
+    "addresses": [
+      "0x8206d880"
+    ]
+  },
+  {
+    "id": 1242,
+    "en": "You will avoid being sent flying and attack the assailant behind you.",
+    "addresses": [
+      "0x8206d8b0"
+    ]
+  },
+  {
+    "id": 1243,
+    "en": "(right after being struck from behind on the ground)",
+    "addresses": [
+      "0x8206d940"
+    ]
+  },
+  {
+    "id": 1244,
+    "en": "Counter",
+    "addresses": [
+      "0x8206d9ac"
+    ]
+  },
+  {
+    "id": 1245,
+    "en": "- Using it repeatedly saps MP, but lets you move about unharmed",
+    "addresses": [
+      "0x8206d9c0"
+    ]
+  },
+  {
+    "id": 1246,
+    "en": "- It lets you cancel your basic attacks",
+    "addresses": [
+      "0x8206da40"
+    ]
+  },
+  {
+    "id": 1247,
+    "en": "- You can slip past enemies",
+    "addresses": [
+      "0x8206da90"
+    ]
+  },
+  {
+    "id": 1248,
+    "en": "- You are invulnerable at the start of the backstep",
+    "addresses": [
+      "0x8206dac8"
+    ]
+  },
+  {
+    "id": 1249,
+    "en": "Using the backstep has certain advantages:",
+    "addresses": [
+      "0x8206db30"
+    ]
+  },
+  {
+    "id": 1250,
+    "en": "Rapidly tap the directional pad/attack buttons to regain control.",
+    "addresses": [
+      "0x8206db88"
+    ]
+  },
+  {
+    "id": 1251,
+    "en": "Just like a normal stun, this causes you to lose control of your character.",
+    "addresses": [
+      "0x8206dc10"
+    ]
+  },
+  {
+    "id": 1252,
+    "en": "If you try to use magic without enough MP, you will suffer \"mental distress.\"",
+    "addresses": [
+      "0x8206dca8"
+    ]
+  },
+  {
+    "id": 1253,
+    "en": "However, you will gradually recover HP while stunned.",
+    "addresses": [
+      "0x8206dd48"
+    ]
+  },
+  {
+    "id": 1254,
+    "en": "Rapidly tap the directional pad/attack buttons to break out of the stun.",
+    "addresses": [
+      "0x8206ddb8"
+    ]
+  },
+  {
+    "id": 1255,
+    "en": "Stuns cause you to lose control of your character for a set amount of time.",
+    "addresses": [
+      "0x8206de50"
+    ]
+  },
+  {
+    "id": 1256,
+    "en": "You will be stunned if you take a certain amount of damage in a row.",
+    "addresses": [
+      "0x8206dee8"
+    ]
+  },
+  {
+    "id": 1257,
+    "en": "In Story Mode, you also recover some MP for finishing scenes in each stage.",
+    "addresses": [
+      "0x8206df78"
+    ]
+  },
+  {
+    "id": 1258,
+    "en": "The more hits you land, the more MP you will recover.",
+    "addresses": [
+      "0x8206e010"
+    ]
+  },
+  {
+    "id": 1259,
+    "en": "- Wait for it to gradually recover (to a point)",
+    "addresses": [
+      "0x8206e080"
+    ]
+  },
+  {
+    "id": 1260,
+    "en": "- Land direct attacks",
+    "addresses": [
+      "0x8206e0e0"
+    ]
+  },
+  {
+    "id": 1261,
+    "en": "- Land direct attacks of 2 hits or more",
+    "addresses": [
+      "0x8206e110"
+    ]
+  },
+  {
+    "id": 1262,
+    "en": "You can recover MP in the following ways:",
+    "addresses": [
+      "0x8206e160"
+    ]
+  },
+  {
+    "id": 1263,
+    "en": "He will mercilessly lash out at nearby foes.",
+    "addresses": [
+      "0x8206e1b8"
+    ]
+  },
+  {
+    "id": 1264,
+    "en": "He will stop in place and cease all activity.",
+    "addresses": [
+      "0x8206e218"
+    ]
+  },
+  {
+    "id": 1265,
+    "en": "He will stand behind you and await further orders.",
+    "addresses": [
+      "0x8206e278"
+    ]
+  },
+  {
+    "id": 1266,
+    "en": "He will seek out foes and attack with his sword.",
+    "addresses": [
+      "0x8206e2e0"
+    ]
+  },
+  {
+    "id": 1267,
+    "en": "He will stand in front of you and block attacks.",
+    "addresses": [
+      "0x8206e348"
+    ]
+  },
+  {
+    "id": 1268,
+    "en": "\"Go berserk!\"",
+    "addresses": [
+      "0x8206e3ac"
+    ]
+  },
+  {
+    "id": 1269,
+    "en": "\"Stay put!\"",
+    "addresses": [
+      "0x8206e3c8"
+    ]
+  },
+  {
+    "id": 1270,
+    "en": "\"Follow me!\"",
+    "addresses": [
+      "0x8206e3e0"
+    ]
+  },
+  {
+    "id": 1271,
+    "en": "\"Attack!\"",
+    "addresses": [
+      "0x8206e3fc"
+    ]
+  },
+  {
+    "id": 1272,
+    "en": "\"Protect me!\"",
+    "addresses": [
+      "0x8206e410"
+    ]
+  },
+  {
+    "id": 1273,
+    "en": "You can issue the following commands:",
+    "addresses": [
+      "0x8206e430"
+    ]
+  },
+  {
+    "id": 1274,
+    "en": "Open Command Palette",
+    "addresses": [
+      "0x8206e47c"
+    ]
+  },
+  {
+    "id": 1275,
+    "en": "Once the Undead Hero joins you in Story Mode, you can command him.",
+    "addresses": [
+      "0x8206e4a8"
+    ]
+  },
+  {
+    "id": 1276,
+    "en": "Brightens up your day.",
+    "addresses": [
+      "0x8206e530"
+    ]
+  },
+  {
+    "id": 1277,
+    "en": "Speeds up all your movement.",
+    "addresses": [
+      "0x8206e560"
+    ]
+  },
+  {
+    "id": 1278,
+    "en": "Decreases the magical damage you take.",
+    "addresses": [
+      "0x8206e5a0"
+    ]
+  },
+  {
+    "id": 1279,
+    "en": "Powers up your magical attacks.",
+    "addresses": [
+      "0x8206e5f0"
+    ]
+  },
+  {
+    "id": 1280,
+    "en": "Decreases the physical damage you take.",
+    "addresses": [
+      "0x8206e630"
+    ]
+  },
+  {
+    "id": 1281,
+    "en": "Powers up your physical attacks.",
+    "addresses": [
+      "0x8206e680"
+    ]
+  },
+  {
+    "id": 1282,
+    "en": "Luck (LCK)",
+    "addresses": [
+      "0x8206e6c4"
+    ]
+  },
+  {
+    "id": 1283,
+    "en": "Agility (AGI)",
+    "addresses": [
+      "0x8206e6dc"
+    ]
+  },
+  {
+    "id": 1284,
+    "en": "Mentality (MNT)",
+    "addresses": [
+      "0x8206e6f8"
+    ]
+  },
+  {
+    "id": 1285,
+    "en": "Intelligence (INT)",
+    "addresses": [
+      "0x8206e718"
+    ]
+  },
+  {
+    "id": 1286,
+    "en": "Vitality (VIT)",
+    "addresses": [
+      "0x8206e740"
+    ]
+  },
+  {
+    "id": 1287,
+    "en": "Strength (STR)",
+    "addresses": [
+      "0x8206e760"
+    ]
+  },
+  {
+    "id": 1288,
+    "en": "Leveling up also earns you bonus points, which can be funneled into your stats:",
+    "addresses": [
+      "0x8206e780"
+    ]
+  },
+  {
+    "id": 1289,
+    "en": "Gain enough EXP and you will \"level up\" on the spot, increasing your Max HP/MP.",
+    "addresses": [
+      "0x8206e820"
+    ]
+  },
+  {
+    "id": 1290,
+    "en": "- Expending MP",
+    "addresses": [
+      "0x8206e8c0"
+    ]
+  },
+  {
+    "id": 1291,
+    "en": "- Landing attacks",
+    "addresses": [
+      "0x8206e8e0"
+    ]
+  },
+  {
+    "id": 1292,
+    "en": "You can earn EXP in the following ways:",
+    "addresses": [
+      "0x8206e908"
+    ]
+  },
+  {
+    "id": 1293,
+    "en": "Aerial Block",
+    "addresses": [
+      "0x8206e958"
+    ]
+  },
+  {
+    "id": 1294,
+    "en": "Jumping Block",
+    "addresses": [
+      "0x8206e974"
+    ]
+  },
+  {
+    "id": 1295,
+    "en": "Throw",
+    "addresses": [
+      "0x8206e990"
+    ]
+  },
+  {
+    "id": 1296,
+    "en": "(near an opponent)",
+    "addresses": [
+      "0x8206e99c"
+    ]
+  },
+  {
+    "id": 1297,
+    "en": "Special Move",
+    "addresses": [
+      "0x8206e9c4"
+    ]
+  },
+  {
+    "id": 1298,
+    "en": "Cast Magic Directly",
+    "addresses": [
+      "0x8206e9e0"
+    ]
+  },
+  {
+    "id": 1299,
+    "en": "Open Magic Palette",
+    "addresses": [
+      "0x8206ea08"
+    ]
+  },
+  {
+    "id": 1300,
+    "en": "Directional Air Attack",
+    "addresses": [
+      "0x8206ea30"
+    ]
+  },
+  {
+    "id": 1301,
+    "en": "Directional Ground Attack",
+    "addresses": [
+      "0x8206ea60"
+    ]
+  },
+  {
+    "id": 1302,
+    "en": "Basic Attack",
+    "addresses": [
+      "0x8206ea94"
+    ]
+  },
+  {
+    "id": 1303,
+    "en": "Aerial Dash",
+    "addresses": [
+      "0x8206eab0"
+    ]
+  },
+  {
+    "id": 1304,
+    "en": "Dash mid-jump",
+    "addresses": [
+      "0x8206eac8"
+    ]
+  },
+  {
+    "id": 1305,
+    "en": "Sprint",
+    "addresses": [
+      "0x8206eae4"
+    ]
+  },
+  {
+    "id": 1306,
+    "en": "Dash and hold the directional pad",
+    "addresses": [
+      "0x8206eaf8"
+    ]
+  },
+  {
+    "id": 1307,
+    "en": "Dash",
+    "addresses": [
+      "0x8206eb3c"
+    ]
+  },
+  {
+    "id": 1308,
+    "en": "Double Jump",
+    "addresses": [
+      "0x8206eb48"
+    ]
+  },
+  {
+    "id": 1309,
+    "en": "Jump again mid-jump",
+    "addresses": [
+      "0x8206eb60"
+    ]
+  },
+  {
+    "id": 1310,
+    "en": "Move",
+    "addresses": [
+      "0x8206eb88"
+    ]
+  },
+  {
+    "id": 1311,
+    "en": "Cancel",
+    "addresses": [
+      "0x8206eb94"
+    ]
+  },
+  {
+    "id": 1312,
+    "en": "Select",
+    "addresses": [
+      "0x8206eba4"
+    ]
+  },
+  {
+    "id": 1313,
+    "en": "(Original & Remix Modes)",
+    "addresses": [
+      "0x8206ebb4"
+    ]
+  },
+  {
+    "id": 1314,
+    "en": "(Remix Mode)",
+    "addresses": [
+      "0x8206ebe8"
+    ]
+  },
+  {
+    "id": 1315,
+    "en": "(Original Mode)",
+    "addresses": [
+      "0x8206ec04"
+    ]
+  },
+  {
+    "id": 1316,
+    "en": "Note: Some controls may not apply to every character.",
+    "addresses": [
+      "0x8206ec28"
+    ]
+  },
+  {
+    "id": 1317,
+    "en": "The default buttons are shown.",
+    "addresses": [
+      "0x8206ec94"
+    ]
+  },
+  {
+    "id": 1318,
+    "en": "Easy",
+    "addresses": [
+      "0x8201C8E0"
+    ]
+  },
+  {
+    "id": 1319,
+    "en": "Normal",
+    "addresses": [
+      "0x8201C8EC"
+    ]
+  },
+  {
+    "id": 1320,
+    "en": "Hard",
+    "addresses": [
+      "0x8201C8FC"
+    ]
+  },
+  {
+    "id": 1321,
+    "en": "ON",
+    "addresses": [
+      "0x8201C8C0"
+    ]
+  },
+  {
+    "id": 1322,
+    "en": "OFF",
+    "addresses": [
+      "0x8201C8C8"
+    ]
+  }
+]

@@ -8,17 +8,17 @@
 # version, hbmenu shows it) and writes gh_version.h (the same string + the build time, the first
 # log line), so a log and an NRO can always be matched to a commit.
 set -eu
-ROOT=${GH_ROOT:-/root/gh}
-SRC=$ROOT/src
-SDK=${REXSDK_DIR:-$ROOT/rexglue-sdk}
-NVK_SDK=${NVK_SDK:-/root/cbfd/nvk-sdk-real}
-GIT_DIR=${GH_GIT_DIR:-/mnt/d/git/dev/gh-recomp}
+ROOT=${GH_ROOT:-$PWD}
+SRC=${GH_SRC:-$ROOT}
+SDK=${REXSDK_DIR:-${SDK:-$ROOT/rexglue-sdk}}
+NVK_SDK=${NVK_SDK:-${NVK_SDK_DIR:-/root/cbfd/nvk-sdk-real}}
+GIT_DIR=${GH_GIT_DIR:-$ROOT}
 export DEVKITPRO=${DEVKITPRO:-/opt/devkitpro}
 export PATH=$DEVKITPRO/tools/bin:$DEVKITPRO/devkitA64/bin:$PATH
 BUILD=$SRC/out/build/switch
 
 mkdir -p "$SRC"
-rsync -a --delete --exclude /out --exclude /game --exclude /generated/default --exclude /.git "$GIT_DIR/" "$SRC/"
+if [ "$GIT_DIR" != "$SRC" ]; then rsync -a --delete --exclude /out --exclude /game --exclude /generated/default --exclude /.git "$GIT_DIR/" "$SRC/"; fi
 [ -f "$NVK_SDK/lib/libvulkan.a" ] || { echo "no NVK: $NVK_SDK/lib/libvulkan.a (cbfd-switch switch/build-nvk.sh)"; exit 1; }
 [ -f "$SRC/generated/default/sources.cmake" ] || { echo "no codegen output: run the Linux build first"; exit 1; }
 

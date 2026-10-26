@@ -1,0 +1,10586 @@
+[
+  {
+    "id": 0,
+    "en": "Drop dead.",
+    "addresses": [
+      "0x820207a0"
+    ],
+    "zh": "去死吧。"
+  },
+  {
+    "id": 1,
+    "en": "Let me think abou-- NO.",
+    "addresses": [
+      "0x820207b8"
+    ],
+    "zh": "让我想想——不行。"
+  },
+  {
+    "id": 2,
+    "en": "You wish.",
+    "addresses": [
+      "0x820207e8"
+    ],
+    "zh": "想得美。"
+  },
+  {
+    "id": 3,
+    "en": "Dream on.",
+    "addresses": [
+      "0x820207fc"
+    ],
+    "zh": "做梦吧。"
+  },
+  {
+    "id": 4,
+    "en": "Yes, we seek the answer.",
+    "addresses": [
+      "0x82020810"
+    ],
+    "zh": "是的，我们要寻找答案。"
+  },
+  {
+    "id": 5,
+    "en": "We fight only for our people.",
+    "addresses": [
+      "0x82020844"
+    ],
+    "zh": "我们只为百姓而战。"
+  },
+  {
+    "id": 6,
+    "en": "Well, if she's ready to die...",
+    "addresses": [
+      "0x82020880"
+    ],
+    "zh": "好吧，她要是不怕死的话……"
+  },
+  {
+    "id": 7,
+    "en": "Don't hurt her! We will obey.",
+    "addresses": [
+      "0x820208c0"
+    ],
+    "zh": "别伤害她！我们听你的。"
+  },
+  {
+    "id": 8,
+    "en": "Hang on, Lucia!",
+    "addresses": [
+      "0x820208fc"
+    ],
+    "zh": "撑住，露西亚！"
+  },
+  {
+    "id": 9,
+    "en": "We're listening.",
+    "addresses": [
+      "0x8202091c"
+    ],
+    "zh": "我们听着。"
+  },
+  {
+    "id": 10,
+    "en": "We have to stop Kanon's mechs.",
+    "addresses": [
+      "0x82020940"
+    ],
+    "zh": "必须阻止卡农的机甲。"
+  },
+  {
+    "id": 11,
+    "en": "Our kingdom needs us more.",
+    "addresses": [
+      "0x82020980"
+    ],
+    "zh": "王国更需要我们。"
+  },
+  {
+    "id": 12,
+    "en": "What would that achieve?",
+    "addresses": [
+      "0x820209b8"
+    ],
+    "zh": "那又能解决什么？"
+  },
+  {
+    "id": 13,
+    "en": "Stay out of our human quarrels.",
+    "addresses": [
+      "0x820209f0"
+    ],
+    "zh": "别插手我们人类的纷争。"
+  },
+  {
+    "id": 14,
+    "en": "Where we find evil, we end it.",
+    "addresses": [
+      "0x82020a30"
+    ],
+    "zh": "发现邪恶，就将它铲除。"
+  },
+  {
+    "id": 15,
+    "en": "Listen to yourself, Valgar!",
+    "addresses": [
+      "0x82020a70"
+    ],
+    "zh": "听听你在说什么，瓦尔加！"
+  },
+  {
+    "id": 16,
+    "en": "We WILL stop you, Valgar.",
+    "addresses": [
+      "0x82020aa8"
+    ],
+    "zh": "我们一定会阻止你，瓦尔加。"
+  },
+  {
+    "id": 17,
+    "en": "They cannot be controlled!",
+    "addresses": [
+      "0x82020adc"
+    ],
+    "zh": "它们根本无法控制！"
+  },
+  {
+    "id": 18,
+    "en": "Humankind needs us here.",
+    "addresses": [
+      "0x82020b14"
+    ],
+    "zh": "人类需要我们留在这里。"
+  },
+  {
+    "id": 19,
+    "en": "Time to kick some Earthbutt!",
+    "addresses": [
+      "0x82020b48"
+    ],
+    "zh": "该踢烂地界人的屁股了！"
+  },
+  {
+    "id": 20,
+    "en": "We're listening...",
+    "addresses": [
+      "0x82020b84"
+    ],
+    "zh": "我们听着……"
+  },
+  {
+    "id": 21,
+    "en": "We belong with our own kind.",
+    "addresses": [
+      "0x82020bac"
+    ],
+    "zh": "我们该与同胞在一起。"
+  },
+  {
+    "id": 22,
+    "en": "Who asked you, Earthblood?",
+    "addresses": [
+      "0x82020be8"
+    ],
+    "zh": "谁问你了，地界人？"
+  },
+  {
+    "id": 23,
+    "en": "Has this freed the Earthblood?",
+    "addresses": [
+      "0x82020c20"
+    ],
+    "zh": "这是否解放了地界人？"
+  },
+  {
+    "id": 24,
+    "en": "We must thwart Kanon's plans.",
+    "addresses": [
+      "0x82020c60"
+    ],
+    "zh": "必须挫败卡农的计划。"
+  },
+  {
+    "id": 25,
+    "en": "We've greater threats to face.",
+    "addresses": [
+      "0x82020c9c"
+    ],
+    "zh": "我们还有更大的威胁要应对。"
+  },
+  {
+    "id": 26,
+    "en": "Have you lost your mind?",
+    "addresses": [
+      "0x82020cdc"
+    ],
+    "zh": "你疯了吗？"
+  },
+  {
+    "id": 27,
+    "en": "The king needs to explain.",
+    "addresses": [
+      "0x82020d10"
+    ],
+    "zh": "国王必须解释清楚。"
+  },
+  {
+    "id": 28,
+    "en": "We're with you, Valgar.",
+    "addresses": [
+      "0x82020d48"
+    ],
+    "zh": "瓦尔加，我们站在你这边。"
+  },
+  {
+    "id": 29,
+    "en": "How about both your reigns?",
+    "addresses": [
+      "0x82020d78"
+    ],
+    "zh": "把你们两个的统治都终结呢？"
+  },
+  {
+    "id": 30,
+    "en": "(Lie to protect the people.)",
+    "addresses": [
+      "0x82020db0"
+    ],
+    "zh": "（撒谎保护百姓。）"
+  },
+  {
+    "id": 31,
+    "en": "Let us storm the castle.",
+    "addresses": [
+      "0x82020dec"
+    ],
+    "zh": "攻入城堡吧。"
+  },
+  {
+    "id": 32,
+    "en": "The Earthblood are the tyrants.",
+    "addresses": [
+      "0x82020e20"
+    ],
+    "zh": "地界人才是暴君。"
+  },
+  {
+    "id": 33,
+    "en": "Let us be the judge.",
+    "addresses": [
+      "0x82020e60"
+    ],
+    "zh": "让我们自己判断。"
+  },
+  {
+    "id": 34,
+    "en": "The false monarchy comes first.",
+    "addresses": [
+      "0x82020e90"
+    ],
+    "zh": "先解决虚假的王室。"
+  },
+  {
+    "id": 35,
+    "en": "We will stamp out these evils.",
+    "addresses": [
+      "0x82020ed0"
+    ],
+    "zh": "我们会铲除这些邪恶。"
+  },
+  {
+    "id": 36,
+    "en": "You did what you had to.",
+    "addresses": [
+      "0x82020f10"
+    ],
+    "zh": "你也是迫不得已。"
+  },
+  {
+    "id": 37,
+    "en": "Was force the only option?",
+    "addresses": [
+      "0x82020f44"
+    ],
+    "zh": "只能动用武力吗？"
+  },
+  {
+    "id": 38,
+    "en": "We deserve peace.",
+    "addresses": [
+      "0x82020f7c"
+    ],
+    "zh": "我们理应享有和平。"
+  },
+  {
+    "id": 39,
+    "en": "What you did was wrong.",
+    "addresses": [
+      "0x82020fa0"
+    ],
+    "zh": "你的所作所为是错的。"
+  },
+  {
+    "id": 40,
+    "en": "You're insane!",
+    "addresses": [
+      "0x82020fd0"
+    ],
+    "zh": "你疯了！"
+  },
+  {
+    "id": 41,
+    "en": "(Avoid settled areas for now.)",
+    "addresses": [
+      "0x82020ff0"
+    ],
+    "zh": "（暂时避开有人居住的地区。）"
+  },
+  {
+    "id": 42,
+    "en": "(Storm the castle head on.)",
+    "addresses": [
+      "0x82021030"
+    ],
+    "zh": "（正面进攻城堡。）"
+  },
+  {
+    "id": 43,
+    "en": "(Take the woods to the castle.)",
+    "addresses": [
+      "0x82021068"
+    ],
+    "zh": "（穿过树林前往城堡。）"
+  },
+  {
+    "id": 44,
+    "en": "(Rush to the rebels' aid.)",
+    "addresses": [
+      "0x820210a8"
+    ],
+    "zh": "（赶去支援叛军。）"
+  },
+  {
+    "id": 45,
+    "en": "(Finish Kanon off.)",
+    "addresses": [
+      "0x820210e0"
+    ],
+    "zh": "（给卡农最后一击。）"
+  },
+  {
+    "id": 46,
+    "en": "(Head for the castle.)",
+    "addresses": [
+      "0x82021108"
+    ],
+    "zh": "（前往城堡。）"
+  },
+  {
+    "id": 47,
+    "en": "(Save the rebel village.)",
+    "addresses": [
+      "0x82021138"
+    ],
+    "zh": "（拯救叛军村庄。）"
+  },
+  {
+    "id": 48,
+    "en": "The wildwood will shelter us.",
+    "addresses": [
+      "0x8202116c"
+    ],
+    "zh": "野林能为我们提供庇护。"
+  },
+  {
+    "id": 49,
+    "en": "There's a safe village nearby.",
+    "addresses": [
+      "0x820211a8"
+    ],
+    "zh": "附近有个安全的村子。"
+  },
+  {
+    "id": 50,
+    "en": "Bah! Let's go back to town.",
+    "addresses": [
+      "0x820211e8"
+    ],
+    "zh": "呸！回镇上去吧。"
+  },
+  {
+    "id": 51,
+    "en": "My wrath is sated.",
+    "addresses": [
+      "0x82021220"
+    ],
+    "zh": "我的怒火已平息。"
+  },
+  {
+    "id": 52,
+    "en": "Who else wants a piece?",
+    "addresses": [
+      "0x82021248"
+    ],
+    "zh": "还有谁想来过招？"
+  },
+  {
+    "id": 53,
+    "en": "I don't have time for games.",
+    "addresses": [
+      "0x82021278"
+    ],
+    "zh": "我没空陪你们玩。"
+  },
+  {
+    "id": 54,
+    "en": "Bring on the challengers!",
+    "addresses": [
+      "0x820212b4"
+    ],
+    "zh": "尽管来挑战吧！"
+  },
+  {
+    "id": 55,
+    "en": " as quick attack hits",
+    "addresses": [
+      "0x820250f0"
+    ],
+    "zh": "在轻攻击命中时"
+  },
+  {
+    "id": 56,
+    "en": "(throw)",
+    "addresses": [
+      "0x820251a8"
+    ],
+    "zh": "（投技）"
+  },
+  {
+    "id": 57,
+    "en": "(while flying)",
+    "addresses": [
+      "0x820251b8"
+    ],
+    "zh": "（飞行中）"
+  },
+  {
+    "id": 58,
+    "en": "(ground/air)",
+    "addresses": [
+      "0x820251d8"
+    ],
+    "zh": "（地面／空中）"
+  },
+  {
+    "id": 59,
+    "en": "(air)",
+    "addresses": [
+      "0x820251f4"
+    ],
+    "zh": "（空中）"
+  },
+  {
+    "id": 60,
+    "en": "(ground)",
+    "addresses": [
+      "0x82025200"
+    ],
+    "zh": "（地面）"
+  },
+  {
+    "id": 61,
+    "en": "Hold (A)",
+    "addresses": [
+      "0x82025214"
+    ],
+    "zh": "长按(A)"
+  },
+  {
+    "id": 62,
+    "en": "Repeatedly tap (A) as quick attack hits",
+    "addresses": [
+      "0x82025228"
+    ],
+    "zh": "轻攻击命中时连按(A)"
+  },
+  {
+    "id": 63,
+    "en": "Repeatedly tap (A)",
+    "addresses": [
+      "0x82025278"
+    ],
+    "zh": "连续按(A)"
+  },
+  {
+    "id": 64,
+    "en": "(None)",
+    "addresses": [
+      "0x820252a0"
+    ],
+    "zh": "（无）"
+  },
+  {
+    "id": 65,
+    "en": "N-Max",
+    "addresses": [
+      "0x820252b0"
+    ],
+    "zh": "南多极限"
+  },
+  {
+    "id": 66,
+    "en": "Spear Shell",
+    "addresses": [
+      "0x820252bc"
+    ],
+    "zh": "尖枪弹"
+  },
+  {
+    "id": 67,
+    "en": "Dummy Division",
+    "addresses": [
+      "0x820252d4"
+    ],
+    "zh": "分身术"
+  },
+  {
+    "id": 68,
+    "en": "Intimidate",
+    "addresses": [
+      "0x820252f4"
+    ],
+    "zh": "威吓"
+  },
+  {
+    "id": 69,
+    "en": "Claw Goyle",
+    "addresses": [
+      "0x8202530c"
+    ],
+    "zh": "石像鬼爪击"
+  },
+  {
+    "id": 70,
+    "en": "Diving Goyle",
+    "addresses": [
+      "0x82025324"
+    ],
+    "zh": "石像鬼俯冲"
+  },
+  {
+    "id": 71,
+    "en": "Flying Goyle",
+    "addresses": [
+      "0x82025340"
+    ],
+    "zh": "石像鬼飞翔"
+  },
+  {
+    "id": 72,
+    "en": "Sonic Goyle",
+    "addresses": [
+      "0x8202535c"
+    ],
+    "zh": "石像鬼音波"
+  },
+  {
+    "id": 73,
+    "en": "Mid-prisonment",
+    "addresses": [
+      "0x82025374"
+    ],
+    "zh": "米德牢笼"
+  },
+  {
+    "id": 74,
+    "en": "Mid Cyclone",
+    "addresses": [
+      "0x82025394"
+    ],
+    "zh": "米德旋风"
+  },
+  {
+    "id": 75,
+    "en": "Giant Beam",
+    "addresses": [
+      "0x820253ac"
+    ],
+    "zh": "巨人光束"
+  },
+  {
+    "id": 76,
+    "en": "Giant Pommel",
+    "addresses": [
+      "0x820253c4"
+    ],
+    "zh": "巨人重捶"
+  },
+  {
+    "id": 77,
+    "en": "Giant Bash",
+    "addresses": [
+      "0x820253e0"
+    ],
+    "zh": "巨人猛击"
+  },
+  {
+    "id": 78,
+    "en": "Giant Quake",
+    "addresses": [
+      "0x820253f8"
+    ],
+    "zh": "巨人地震"
+  },
+  {
+    "id": 79,
+    "en": "Cycloptic Blast",
+    "addresses": [
+      "0x82025410"
+    ],
+    "zh": "独眼爆破"
+  },
+  {
+    "id": 80,
+    "en": "Cy-grounder",
+    "addresses": [
+      "0x82025430"
+    ],
+    "zh": "独眼震地"
+  },
+  {
+    "id": 81,
+    "en": "Cy-smacker",
+    "addresses": [
+      "0x82025448"
+    ],
+    "zh": "独眼拍击"
+  },
+  {
+    "id": 82,
+    "en": "Cy-quake",
+    "addresses": [
+      "0x82025460"
+    ],
+    "zh": "独眼地震"
+  },
+  {
+    "id": 83,
+    "en": "Expunger Beam",
+    "addresses": [
+      "0x82025474"
+    ],
+    "zh": "抹杀光束"
+  },
+  {
+    "id": 84,
+    "en": "Omega Particle Cannon",
+    "addresses": [
+      "0x82025490"
+    ],
+    "zh": "欧米伽粒子炮"
+  },
+  {
+    "id": 85,
+    "en": "Ice Stupor Neo",
+    "addresses": [
+      "0x820254bc"
+    ],
+    "zh": "新·冰封昏睡"
+  },
+  {
+    "id": 86,
+    "en": "Balls of Magely Fire",
+    "addresses": [
+      "0x820254dc"
+    ],
+    "zh": "法师烈焰弹"
+  },
+  {
+    "id": 87,
+    "en": "Sublime Thunder",
+    "addresses": [
+      "0x82025508"
+    ],
+    "zh": "至高雷霆"
+  },
+  {
+    "id": 88,
+    "en": "Perfect Purger Barrier",
+    "addresses": [
+      "0x82025528"
+    ],
+    "zh": "净化者完美结界"
+  },
+  {
+    "id": 89,
+    "en": "Purger Heal",
+    "addresses": [
+      "0x82025558"
+    ],
+    "zh": "净化者治愈"
+  },
+  {
+    "id": 90,
+    "en": "Purger Triple Cross",
+    "addresses": [
+      "0x82025570"
+    ],
+    "zh": "净化者三重十字"
+  },
+  {
+    "id": 91,
+    "en": "Zombie's Big Chance",
+    "addresses": [
+      "0x82025598"
+    ],
+    "zh": "僵尸大好机会"
+  },
+  {
+    "id": 92,
+    "en": "Jumbo Bones",
+    "addresses": [
+      "0x820255c0"
+    ],
+    "zh": "巨型骨骸"
+  },
+  {
+    "id": 93,
+    "en": "Rebel's Miracle",
+    "addresses": [
+      "0x820255d8"
+    ],
+    "zh": "叛军奇迹"
+  },
+  {
+    "id": 94,
+    "en": "Peon's Dream",
+    "addresses": [
+      "0x820255f8"
+    ],
+    "zh": "小卒之梦"
+  },
+  {
+    "id": 95,
+    "en": "Super Thunderblade of Justice",
+    "addresses": [
+      "0x82025614"
+    ],
+    "zh": "正义超级雷电剑"
+  },
+  {
+    "id": 96,
+    "en": "Somersault Axe Counter",
+    "addresses": [
+      "0x82025650"
+    ],
+    "zh": "翻身斧反击"
+  },
+  {
+    "id": 97,
+    "en": "Rolling Finish",
+    "addresses": [
+      "0x82025680"
+    ],
+    "zh": "翻滚终结"
+  },
+  {
+    "id": 98,
+    "en": "Tornado Attack",
+    "addresses": [
+      "0x820256a0"
+    ],
+    "zh": "龙卷攻击"
+  },
+  {
+    "id": 99,
+    "en": "Binding Voice of Passion",
+    "addresses": [
+      "0x820256c0"
+    ],
+    "zh": "热情束缚之声"
+  },
+  {
+    "id": 100,
+    "en": "Charming Muscle Bomber",
+    "addresses": [
+      "0x820256f4"
+    ],
+    "zh": "魅惑肌肉炸弹"
+  },
+  {
+    "id": 101,
+    "en": "Sweet Muscle Squat",
+    "addresses": [
+      "0x82025724"
+    ],
+    "zh": "甜蜜肌肉深蹲"
+  },
+  {
+    "id": 102,
+    "en": "Sweet Muscle Push-up",
+    "addresses": [
+      "0x8202574c"
+    ],
+    "zh": "甜蜜肌肉俯卧撑"
+  },
+  {
+    "id": 103,
+    "en": "Temptatious Fresh Squall",
+    "addresses": [
+      "0x82025778"
+    ],
+    "zh": "鲜活诱惑风暴"
+  },
+  {
+    "id": 104,
+    "en": "Temptatious Muscle Shaker",
+    "addresses": [
+      "0x820257ac"
+    ],
+    "zh": "诱惑肌肉震荡"
+  },
+  {
+    "id": 105,
+    "en": "The Way of Man",
+    "addresses": [
+      "0x820257e0"
+    ],
+    "zh": "男子汉之道"
+  },
+  {
+    "id": 106,
+    "en": "The Soul of Man",
+    "addresses": [
+      "0x82025800"
+    ],
+    "zh": "男子汉之魂"
+  },
+  {
+    "id": 107,
+    "en": "Reverse Backsplosion",
+    "addresses": [
+      "0x82025820"
+    ],
+    "zh": "逆向背爆"
+  },
+  {
+    "id": 108,
+    "en": "Backsplosion",
+    "addresses": [
+      "0x8202584c"
+    ],
+    "zh": "背后爆破"
+  },
+  {
+    "id": 109,
+    "en": "Gambo Fist of Flying Dreams",
+    "addresses": [
+      "0x82025868"
+    ],
+    "zh": "甘博飞梦拳"
+  },
+  {
+    "id": 110,
+    "en": "Sure-kill Locomotive Kick",
+    "addresses": [
+      "0x820258a0"
+    ],
+    "zh": "必杀火车踢"
+  },
+  {
+    "id": 111,
+    "en": "Bear-slayer Kick of Pleasure",
+    "addresses": [
+      "0x820258d4"
+    ],
+    "zh": "快意屠熊踢"
+  },
+  {
+    "id": 112,
+    "en": "Tiger-slayer Kick of Pleasure",
+    "addresses": [
+      "0x82025910"
+    ],
+    "zh": "快意屠虎踢"
+  },
+  {
+    "id": 113,
+    "en": "Faster-than-the-wind Punch",
+    "addresses": [
+      "0x8202594c"
+    ],
+    "zh": "疾风迅拳"
+  },
+  {
+    "id": 114,
+    "en": "Self-taught Hadouhou",
+    "addresses": [
+      "0x82025984"
+    ],
+    "zh": "自创波动炮"
+  },
+  {
+    "id": 115,
+    "en": "Self-taught Kiaidan",
+    "addresses": [
+      "0x820259b0"
+    ],
+    "zh": "自创气合弹"
+  },
+  {
+    "id": 116,
+    "en": "Self-taught Youshisenrin",
+    "addresses": [
+      "0x820259d8"
+    ],
+    "zh": "自创妖枝旋轮"
+  },
+  {
+    "id": 117,
+    "en": "Self-taught Tetsuzankou",
+    "addresses": [
+      "0x82025a0c"
+    ],
+    "zh": "自创铁山靠"
+  },
+  {
+    "id": 118,
+    "en": "Self-taught Shouryuuga",
+    "addresses": [
+      "0x82025a3c"
+    ],
+    "zh": "自创升龙牙"
+  },
+  {
+    "id": 119,
+    "en": "Self-taught Shippuukyaku",
+    "addresses": [
+      "0x82025a6c"
+    ],
+    "zh": "自创疾风脚"
+  },
+  {
+    "id": 120,
+    "en": "Self-taught Renkantai",
+    "addresses": [
+      "0x82025aa0"
+    ],
+    "zh": "自创连环腿"
+  },
+  {
+    "id": 121,
+    "en": "Self-taught Utankyaku",
+    "addresses": [
+      "0x82025acc"
+    ],
+    "zh": "自创乌弹脚"
+  },
+  {
+    "id": 122,
+    "en": "Self-taught Mouko Kouhazan",
+    "addresses": [
+      "0x82025af8"
+    ],
+    "zh": "自创猛虎硬爬山"
+  },
+  {
+    "id": 123,
+    "en": "Impact Dive",
+    "addresses": [
+      "0x82025b30"
+    ],
+    "zh": "冲击俯冲"
+  },
+  {
+    "id": 124,
+    "en": "Death Sentence",
+    "addresses": [
+      "0x82025b48"
+    ],
+    "zh": "死亡宣判"
+  },
+  {
+    "id": 125,
+    "en": "Pressure Slam",
+    "addresses": [
+      "0x82025b68"
+    ],
+    "zh": "重压摔击"
+  },
+  {
+    "id": 126,
+    "en": "Recharge",
+    "addresses": [
+      "0x82025b84"
+    ],
+    "zh": "充能"
+  },
+  {
+    "id": 127,
+    "en": "Absolute Zero",
+    "addresses": [
+      "0x82025b98"
+    ],
+    "zh": "绝对零度"
+  },
+  {
+    "id": 128,
+    "en": "Total Dismissal",
+    "addresses": [
+      "0x82025bb4"
+    ],
+    "zh": "彻底抹除"
+  },
+  {
+    "id": 129,
+    "en": "Flying Fang",
+    "addresses": [
+      "0x82025bd4"
+    ],
+    "zh": "飞牙"
+  },
+  {
+    "id": 130,
+    "en": "Descent",
+    "addresses": [
+      "0x82025bec"
+    ],
+    "zh": "降临"
+  },
+  {
+    "id": 131,
+    "en": "Judgment",
+    "addresses": [
+      "0x82025bfc"
+    ],
+    "zh": "审判"
+  },
+  {
+    "id": 132,
+    "en": "Rebirth",
+    "addresses": [
+      "0x82025c10"
+    ],
+    "zh": "重生"
+  },
+  {
+    "id": 133,
+    "en": "Prayer",
+    "addresses": [
+      "0x82025c20"
+    ],
+    "zh": "祈祷"
+  },
+  {
+    "id": 134,
+    "en": "Protection",
+    "addresses": [
+      "0x82025c30"
+    ],
+    "zh": "守护"
+  },
+  {
+    "id": 135,
+    "en": "Creation",
+    "addresses": [
+      "0x82025c48"
+    ],
+    "zh": "创造"
+  },
+  {
+    "id": 136,
+    "en": "Blessing",
+    "addresses": [
+      "0x82025c5c"
+    ],
+    "zh": "祝福"
+  },
+  {
+    "id": 137,
+    "en": "Thunderbreak",
+    "addresses": [
+      "0x82025c70"
+    ],
+    "zh": "雷霆破击"
+  },
+  {
+    "id": 138,
+    "en": "Passionfire",
+    "addresses": [
+      "0x82025c8c"
+    ],
+    "zh": "热情烈焰"
+  },
+  {
+    "id": 139,
+    "en": "Great Booster Dash",
+    "addresses": [
+      "0x82025ca4"
+    ],
+    "zh": "超级推进冲刺"
+  },
+  {
+    "id": 140,
+    "en": "Illusionary Scramble",
+    "addresses": [
+      "0x82025ccc"
+    ],
+    "zh": "幻影突袭"
+  },
+  {
+    "id": 141,
+    "en": "Evil Blade",
+    "addresses": [
+      "0x82025cf8"
+    ],
+    "zh": "邪刃"
+  },
+  {
+    "id": 142,
+    "en": "Heel Impulse",
+    "addresses": [
+      "0x82025d10"
+    ],
+    "zh": "足跟冲击"
+  },
+  {
+    "id": 143,
+    "en": "Spinning Needle Storm",
+    "addresses": [
+      "0x82025d2c"
+    ],
+    "zh": "旋针风暴"
+  },
+  {
+    "id": 144,
+    "en": "Drill Press Kick",
+    "addresses": [
+      "0x82025d58"
+    ],
+    "zh": "钻压踢"
+  },
+  {
+    "id": 145,
+    "en": "Archangel Turbo Dash",
+    "addresses": [
+      "0x82025d7c"
+    ],
+    "zh": "大天使涡轮冲刺"
+  },
+  {
+    "id": 146,
+    "en": "Archangel Hundred Strike",
+    "addresses": [
+      "0x82025da8"
+    ],
+    "zh": "大天使百烈击"
+  },
+  {
+    "id": 147,
+    "en": "Archangel Atlantis Strike",
+    "addresses": [
+      "0x82025ddc"
+    ],
+    "zh": "大天使亚特兰蒂斯击"
+  },
+  {
+    "id": 148,
+    "en": "Archangel Vortex",
+    "addresses": [
+      "0x82025e10"
+    ],
+    "zh": "大天使涡流"
+  },
+  {
+    "id": 149,
+    "en": "Archangel Feint",
+    "addresses": [
+      "0x82025e34"
+    ],
+    "zh": "大天使佯攻"
+  },
+  {
+    "id": 150,
+    "en": "Archangel Spin",
+    "addresses": [
+      "0x82025e54"
+    ],
+    "zh": "大天使旋转"
+  },
+  {
+    "id": 151,
+    "en": "Operation Meteor System",
+    "addresses": [
+      "0x82025e74"
+    ],
+    "zh": "流星作战系统"
+  },
+  {
+    "id": 152,
+    "en": "Annihilation Booster System",
+    "addresses": [
+      "0x82025ea4"
+    ],
+    "zh": "歼灭推进系统"
+  },
+  {
+    "id": 153,
+    "en": "Counter Knife System",
+    "addresses": [
+      "0x82025edc"
+    ],
+    "zh": "反击刀系统"
+  },
+  {
+    "id": 154,
+    "en": "Binding Arm System",
+    "addresses": [
+      "0x82025f08"
+    ],
+    "zh": "束缚臂系统"
+  },
+  {
+    "id": 155,
+    "en": "Shoulder Crush System",
+    "addresses": [
+      "0x82025f30"
+    ],
+    "zh": "铁肩粉碎系统"
+  },
+  {
+    "id": 156,
+    "en": "Dynamic Crush System",
+    "addresses": [
+      "0x82025f5c"
+    ],
+    "zh": "强力粉碎系统"
+  },
+  {
+    "id": 157,
+    "en": "Teleportation Punch System",
+    "addresses": [
+      "0x82025f88"
+    ],
+    "zh": "瞬移拳系统"
+  },
+  {
+    "id": 158,
+    "en": "World Domination Cannon",
+    "addresses": [
+      "0x82025fc0"
+    ],
+    "zh": "世界征服炮"
+  },
+  {
+    "id": 159,
+    "en": "Flying Genius",
+    "addresses": [
+      "0x82025ff0"
+    ],
+    "zh": "飞天才"
+  },
+  {
+    "id": 160,
+    "en": "H.D.P.E.S.S.",
+    "addresses": [
+      "0x8202600c"
+    ],
+    "zh": "超次元强袭"
+  },
+  {
+    "id": 161,
+    "en": "Wonder Slicer V",
+    "addresses": [
+      "0x82026028"
+    ],
+    "zh": "奇迹切割Ⅴ"
+  },
+  {
+    "id": 162,
+    "en": "Miracle Spin",
+    "addresses": [
+      "0x82026048"
+    ],
+    "zh": "奇迹旋转"
+  },
+  {
+    "id": 163,
+    "en": "Jumping Cross",
+    "addresses": [
+      "0x82026064"
+    ],
+    "zh": "腾空十字斩"
+  },
+  {
+    "id": 164,
+    "en": "Flicker Fire",
+    "addresses": [
+      "0x82026080"
+    ],
+    "zh": "闪烁火焰"
+  },
+  {
+    "id": 165,
+    "en": "Helm Crusher",
+    "addresses": [
+      "0x8202609c"
+    ],
+    "zh": "碎盔击"
+  },
+  {
+    "id": 166,
+    "en": "Mega Masher",
+    "addresses": [
+      "0x820260b8"
+    ],
+    "zh": "超级粉碎"
+  },
+  {
+    "id": 167,
+    "en": "Surprise Sword",
+    "addresses": [
+      "0x820260d0"
+    ],
+    "zh": "奇袭剑"
+  },
+  {
+    "id": 168,
+    "en": "Dorin Sword",
+    "addresses": [
+      "0x820260f0"
+    ],
+    "zh": "多林剑"
+  },
+  {
+    "id": 169,
+    "en": "Combination Rush",
+    "addresses": [
+      "0x82026108"
+    ],
+    "zh": "连环猛攻"
+  },
+  {
+    "id": 170,
+    "en": "Death-trap Tackle",
+    "addresses": [
+      "0x8202612c"
+    ],
+    "zh": "死阱冲撞"
+  },
+  {
+    "id": 171,
+    "en": "Queen's Ice Ray",
+    "addresses": [
+      "0x82026150"
+    ],
+    "zh": "女王冰光"
+  },
+  {
+    "id": 172,
+    "en": "Queen's Blizzard",
+    "addresses": [
+      "0x82026170"
+    ],
+    "zh": "女王暴风雪"
+  },
+  {
+    "id": 173,
+    "en": "Queen's Ice",
+    "addresses": [
+      "0x82026194"
+    ],
+    "zh": "女王寒冰"
+  },
+  {
+    "id": 174,
+    "en": "Queen's Thunder",
+    "addresses": [
+      "0x820261ac"
+    ],
+    "zh": "女王雷霆"
+  },
+  {
+    "id": 175,
+    "en": "Queen's Fire",
+    "addresses": [
+      "0x820261cc"
+    ],
+    "zh": "女王烈焰"
+  },
+  {
+    "id": 176,
+    "en": "Surprise Heel",
+    "addresses": [
+      "0x820261e8"
+    ],
+    "zh": "奇袭足跟踢"
+  },
+  {
+    "id": 177,
+    "en": "Surprise Spin",
+    "addresses": [
+      "0x82026204"
+    ],
+    "zh": "奇袭旋转"
+  },
+  {
+    "id": 178,
+    "en": "Infinity Counter",
+    "addresses": [
+      "0x82026220"
+    ],
+    "zh": "无限反击"
+  },
+  {
+    "id": 179,
+    "en": "Aurora Evolution",
+    "addresses": [
+      "0x82026244"
+    ],
+    "zh": "极光进化"
+  },
+  {
+    "id": 180,
+    "en": "Spectral Slicer",
+    "addresses": [
+      "0x82026268"
+    ],
+    "zh": "幽光切割"
+  },
+  {
+    "id": 181,
+    "en": "Crimson Shock Wave",
+    "addresses": [
+      "0x82026288"
+    ],
+    "zh": "绯红冲击波"
+  },
+  {
+    "id": 182,
+    "en": "Graviton Thunder",
+    "addresses": [
+      "0x820262b0"
+    ],
+    "zh": "重力雷霆"
+  },
+  {
+    "id": 183,
+    "en": "Zero-drive Illusion",
+    "addresses": [
+      "0x820262d4"
+    ],
+    "zh": "零驱动幻影"
+  },
+  {
+    "id": 184,
+    "en": "Twin-blade Arc Impulse",
+    "addresses": [
+      "0x820262fc"
+    ],
+    "zh": "双刃弧光冲击"
+  },
+  {
+    "id": 185,
+    "en": "Ebon Shock Wave",
+    "addresses": [
+      "0x8202632c"
+    ],
+    "zh": "漆黑冲击波"
+  },
+  {
+    "id": 186,
+    "en": "Black Magic: Ray of Despair",
+    "addresses": [
+      "0x8202634c"
+    ],
+    "zh": "黑魔法：绝望光线"
+  },
+  {
+    "id": 187,
+    "en": "Black Magic: Icy Resentment",
+    "addresses": [
+      "0x82026384"
+    ],
+    "zh": "黑魔法：冰封怨恨"
+  },
+  {
+    "id": 188,
+    "en": "Black Magic: Thunderous Vendetta",
+    "addresses": [
+      "0x820263c0"
+    ],
+    "zh": "黑魔法：复仇雷霆"
+  },
+  {
+    "id": 189,
+    "en": "Black Magic: Shock Wind",
+    "addresses": [
+      "0x82026404"
+    ],
+    "zh": "黑魔法：冲击狂风"
+  },
+  {
+    "id": 190,
+    "en": "Black Arts: Magic Muster",
+    "addresses": [
+      "0x82026434"
+    ],
+    "zh": "黑秘术：魔力集结"
+  },
+  {
+    "id": 191,
+    "en": "Dark Levitation",
+    "addresses": [
+      "0x82026468"
+    ],
+    "zh": "暗黑浮空"
+  },
+  {
+    "id": 192,
+    "en": "Dark Field",
+    "addresses": [
+      "0x82026488"
+    ],
+    "zh": "暗黑领域"
+  },
+  {
+    "id": 193,
+    "en": "Decimation Blast",
+    "addresses": [
+      "0x820264a0"
+    ],
+    "zh": "毁灭爆破"
+  },
+  {
+    "id": 194,
+    "en": "Grudge Blade",
+    "addresses": [
+      "0x820264c4"
+    ],
+    "zh": "怨恨之刃"
+  },
+  {
+    "id": 195,
+    "en": "Vertical Vengeance",
+    "addresses": [
+      "0x820264e0"
+    ],
+    "zh": "垂直复仇"
+  },
+  {
+    "id": 196,
+    "en": "Accursed Flame",
+    "addresses": [
+      "0x82026508"
+    ],
+    "zh": "诅咒之焰"
+  },
+  {
+    "id": 197,
+    "en": "Decimation Crush",
+    "addresses": [
+      "0x82026528"
+    ],
+    "zh": "毁灭重击"
+  },
+  {
+    "id": 198,
+    "en": "Mortal Buster",
+    "addresses": [
+      "0x8202654c"
+    ],
+    "zh": "致命爆破"
+  },
+  {
+    "id": 199,
+    "en": "Flying Death Tackle",
+    "addresses": [
+      "0x82026568"
+    ],
+    "zh": "飞天死亡冲撞"
+  },
+  {
+    "id": 200,
+    "en": "Deathly Flame",
+    "addresses": [
+      "0x82026590"
+    ],
+    "zh": "死亡烈焰"
+  },
+  {
+    "id": 201,
+    "en": "Valkyrie's Javelin",
+    "addresses": [
+      "0x820265ac"
+    ],
+    "zh": "女武神之枪"
+  },
+  {
+    "id": 202,
+    "en": "Angel's Breath",
+    "addresses": [
+      "0x820265d4"
+    ],
+    "zh": "天使之息"
+  },
+  {
+    "id": 203,
+    "en": "Byakko Fang",
+    "addresses": [
+      "0x820265f4"
+    ],
+    "zh": "白虎之牙"
+  },
+  {
+    "id": 204,
+    "en": "Thor's Hammer",
+    "addresses": [
+      "0x8202660c"
+    ],
+    "zh": "雷神之锤"
+  },
+  {
+    "id": 205,
+    "en": "Phoenix Arrow",
+    "addresses": [
+      "0x82026628"
+    ],
+    "zh": "凤凰之箭"
+  },
+  {
+    "id": 206,
+    "en": "Surprise Kick",
+    "addresses": [
+      "0x82026644"
+    ],
+    "zh": "奇袭踢"
+  },
+  {
+    "id": 207,
+    "en": "Surprise Roll",
+    "addresses": [
+      "0x82026660"
+    ],
+    "zh": "奇袭翻滚"
+  },
+  {
+    "id": 208,
+    "en": "Nemesis Counter",
+    "addresses": [
+      "0x8202667c"
+    ],
+    "zh": "复仇反击"
+  },
+  {
+    "id": 209,
+    "en": "Somersault Kick",
+    "addresses": [
+      "0x8202669c"
+    ],
+    "zh": "翻身踢"
+  },
+  {
+    "id": 210,
+    "en": "Justice Blade",
+    "addresses": [
+      "0x820266bc"
+    ],
+    "zh": "正义之刃"
+  },
+  {
+    "id": 211,
+    "en": "Moon Slicer",
+    "addresses": [
+      "0x820266d8"
+    ],
+    "zh": "斩月"
+  },
+  {
+    "id": 212,
+    "en": "Sonic Boom",
+    "addresses": [
+      "0x820266f0"
+    ],
+    "zh": "音爆"
+  },
+  {
+    "id": 213,
+    "en": "Smiley",
+    "addresses": [
+      "0x82026708"
+    ],
+    "zh": "笑脸"
+  },
+  {
+    "id": 214,
+    "en": "Healing",
+    "addresses": [
+      "0x82026718"
+    ],
+    "zh": "治愈"
+  },
+  {
+    "id": 215,
+    "en": "Barrier",
+    "addresses": [
+      "0x82026728"
+    ],
+    "zh": "结界"
+  },
+  {
+    "id": 216,
+    "en": "Rocket Jump",
+    "addresses": [
+      "0x82026738"
+    ],
+    "zh": "火箭跳"
+  },
+  {
+    "id": 217,
+    "en": "Airborne Smiley Staff",
+    "addresses": [
+      "0x82026750"
+    ],
+    "zh": "空中笑脸杖"
+  },
+  {
+    "id": 218,
+    "en": "Smiley Staff",
+    "addresses": [
+      "0x8202677c"
+    ],
+    "zh": "笑脸杖"
+  },
+  {
+    "id": 219,
+    "en": "Darn You!",
+    "addresses": [
+      "0x82026798"
+    ],
+    "zh": "可恶！"
+  },
+  {
+    "id": 220,
+    "en": "Holy Spin",
+    "addresses": [
+      "0x820267ac"
+    ],
+    "zh": "神圣旋转"
+  },
+  {
+    "id": 221,
+    "en": "Oof!",
+    "addresses": [
+      "0x820267c0"
+    ],
+    "zh": "哎哟！"
+  },
+  {
+    "id": 222,
+    "en": "Lightning Shift",
+    "addresses": [
+      "0x820267cc"
+    ],
+    "zh": "雷光移步"
+  },
+  {
+    "id": 223,
+    "en": "Thunderblight",
+    "addresses": [
+      "0x820267ec"
+    ],
+    "zh": "雷祸"
+  },
+  {
+    "id": 224,
+    "en": "Lightning Palm",
+    "addresses": [
+      "0x82026808"
+    ],
+    "zh": "雷光掌"
+  },
+  {
+    "id": 225,
+    "en": "Fireblight",
+    "addresses": [
+      "0x82026828"
+    ],
+    "zh": "火祸"
+  },
+  {
+    "id": 226,
+    "en": "Ibushi Thunderclap Kick",
+    "addresses": [
+      "0x82026840"
+    ],
+    "zh": "伊布西雷鸣踢"
+  },
+  {
+    "id": 227,
+    "en": "Ibushi Shadowless Kick",
+    "addresses": [
+      "0x82026870"
+    ],
+    "zh": "伊布西无影脚"
+  },
+  {
+    "id": 228,
+    "en": "Ibushi Ambush Spin",
+    "addresses": [
+      "0x820268a0"
+    ],
+    "zh": "伊布西伏击旋转"
+  },
+  {
+    "id": 229,
+    "en": "Ibushi Sky Dance",
+    "addresses": [
+      "0x820268c8"
+    ],
+    "zh": "伊布西空舞"
+  },
+  {
+    "id": 230,
+    "en": "Ibushi Shadowless Dash",
+    "addresses": [
+      "0x820268ec"
+    ],
+    "zh": "伊布西无影疾走"
+  },
+  {
+    "id": 231,
+    "en": "Ibushi Human Top",
+    "addresses": [
+      "0x8202691c"
+    ],
+    "zh": "伊布西人陀螺"
+  },
+  {
+    "id": 232,
+    "en": "Ibushi Mirage Sword",
+    "addresses": [
+      "0x82026940"
+    ],
+    "zh": "伊布西幻影剑"
+  },
+  {
+    "id": 233,
+    "en": "High Magic: Fire Blaster",
+    "addresses": [
+      "0x82026968"
+    ],
+    "zh": "高阶魔法：烈焰炮"
+  },
+  {
+    "id": 234,
+    "en": "High Magic: Tornado",
+    "addresses": [
+      "0x8202699c"
+    ],
+    "zh": "高阶魔法：龙卷风"
+  },
+  {
+    "id": 235,
+    "en": "High Magic: Ice Field",
+    "addresses": [
+      "0x820269c4"
+    ],
+    "zh": "高阶魔法：冰原"
+  },
+  {
+    "id": 236,
+    "en": "High Magic: Thunderbolt",
+    "addresses": [
+      "0x820269f0"
+    ],
+    "zh": "高阶魔法：落雷"
+  },
+  {
+    "id": 237,
+    "en": "High Magic: Fire Wall",
+    "addresses": [
+      "0x82026a20"
+    ],
+    "zh": "高阶魔法：火墙"
+  },
+  {
+    "id": 238,
+    "en": "High Magic: Fireball",
+    "addresses": [
+      "0x82026a4c"
+    ],
+    "zh": "高阶魔法：火球"
+  },
+  {
+    "id": 239,
+    "en": "N-Max (Story Mode only)",
+    "addresses": [
+      "0x82026a78"
+    ],
+    "zh": "南多极限（仅剧情模式）"
+  },
+  {
+    "id": 240,
+    "en": "Ibushi Triple Skull Stomp",
+    "addresses": [
+      "0x82026aa8"
+    ],
+    "zh": "伊布西三连踏头"
+  },
+  {
+    "id": 241,
+    "en": "Ibushi Shackle Staff",
+    "addresses": [
+      "0x82026adc"
+    ],
+    "zh": "伊布西束缚杖"
+  },
+  {
+    "id": 242,
+    "en": "Ibushi Wall of Wind",
+    "addresses": [
+      "0x82026b08"
+    ],
+    "zh": "伊布西风墙"
+  },
+  {
+    "id": 243,
+    "en": "Ibushi Dancing Staff",
+    "addresses": [
+      "0x82026b30"
+    ],
+    "zh": "伊布西舞杖"
+  },
+  {
+    "id": 244,
+    "en": "Honcho Burner",
+    "addresses": [
+      "0x82026b5c"
+    ],
+    "zh": "头领燃烧"
+  },
+  {
+    "id": 245,
+    "en": "Honcho Hyperdrive",
+    "addresses": [
+      "0x82026b78"
+    ],
+    "zh": "头领超驱动"
+  },
+  {
+    "id": 246,
+    "en": "Honcho Miracle",
+    "addresses": [
+      "0x82026b9c"
+    ],
+    "zh": "头领奇迹"
+  },
+  {
+    "id": 247,
+    "en": "Honcho Maximum",
+    "addresses": [
+      "0x82026bbc"
+    ],
+    "zh": "头领极限"
+  },
+  {
+    "id": 248,
+    "en": "Honcho Finale",
+    "addresses": [
+      "0x82026bdc"
+    ],
+    "zh": "头领终结"
+  },
+  {
+    "id": 249,
+    "en": "Honcho Special",
+    "addresses": [
+      "0x82026bf8"
+    ],
+    "zh": "头领特别技"
+  },
+  {
+    "id": 250,
+    "en": "Honcho Dynamite",
+    "addresses": [
+      "0x82026c18"
+    ],
+    "zh": "头领爆破"
+  },
+  {
+    "id": 251,
+    "en": "Han Burner",
+    "addresses": [
+      "0x82026c38"
+    ],
+    "zh": "哈恩燃烧"
+  },
+  {
+    "id": 252,
+    "en": "Han Hyperdrive",
+    "addresses": [
+      "0x82026c50"
+    ],
+    "zh": "哈恩超驱动"
+  },
+  {
+    "id": 253,
+    "en": "Han Miracle",
+    "addresses": [
+      "0x82026c70"
+    ],
+    "zh": "哈恩奇迹"
+  },
+  {
+    "id": 254,
+    "en": "Han Maximum",
+    "addresses": [
+      "0x82026c88"
+    ],
+    "zh": "哈恩极限"
+  },
+  {
+    "id": 255,
+    "en": "Han Finale",
+    "addresses": [
+      "0x82026ca0"
+    ],
+    "zh": "哈恩终结"
+  },
+  {
+    "id": 256,
+    "en": "Han Special",
+    "addresses": [
+      "0x82026cb8"
+    ],
+    "zh": "哈恩特别技"
+  },
+  {
+    "id": 257,
+    "en": "Han Dynamite",
+    "addresses": [
+      "0x82026cd0"
+    ],
+    "zh": "哈恩爆破"
+  },
+  {
+    "id": 258,
+    "en": "Russia",
+    "addresses": [
+      "0x8202f76c"
+    ],
+    "zh": "俄罗斯"
+  },
+  {
+    "id": 259,
+    "en": "United States",
+    "addresses": [
+      "0x8202f77c"
+    ],
+    "zh": "美国"
+  },
+  {
+    "id": 260,
+    "en": "United Kingdom",
+    "addresses": [
+      "0x8202f798"
+    ],
+    "zh": "英国"
+  },
+  {
+    "id": 261,
+    "en": "Taiwan",
+    "addresses": [
+      "0x8202f7b8"
+    ],
+    "zh": "台湾"
+  },
+  {
+    "id": 262,
+    "en": "Switzerland",
+    "addresses": [
+      "0x8202f7c8"
+    ],
+    "zh": "瑞士"
+  },
+  {
+    "id": 263,
+    "en": "Sweden",
+    "addresses": [
+      "0x8202f7e0"
+    ],
+    "zh": "瑞典"
+  },
+  {
+    "id": 264,
+    "en": "Spain",
+    "addresses": [
+      "0x8202f7f0"
+    ],
+    "zh": "西班牙"
+  },
+  {
+    "id": 265,
+    "en": "South Africa",
+    "addresses": [
+      "0x8202f7fc"
+    ],
+    "zh": "南非"
+  },
+  {
+    "id": 266,
+    "en": "Slovakia",
+    "addresses": [
+      "0x8202f818"
+    ],
+    "zh": "斯洛伐克"
+  },
+  {
+    "id": 267,
+    "en": "Singapore",
+    "addresses": [
+      "0x8202f82c"
+    ],
+    "zh": "新加坡"
+  },
+  {
+    "id": 268,
+    "en": "Portugal",
+    "addresses": [
+      "0x8202f840"
+    ],
+    "zh": "葡萄牙"
+  },
+  {
+    "id": 269,
+    "en": "Poland",
+    "addresses": [
+      "0x8202f854"
+    ],
+    "zh": "波兰"
+  },
+  {
+    "id": 270,
+    "en": "Norway",
+    "addresses": [
+      "0x8202f864"
+    ],
+    "zh": "挪威"
+  },
+  {
+    "id": 271,
+    "en": "New Zealand",
+    "addresses": [
+      "0x8202f874"
+    ],
+    "zh": "新西兰"
+  },
+  {
+    "id": 272,
+    "en": "Netherlands",
+    "addresses": [
+      "0x8202f88c"
+    ],
+    "zh": "荷兰"
+  },
+  {
+    "id": 273,
+    "en": "Mexico",
+    "addresses": [
+      "0x8202f8a4"
+    ],
+    "zh": "墨西哥"
+  },
+  {
+    "id": 274,
+    "en": "Korea",
+    "addresses": [
+      "0x8202f8b4"
+    ],
+    "zh": "韩国"
+  },
+  {
+    "id": 275,
+    "en": "Japan",
+    "addresses": [
+      "0x8202f8c0"
+    ],
+    "zh": "日本"
+  },
+  {
+    "id": 276,
+    "en": "Italy",
+    "addresses": [
+      "0x8202f8cc"
+    ],
+    "zh": "意大利"
+  },
+  {
+    "id": 277,
+    "en": "Ireland",
+    "addresses": [
+      "0x8202f8d8"
+    ],
+    "zh": "爱尔兰"
+  },
+  {
+    "id": 278,
+    "en": "India",
+    "addresses": [
+      "0x8202f8e8"
+    ],
+    "zh": "印度"
+  },
+  {
+    "id": 279,
+    "en": "Hungary",
+    "addresses": [
+      "0x8202f8f4"
+    ],
+    "zh": "匈牙利"
+  },
+  {
+    "id": 280,
+    "en": "Hong Kong SAR",
+    "addresses": [
+      "0x8202f904"
+    ],
+    "zh": "香港特别行政区"
+  },
+  {
+    "id": 281,
+    "en": "Greece",
+    "addresses": [
+      "0x8202f920"
+    ],
+    "zh": "希腊"
+  },
+  {
+    "id": 282,
+    "en": "Germany",
+    "addresses": [
+      "0x8202f930"
+    ],
+    "zh": "德国"
+  },
+  {
+    "id": 283,
+    "en": "France",
+    "addresses": [
+      "0x8202f940"
+    ],
+    "zh": "法国"
+  },
+  {
+    "id": 284,
+    "en": "Finland",
+    "addresses": [
+      "0x8202f950"
+    ],
+    "zh": "芬兰"
+  },
+  {
+    "id": 285,
+    "en": "Denmark",
+    "addresses": [
+      "0x8202f960"
+    ],
+    "zh": "丹麦"
+  },
+  {
+    "id": 286,
+    "en": "Czech Republic",
+    "addresses": [
+      "0x8202f970"
+    ],
+    "zh": "捷克"
+  },
+  {
+    "id": 287,
+    "en": "Colombia",
+    "addresses": [
+      "0x8202f990"
+    ],
+    "zh": "哥伦比亚"
+  },
+  {
+    "id": 288,
+    "en": "China",
+    "addresses": [
+      "0x8202f9a4"
+    ],
+    "zh": "中国"
+  },
+  {
+    "id": 289,
+    "en": "Chile",
+    "addresses": [
+      "0x8202f9b0"
+    ],
+    "zh": "智利"
+  },
+  {
+    "id": 290,
+    "en": "Canada",
+    "addresses": [
+      "0x8202f9bc"
+    ],
+    "zh": "加拿大"
+  },
+  {
+    "id": 291,
+    "en": "Brazil",
+    "addresses": [
+      "0x8202f9cc"
+    ],
+    "zh": "巴西"
+  },
+  {
+    "id": 292,
+    "en": "Belgium",
+    "addresses": [
+      "0x8202f9dc"
+    ],
+    "zh": "比利时"
+  },
+  {
+    "id": 293,
+    "en": "Austria",
+    "addresses": [
+      "0x8202f9ec"
+    ],
+    "zh": "奥地利"
+  },
+  {
+    "id": 294,
+    "en": "Australia",
+    "addresses": [
+      "0x8202f9fc"
+    ],
+    "zh": "澳大利亚"
+  },
+  {
+    "id": 295,
+    "en": "Unknown",
+    "addresses": [
+      "0x8202fa10"
+    ],
+    "zh": "未知"
+  },
+  {
+    "id": 296,
+    "en": "Total",
+    "addresses": [
+      "0x8202fa20"
+    ],
+    "zh": "总计"
+  },
+  {
+    "id": 297,
+    "en": "Defaults",
+    "addresses": [
+      "0x8202fa2c"
+    ],
+    "zh": "默认"
+  },
+  {
+    "id": 298,
+    "en": "Random",
+    "addresses": [
+      "0x8202fa40"
+    ],
+    "zh": "随机"
+  },
+  {
+    "id": 299,
+    "en": "None",
+    "addresses": [
+      "0x8202fa50"
+    ],
+    "zh": "无"
+  },
+  {
+    "id": 300,
+    "en": "Trap",
+    "addresses": [
+      "0x8202fa5c"
+    ],
+    "zh": "陷阱"
+  },
+  {
+    "id": 301,
+    "en": "Complex Soldiers",
+    "addresses": [
+      "0x8202fa68"
+    ],
+    "zh": "复合士兵"
+  },
+  {
+    "id": 302,
+    "en": "A Happy New World",
+    "addresses": [
+      "0x8202fa8c"
+    ],
+    "zh": "快乐新世界"
+  },
+  {
+    "id": 303,
+    "en": "Notorious Don",
+    "addresses": [
+      "0x8202fab0"
+    ],
+    "zh": "恶名首领"
+  },
+  {
+    "id": 304,
+    "en": "Heroes' Theme",
+    "addresses": [
+      "0x8202facc"
+    ],
+    "zh": "英雄主题曲"
+  },
+  {
+    "id": 305,
+    "en": "Rough and Ready",
+    "addresses": [
+      "0x8202fae8"
+    ],
+    "zh": "粗犷豪放"
+  },
+  {
+    "id": 306,
+    "en": "Methods",
+    "addresses": [
+      "0x8202fb08"
+    ],
+    "zh": "手段"
+  },
+  {
+    "id": 307,
+    "en": "Pointer Bros & Sis",
+    "addresses": [
+      "0x8202fb18"
+    ],
+    "zh": "指针兄妹"
+  },
+  {
+    "id": 308,
+    "en": "\"Toki\" Meki Saxophone",
+    "addresses": [
+      "0x8202fb40"
+    ],
+    "zh": "“心动”萨克斯"
+  },
+  {
+    "id": 309,
+    "en": "Roundabout",
+    "addresses": [
+      "0x8202fb6c"
+    ],
+    "zh": "迂回"
+  },
+  {
+    "id": 310,
+    "en": "I'm Not Alone",
+    "addresses": [
+      "0x8202fb84"
+    ],
+    "zh": "我并不孤单"
+  },
+  {
+    "id": 311,
+    "en": "Bolero Finale",
+    "addresses": [
+      "0x8202fba0"
+    ],
+    "zh": "波莱罗终曲"
+  },
+  {
+    "id": 312,
+    "en": "The Sword",
+    "addresses": [
+      "0x8202fbbc"
+    ],
+    "zh": "宝剑"
+  },
+  {
+    "id": 313,
+    "en": "Dear \"Amadeus\"",
+    "addresses": [
+      "0x8202fbd0"
+    ],
+    "zh": "致“阿玛迪斯”"
+  },
+  {
+    "id": 314,
+    "en": "It's Alive",
+    "addresses": [
+      "0x8202fbf0"
+    ],
+    "zh": "它活了"
+  },
+  {
+    "id": 315,
+    "en": "Brave Parade",
+    "addresses": [
+      "0x8202fc08"
+    ],
+    "zh": "勇者行进曲"
+  },
+  {
+    "id": 316,
+    "en": "The Plot",
+    "addresses": [
+      "0x8202fc24"
+    ],
+    "zh": "阴谋"
+  },
+  {
+    "id": 317,
+    "en": "Jazzy Sabotage",
+    "addresses": [
+      "0x8202fc38"
+    ],
+    "zh": "爵士破坏行动"
+  },
+  {
+    "id": 318,
+    "en": "Indy",
+    "addresses": [
+      "0x8202fc58"
+    ],
+    "zh": "独行"
+  },
+  {
+    "id": 319,
+    "en": "Shuffler in the Dark",
+    "addresses": [
+      "0x8202fc64"
+    ],
+    "zh": "暗夜潜行者"
+  },
+  {
+    "id": 320,
+    "en": "Escape from XX",
+    "addresses": [
+      "0x8202fc90"
+    ],
+    "zh": "逃离XX"
+  },
+  {
+    "id": 321,
+    "en": "Fighters of Pain",
+    "addresses": [
+      "0x8202fcb0"
+    ],
+    "zh": "痛苦斗士"
+  },
+  {
+    "id": 322,
+    "en": "Open Your Heart",
+    "addresses": [
+      "0x8202fcd4"
+    ],
+    "zh": "敞开心扉"
+  },
+  {
+    "id": 323,
+    "en": "Throne Room",
+    "addresses": [
+      "0x8202fcf4"
+    ],
+    "zh": "王座厅"
+  },
+  {
+    "id": 324,
+    "en": "The Valley",
+    "addresses": [
+      "0x8202fd0c"
+    ],
+    "zh": "山谷"
+  },
+  {
+    "id": 325,
+    "en": "The Waste",
+    "addresses": [
+      "0x8202fd24"
+    ],
+    "zh": "荒地"
+  },
+  {
+    "id": 326,
+    "en": "The Hellhall",
+    "addresses": [
+      "0x8202fd38"
+    ],
+    "zh": "地狱大厅"
+  },
+  {
+    "id": 327,
+    "en": "The Cavern",
+    "addresses": [
+      "0x8202fd54"
+    ],
+    "zh": "洞窟"
+  },
+  {
+    "id": 328,
+    "en": "Rogues' Lair",
+    "addresses": [
+      "0x8202fd6c"
+    ],
+    "zh": "盗贼巢穴"
+  },
+  {
+    "id": 329,
+    "en": "The Church",
+    "addresses": [
+      "0x8202fd88"
+    ],
+    "zh": "教堂"
+  },
+  {
+    "id": 330,
+    "en": "The Bridge",
+    "addresses": [
+      "0x8202fda0"
+    ],
+    "zh": "桥梁"
+  },
+  {
+    "id": 331,
+    "en": "The Cemetery",
+    "addresses": [
+      "0x8202fdb8"
+    ],
+    "zh": "墓地"
+  },
+  {
+    "id": 332,
+    "en": "Castle Gates",
+    "addresses": [
+      "0x8202fdd4"
+    ],
+    "zh": "城堡大门"
+  },
+  {
+    "id": 333,
+    "en": "Castle Halls",
+    "addresses": [
+      "0x8202fdf0"
+    ],
+    "zh": "城堡大厅"
+  },
+  {
+    "id": 334,
+    "en": "Town (Night)",
+    "addresses": [
+      "0x8202fe0c"
+    ],
+    "zh": "城镇（夜）"
+  },
+  {
+    "id": 335,
+    "en": "Town (Daytime)",
+    "addresses": [
+      "0x8202fe28"
+    ],
+    "zh": "城镇（日）"
+  },
+  {
+    "id": 336,
+    "en": "The Coliseum",
+    "addresses": [
+      "0x8202fe48"
+    ],
+    "zh": "竞技场"
+  },
+  {
+    "id": 337,
+    "en": "Shrine Tunnel",
+    "addresses": [
+      "0x8202fe64"
+    ],
+    "zh": "神殿隧道"
+  },
+  {
+    "id": 338,
+    "en": "Dark Shrine",
+    "addresses": [
+      "0x8202fe80"
+    ],
+    "zh": "黑暗神殿"
+  },
+  {
+    "id": 339,
+    "en": "Temple Sanctum",
+    "addresses": [
+      "0x8202fe98"
+    ],
+    "zh": "神殿内堂"
+  },
+  {
+    "id": 340,
+    "en": "Temple On High",
+    "addresses": [
+      "0x8202feb8"
+    ],
+    "zh": "云端神殿"
+  },
+  {
+    "id": 341,
+    "en": "The Wildwood",
+    "addresses": [
+      "0x8202fed8"
+    ],
+    "zh": "野林"
+  },
+  {
+    "id": 342,
+    "en": "Old Wargrounds",
+    "addresses": [
+      "0x8202fef4"
+    ],
+    "zh": "古战场"
+  },
+  {
+    "id": 343,
+    "en": "The Village",
+    "addresses": [
+      "0x8202ff14"
+    ],
+    "zh": "村庄"
+  },
+  {
+    "id": 344,
+    "en": "The Meadows",
+    "addresses": [
+      "0x8202ff2c"
+    ],
+    "zh": "草原"
+  },
+  {
+    "id": 345,
+    "en": "A New Journey",
+    "addresses": [
+      "0x8202ff44"
+    ],
+    "zh": "新的旅程"
+  },
+  {
+    "id": 346,
+    "en": "Paradise",
+    "addresses": [
+      "0x8202ff60"
+    ],
+    "zh": "乐园"
+  },
+  {
+    "id": 347,
+    "en": "Warrior of Light",
+    "addresses": [
+      "0x8202ff74"
+    ],
+    "zh": "光之战士"
+  },
+  {
+    "id": 348,
+    "en": "Geared for Disaster",
+    "addresses": [
+      "0x8202ff98"
+    ],
+    "zh": "机械灾祸"
+  },
+  {
+    "id": 349,
+    "en": "Scenario for Destruction",
+    "addresses": [
+      "0x8202ffc0"
+    ],
+    "zh": "毁灭剧本"
+  },
+  {
+    "id": 350,
+    "en": "The Madman's Ball",
+    "addresses": [
+      "0x8202fff4"
+    ],
+    "zh": "狂人舞会"
+  },
+  {
+    "id": 351,
+    "en": "Destiny",
+    "addresses": [
+      "0x82030018"
+    ],
+    "zh": "命运"
+  },
+  {
+    "id": 352,
+    "en": "The Truth",
+    "addresses": [
+      "0x82030028"
+    ],
+    "zh": "真相"
+  },
+  {
+    "id": 353,
+    "en": "The Steel Keep",
+    "addresses": [
+      "0x8203003c"
+    ],
+    "zh": "钢铁要塞"
+  },
+  {
+    "id": 354,
+    "en": "Battle Beneath the Castle",
+    "addresses": [
+      "0x8203005c"
+    ],
+    "zh": "城堡地下之战"
+  },
+  {
+    "id": 355,
+    "en": "Choices",
+    "addresses": [
+      "0x82030090"
+    ],
+    "zh": "抉择"
+  },
+  {
+    "id": 356,
+    "en": "Whose Heart Beats Stronger",
+    "addresses": [
+      "0x820300a0"
+    ],
+    "zh": "谁的心更坚定"
+  },
+  {
+    "id": 357,
+    "en": "Wings of Defiance",
+    "addresses": [
+      "0x820300d8"
+    ],
+    "zh": "不屈之翼"
+  },
+  {
+    "id": 358,
+    "en": "Vengeance",
+    "addresses": [
+      "0x820300fc"
+    ],
+    "zh": "复仇"
+  },
+  {
+    "id": 359,
+    "en": "Dark Labyrinth",
+    "addresses": [
+      "0x82030110"
+    ],
+    "zh": "黑暗迷宫"
+  },
+  {
+    "id": 360,
+    "en": "Wizard's Fortress",
+    "addresses": [
+      "0x82030130"
+    ],
+    "zh": "法师堡垒"
+  },
+  {
+    "id": 361,
+    "en": "A Flash of Smitening",
+    "addresses": [
+      "0x82030154"
+    ],
+    "zh": "惩戒之光"
+  },
+  {
+    "id": 362,
+    "en": "Unforeseen Developments",
+    "addresses": [
+      "0x82030180"
+    ],
+    "zh": "意料之外"
+  },
+  {
+    "id": 363,
+    "en": "Straight On Till Mourning",
+    "addresses": [
+      "0x820301b0"
+    ],
+    "zh": "直至哀悼之时"
+  },
+  {
+    "id": 364,
+    "en": "The Puppet's Doubts",
+    "addresses": [
+      "0x820301e4"
+    ],
+    "zh": "傀儡的疑虑"
+  },
+  {
+    "id": 365,
+    "en": "Town of Treachery",
+    "addresses": [
+      "0x8203020c"
+    ],
+    "zh": "背叛之城"
+  },
+  {
+    "id": 366,
+    "en": "Macho and His Muscle",
+    "addresses": [
+      "0x82030230"
+    ],
+    "zh": "马乔与他的肌肉"
+  },
+  {
+    "id": 367,
+    "en": "Grounds of Sorrow",
+    "addresses": [
+      "0x8203025c"
+    ],
+    "zh": "悲伤之地"
+  },
+  {
+    "id": 368,
+    "en": "The Captive Kingdom",
+    "addresses": [
+      "0x82030280"
+    ],
+    "zh": "被囚禁的王国"
+  },
+  {
+    "id": 369,
+    "en": "Royally Set Up",
+    "addresses": [
+      "0x820302a8"
+    ],
+    "zh": "王室陷阱"
+  },
+  {
+    "id": 370,
+    "en": "Futile Resistance",
+    "addresses": [
+      "0x820302c8"
+    ],
+    "zh": "徒劳的反抗"
+  },
+  {
+    "id": 371,
+    "en": "Of Mechs and Men",
+    "addresses": [
+      "0x820302ec"
+    ],
+    "zh": "机甲与人"
+  },
+  {
+    "id": 372,
+    "en": "Menace in the Wood",
+    "addresses": [
+      "0x82030310"
+    ],
+    "zh": "林中威胁"
+  },
+  {
+    "id": 373,
+    "en": "Prelude to Hope",
+    "addresses": [
+      "0x82030338"
+    ],
+    "zh": "希望序曲"
+  },
+  {
+    "id": 374,
+    "en": "Awakening",
+    "addresses": [
+      "0x82030358"
+    ],
+    "zh": "觉醒"
+  },
+  {
+    "id": 375,
+    "en": "Belus",
+    "addresses": [
+      "0x8203036c"
+    ],
+    "zh": "贝鲁斯"
+  },
+  {
+    "id": 376,
+    "en": "Gash",
+    "addresses": [
+      "0x82030378"
+    ],
+    "zh": "加修"
+  },
+  {
+    "id": 377,
+    "en": "Earth Spirit",
+    "addresses": [
+      "0x82030384"
+    ],
+    "zh": "地灵"
+  },
+  {
+    "id": 378,
+    "en": "Sky Warrior",
+    "addresses": [
+      "0x820303a0"
+    ],
+    "zh": "天界战士"
+  },
+  {
+    "id": 379,
+    "en": "Sky Spirit",
+    "addresses": [
+      "0x820303b8"
+    ],
+    "zh": "天灵"
+  },
+  {
+    "id": 380,
+    "en": "Civ. Blimp",
+    "addresses": [
+      "0x820303d0"
+    ],
+    "zh": "胖平民"
+  },
+  {
+    "id": 381,
+    "en": "Civ. Wimp",
+    "addresses": [
+      "0x820303e8"
+    ],
+    "zh": "瘦平民"
+  },
+  {
+    "id": 382,
+    "en": "Civ. Elder",
+    "addresses": [
+      "0x820303fc"
+    ],
+    "zh": "老平民"
+  },
+  {
+    "id": 383,
+    "en": "Civ. Child",
+    "addresses": [
+      "0x82030414"
+    ],
+    "zh": "小平民"
+  },
+  {
+    "id": 384,
+    "en": "Civ. Woman",
+    "addresses": [
+      "0x8203042c"
+    ],
+    "zh": "女平民"
+  },
+  {
+    "id": 385,
+    "en": "Manon",
+    "addresses": [
+      "0x82030444"
+    ],
+    "zh": "马农"
+  },
+  {
+    "id": 386,
+    "en": "Gambo",
+    "addresses": [
+      "0x82030450"
+    ],
+    "zh": "甘博"
+  },
+  {
+    "id": 387,
+    "en": "Macho",
+    "addresses": [
+      "0x8203045c"
+    ],
+    "zh": "马乔"
+  },
+  {
+    "id": 388,
+    "en": "Golem God",
+    "addresses": [
+      "0x82030468"
+    ],
+    "zh": "魔像神"
+  },
+  {
+    "id": 389,
+    "en": "Katrina",
+    "addresses": [
+      "0x8203047c"
+    ],
+    "zh": "卡特莉娜"
+  },
+  {
+    "id": 390,
+    "en": "Lucia",
+    "addresses": [
+      "0x8203048c"
+    ],
+    "zh": "露西亚"
+  },
+  {
+    "id": 391,
+    "en": "The King",
+    "addresses": [
+      "0x82030498"
+    ],
+    "zh": "国王"
+  },
+  {
+    "id": 392,
+    "en": "Valgar",
+    "addresses": [
+      "0x820304ac"
+    ],
+    "zh": "瓦尔加"
+  },
+  {
+    "id": 393,
+    "en": "Kanon",
+    "addresses": [
+      "0x820304bc"
+    ],
+    "zh": "卡农"
+  },
+  {
+    "id": 394,
+    "en": "Nicole",
+    "addresses": [
+      "0x820304c8"
+    ],
+    "zh": "妮可"
+  },
+  {
+    "id": 395,
+    "en": "Ginjirou",
+    "addresses": [
+      "0x820304d8"
+    ],
+    "zh": "银次郎"
+  },
+  {
+    "id": 396,
+    "en": "Randy",
+    "addresses": [
+      "0x820304ec"
+    ],
+    "zh": "兰迪"
+  },
+  {
+    "id": 397,
+    "en": "Serena",
+    "addresses": [
+      "0x820304f8"
+    ],
+    "zh": "瑟蕾娜"
+  },
+  {
+    "id": 398,
+    "en": "Undead Hero",
+    "addresses": [
+      "0x82030508"
+    ],
+    "zh": "不死英雄"
+  },
+  {
+    "id": 399,
+    "en": "Contact Machine",
+    "addresses": [
+      "0x82030520"
+    ],
+    "zh": "联络机"
+  },
+  {
+    "id": 400,
+    "en": "The Baron of Belus",
+    "addresses": [
+      "0x82030540"
+    ],
+    "zh": "贝鲁斯男爵"
+  },
+  {
+    "id": 401,
+    "en": "Bat",
+    "addresses": [
+      "0x82030568"
+    ],
+    "zh": "蝙蝠"
+  },
+  {
+    "id": 402,
+    "en": "Golden Silver",
+    "addresses": [
+      "0x82030570"
+    ],
+    "zh": "黄金希尔弗"
+  },
+  {
+    "id": 403,
+    "en": "Gash Deadeye",
+    "addresses": [
+      "0x8203058c"
+    ],
+    "zh": "神射手加修"
+  },
+  {
+    "id": 404,
+    "en": "The Great Earth Spirit",
+    "addresses": [
+      "0x820305a8"
+    ],
+    "zh": "大地神灵"
+  },
+  {
+    "id": 405,
+    "en": "Xenovia",
+    "addresses": [
+      "0x820305d8"
+    ],
+    "zh": "泽诺维娅"
+  },
+  {
+    "id": 406,
+    "en": "The Sky Warrior",
+    "addresses": [
+      "0x820305e8"
+    ],
+    "zh": "天界战士"
+  },
+  {
+    "id": 407,
+    "en": "Royal Knight",
+    "addresses": [
+      "0x82030608"
+    ],
+    "zh": "王国骑士"
+  },
+  {
+    "id": 408,
+    "en": "Super Zur",
+    "addresses": [
+      "0x82030624"
+    ],
+    "zh": "超级祖尔"
+  },
+  {
+    "id": 409,
+    "en": "The Sky Spirit",
+    "addresses": [
+      "0x82030638"
+    ],
+    "zh": "天灵"
+  },
+  {
+    "id": 410,
+    "en": "Royal Purger",
+    "addresses": [
+      "0x82030658"
+    ],
+    "zh": "王国净化者"
+  },
+  {
+    "id": 411,
+    "en": "Loper",
+    "addresses": [
+      "0x82030674"
+    ],
+    "zh": "弹跳怪"
+  },
+  {
+    "id": 412,
+    "en": "Royal Mech",
+    "addresses": [
+      "0x82030680"
+    ],
+    "zh": "王国机甲"
+  },
+  {
+    "id": 413,
+    "en": "Civilian Blimp",
+    "addresses": [
+      "0x82030698"
+    ],
+    "zh": "胖平民"
+  },
+  {
+    "id": 414,
+    "en": "Civilian Wimp",
+    "addresses": [
+      "0x820306b8"
+    ],
+    "zh": "瘦平民"
+  },
+  {
+    "id": 415,
+    "en": "Civilian Elder",
+    "addresses": [
+      "0x820306d4"
+    ],
+    "zh": "老年平民"
+  },
+  {
+    "id": 416,
+    "en": "Civilian Child",
+    "addresses": [
+      "0x820306f4"
+    ],
+    "zh": "儿童平民"
+  },
+  {
+    "id": 417,
+    "en": "Civilian Woman",
+    "addresses": [
+      "0x82030714"
+    ],
+    "zh": "女性平民"
+  },
+  {
+    "id": 418,
+    "en": "Deadly Plant",
+    "addresses": [
+      "0x82030734"
+    ],
+    "zh": "致命植物"
+  },
+  {
+    "id": 419,
+    "en": "Bee",
+    "addresses": [
+      "0x82030750"
+    ],
+    "zh": "蜜蜂"
+  },
+  {
+    "id": 420,
+    "en": "Wolf",
+    "addresses": [
+      "0x82030758"
+    ],
+    "zh": "狼"
+  },
+  {
+    "id": 421,
+    "en": "Goblin",
+    "addresses": [
+      "0x82030764"
+    ],
+    "zh": "哥布林"
+  },
+  {
+    "id": 422,
+    "en": "Mid",
+    "addresses": [
+      "0x82030774"
+    ],
+    "zh": "米德"
+  },
+  {
+    "id": 423,
+    "en": "Manon the Brown",
+    "addresses": [
+      "0x8203077c"
+    ],
+    "zh": "棕袍马农"
+  },
+  {
+    "id": 424,
+    "en": "Giant",
+    "addresses": [
+      "0x8203079c"
+    ],
+    "zh": "巨人"
+  },
+  {
+    "id": 425,
+    "en": "Cyclops",
+    "addresses": [
+      "0x820307a8"
+    ],
+    "zh": "独眼巨人"
+  },
+  {
+    "id": 426,
+    "en": "Glute",
+    "addresses": [
+      "0x820307b8"
+    ],
+    "zh": "翘臀兵"
+  },
+  {
+    "id": 427,
+    "en": "Gambo Sinayuma",
+    "addresses": [
+      "0x820307c4"
+    ],
+    "zh": "甘博·希纳尤马"
+  },
+  {
+    "id": 428,
+    "en": "Macho Goroh",
+    "addresses": [
+      "0x820307e4"
+    ],
+    "zh": "马乔·五郎"
+  },
+  {
+    "id": 429,
+    "en": "The Golem God",
+    "addresses": [
+      "0x820307fc"
+    ],
+    "zh": "魔像神"
+  },
+  {
+    "id": 430,
+    "en": "Gargoyle",
+    "addresses": [
+      "0x82030818"
+    ],
+    "zh": "石像鬼"
+  },
+  {
+    "id": 431,
+    "en": "Undead Rogue",
+    "addresses": [
+      "0x8203082c"
+    ],
+    "zh": "不死游侠"
+  },
+  {
+    "id": 432,
+    "en": "Royal Mage",
+    "addresses": [
+      "0x82030848"
+    ],
+    "zh": "王国法师"
+  },
+  {
+    "id": 433,
+    "en": "Specter",
+    "addresses": [
+      "0x82030860"
+    ],
+    "zh": "幽灵"
+  },
+  {
+    "id": 434,
+    "en": "Zombie",
+    "addresses": [
+      "0x82030870"
+    ],
+    "zh": "僵尸"
+  },
+  {
+    "id": 435,
+    "en": "Skeleton",
+    "addresses": [
+      "0x82030880"
+    ],
+    "zh": "骷髅"
+  },
+  {
+    "id": 436,
+    "en": "Rebel",
+    "addresses": [
+      "0x82030894"
+    ],
+    "zh": "叛军"
+  },
+  {
+    "id": 437,
+    "en": "Royal Blade",
+    "addresses": [
+      "0x820308a0"
+    ],
+    "zh": "王国剑士"
+  },
+  {
+    "id": 438,
+    "en": "Zur Repticius",
+    "addresses": [
+      "0x820308b8"
+    ],
+    "zh": "祖尔·雷普提修斯"
+  },
+  {
+    "id": 439,
+    "en": "Katrina Sark",
+    "addresses": [
+      "0x820308d4"
+    ],
+    "zh": "卡特莉娜·萨克"
+  },
+  {
+    "id": 440,
+    "en": "Lucia Valgar",
+    "addresses": [
+      "0x820308f0"
+    ],
+    "zh": "露西亚·瓦尔加"
+  },
+  {
+    "id": 441,
+    "en": "King Valgar",
+    "addresses": [
+      "0x8203090c"
+    ],
+    "zh": "瓦尔加国王"
+  },
+  {
+    "id": 442,
+    "en": "Reinhart Valgar",
+    "addresses": [
+      "0x82030924"
+    ],
+    "zh": "莱因哈特·瓦尔加"
+  },
+  {
+    "id": 443,
+    "en": "Proto Silver",
+    "addresses": [
+      "0x82030944"
+    ],
+    "zh": "原型希尔弗"
+  },
+  {
+    "id": 444,
+    "en": "Kanon the Grey",
+    "addresses": [
+      "0x82030960"
+    ],
+    "zh": "灰袍卡农"
+  },
+  {
+    "id": 445,
+    "en": "Han the Hero",
+    "addresses": [
+      "0x82030980"
+    ],
+    "zh": "英雄哈恩"
+  },
+  {
+    "id": 446,
+    "en": "Nando",
+    "addresses": [
+      "0x8203099c"
+    ],
+    "zh": "南多"
+  },
+  {
+    "id": 447,
+    "en": "Nicole Neil",
+    "addresses": [
+      "0x820309a8"
+    ],
+    "zh": "妮可·尼尔"
+  },
+  {
+    "id": 448,
+    "en": "Ginjirou Ibushi",
+    "addresses": [
+      "0x820309c0"
+    ],
+    "zh": "银次郎·伊布西"
+  },
+  {
+    "id": 449,
+    "en": "Randy the Green",
+    "addresses": [
+      "0x820309e0"
+    ],
+    "zh": "绿袍兰迪"
+  },
+  {
+    "id": 450,
+    "en": "Samwell Han",
+    "addresses": [
+      "0x82030a00"
+    ],
+    "zh": "萨姆韦尔·哈恩"
+  },
+  {
+    "id": 451,
+    "en": "Serena Corsair",
+    "addresses": [
+      "0x82030a18"
+    ],
+    "zh": "瑟蕾娜·科赛尔"
+  },
+  {
+    "id": 452,
+    "en": "The Undead Hero",
+    "addresses": [
+      "0x82030a38"
+    ],
+    "zh": "不死英雄"
+  },
+  {
+    "id": 453,
+    "en": "View special moves.",
+    "addresses": [
+      "0x82034fd8"
+    ],
+    "zh": "查看必杀技。"
+  },
+  {
+    "id": 454,
+    "en": "End current session and return to Main Menu.",
+    "addresses": [
+      "0x82035000"
+    ],
+    "zh": "结束本次游戏，返回主菜单。"
+  },
+  {
+    "id": 455,
+    "en": "Sets the Starting Position for Player(s)",
+    "addresses": [
+      "0x82035060"
+    ],
+    "zh": "设置玩家起始位置。"
+  },
+  {
+    "id": 456,
+    "en": "Set the Connection Type. ",
+    "addresses": [
+      "0x820350b4"
+    ],
+    "zh": "设置连接类型。"
+  },
+  {
+    "id": 457,
+    "en": "Display an explanation of the Xbox LIVE Mode.",
+    "addresses": [
+      "0x820350e8"
+    ],
+    "zh": "显示Xbox LIVE模式说明。"
+  },
+  {
+    "id": 458,
+    "en": "Display an explanation of Row Shift.",
+    "addresses": [
+      "0x82035148"
+    ],
+    "zh": "显示换线说明。"
+  },
+  {
+    "id": 459,
+    "en": "however, lag after button input during gameplay will become greater.  ",
+    "addresses": [
+      "0x82035198"
+    ],
+    "zh": "但游戏中的按键输入延迟会增加。"
+  },
+  {
+    "id": 460,
+    "en": "Selecting \"Prioritize Quality\" lessens the frequency of syncing caused by voice chat or connection status; ",
+    "addresses": [
+      "0x82035228"
+    ],
+    "zh": "选择“质量优先”可减少语音聊天或连接状态引发的同步次数，"
+  },
+  {
+    "id": 461,
+    "en": "Raising this value will result in fewer instances of waiting for\n the match to sync, but lag after button input will increase.",
+    "addresses": [
+      "0x82035300"
+    ],
+    "zh": "提高此数值，可减少等待对局同步的次数，但按键输入延迟会增加。"
+  },
+  {
+    "id": 462,
+    "en": "Plays the opening movie from the Saturn version ",
+    "addresses": [
+      "0x82035400"
+    ],
+    "zh": "播放土星版片头影片。"
+  },
+  {
+    "id": 463,
+    "en": "Display your Xbox LIVE match records.",
+    "addresses": [
+      "0x82035468"
+    ],
+    "zh": "查看Xbox LIVE对战记录。"
+  },
+  {
+    "id": 464,
+    "en": "Display your local match records.",
+    "addresses": [
+      "0x820354b8"
+    ],
+    "zh": "查看本地对战记录。"
+  },
+  {
+    "id": 465,
+    "en": "Set up game rules.",
+    "addresses": [
+      "0x820354fc"
+    ],
+    "zh": "设置游戏规则。"
+  },
+  {
+    "id": 466,
+    "en": "Choose how empty player slots are filled.",
+    "addresses": [
+      "0x82035528"
+    ],
+    "zh": "选择如何填补空缺的玩家席位。"
+  },
+  {
+    "id": 467,
+    "en": "Choose who is included when judging matches.",
+    "addresses": [
+      "0x82035580"
+    ],
+    "zh": "选择对局判定包含哪些玩家。"
+  },
+  {
+    "id": 468,
+    "en": "Adjust the number of rows.",
+    "addresses": [
+      "0x820355dc"
+    ],
+    "zh": "调整战斗线数量。"
+  },
+  {
+    "id": 469,
+    "en": "Learn about Arcade Mode.",
+    "addresses": [
+      "0x82035614"
+    ],
+    "zh": "了解街机模式。"
+  },
+  {
+    "id": 470,
+    "en": "Learn about Training Mode.",
+    "addresses": [
+      "0x82035648"
+    ],
+    "zh": "了解训练模式。"
+  },
+  {
+    "id": 471,
+    "en": "Learn about Versus Mode.",
+    "addresses": [
+      "0x82035680"
+    ],
+    "zh": "了解对战模式。"
+  },
+  {
+    "id": 472,
+    "en": "Learn about Story Mode.",
+    "addresses": [
+      "0x820356b4"
+    ],
+    "zh": "了解剧情模式。"
+  },
+  {
+    "id": 473,
+    "en": "Learn about each game mode.",
+    "addresses": [
+      "0x820356e4"
+    ],
+    "zh": "了解各个游戏模式。"
+  },
+  {
+    "id": 474,
+    "en": "(Works only when you have graphics set to Remix.)",
+    "addresses": [
+      "0x82035720"
+    ],
+    "zh": "（仅在画面设置为重制版时有效。）"
+  },
+  {
+    "id": 475,
+    "en": "(Works only when you have graphics set to Original.)",
+    "addresses": [
+      "0x82035788"
+    ],
+    "zh": "（仅在画面设置为原版时有效。）"
+  },
+  {
+    "id": 476,
+    "en": "Lock or unlock specific special moves.",
+    "addresses": [
+      "0x820357f8"
+    ],
+    "zh": "禁用或启用指定必杀技。"
+  },
+  {
+    "id": 477,
+    "en": "Scale the rate at which MP is consumed.",
+    "addresses": [
+      "0x82035848"
+    ],
+    "zh": "调整MP消耗倍率。"
+  },
+  {
+    "id": 478,
+    "en": "Create a Versus Mode session Xbox LIVE Party members can join.",
+    "addresses": [
+      "0x82035898"
+    ],
+    "zh": "创建Xbox LIVE派对成员可加入的对战模式房间。"
+  },
+  {
+    "id": 479,
+    "en": "Create a Story Mode session Xbox LIVE Party members can join.",
+    "addresses": [
+      "0x82035918"
+    ],
+    "zh": "创建Xbox LIVE派对成员可加入的剧情模式房间。"
+  },
+  {
+    "id": 480,
+    "en": "Search for Xbox LIVE Party member sessions.",
+    "addresses": [
+      "0x82035998"
+    ],
+    "zh": "搜索Xbox LIVE派对成员的房间。"
+  },
+  {
+    "id": 481,
+    "en": "Begin an Xbox LIVE Party.",
+    "addresses": [
+      "0x820359f0"
+    ],
+    "zh": "开始Xbox LIVE派对。"
+  },
+  {
+    "id": 482,
+    "en": "6 teams of 2 players fight in this rule set for Remix Mode.",
+    "addresses": [
+      "0x82035a28"
+    ],
+    "zh": "重制模式规则，6队对战，每队2人。"
+  },
+  {
+    "id": 483,
+    "en": "4 teams of 3 players fight in this rule set for Remix Mode.",
+    "addresses": [
+      "0x82035aa0"
+    ],
+    "zh": "重制模式规则，4队对战，每队3人。"
+  },
+  {
+    "id": 484,
+    "en": "2 teams of 6 players fight in this rule set for Remix Mode.",
+    "addresses": [
+      "0x82035b18"
+    ],
+    "zh": "重制模式规则，2队对战，每队6人。"
+  },
+  {
+    "id": 485,
+    "en": "6 teams of 2 players fight in this rule set for Original Mode.",
+    "addresses": [
+      "0x82035b90"
+    ],
+    "zh": "原版模式规则，6队对战，每队2人。"
+  },
+  {
+    "id": 486,
+    "en": "4 teams of 3 players fight in this rule set for Original Mode.",
+    "addresses": [
+      "0x82035c10"
+    ],
+    "zh": "原版模式规则，4队对战，每队3人。"
+  },
+  {
+    "id": 487,
+    "en": "2 teams of 6 players fight in this rule set for Original Mode.",
+    "addresses": [
+      "0x82035c90"
+    ],
+    "zh": "原版模式规则，2队对战，每队6人。"
+  },
+  {
+    "id": 488,
+    "en": "Close all windows.",
+    "addresses": [
+      "0x82035d10"
+    ],
+    "zh": "关闭所有窗口。"
+  },
+  {
+    "id": 489,
+    "en": "Note: Graphics filters are only applied to Original Mode.",
+    "addresses": [
+      "0x82035d38"
+    ],
+    "zh": "注意：画面滤镜仅适用于原版模式。"
+  },
+  {
+    "id": 490,
+    "en": "Set the graphics filter.",
+    "addresses": [
+      "0x82035dac"
+    ],
+    "zh": "设置画面滤镜。"
+  },
+  {
+    "id": 491,
+    "en": "Set the graphics mode.",
+    "addresses": [
+      "0x82035de0"
+    ],
+    "zh": "设置画面模式。"
+  },
+  {
+    "id": 492,
+    "en": "Limit your search to one country.",
+    "addresses": [
+      "0x82035e10"
+    ],
+    "zh": "限定搜索单一国家的房间。"
+  },
+  {
+    "id": 493,
+    "en": "Search for a specific game mode.",
+    "addresses": [
+      "0x82035e58"
+    ],
+    "zh": "搜索指定游戏模式。"
+  },
+  {
+    "id": 494,
+    "en": "Search for a specific difficulty level.",
+    "addresses": [
+      "0x82035ea0"
+    ],
+    "zh": "搜索指定难度。"
+  },
+  {
+    "id": 495,
+    "en": "Limit players to one country.",
+    "addresses": [
+      "0x82035ef0"
+    ],
+    "zh": "限定玩家所属国家。"
+  },
+  {
+    "id": 496,
+    "en": "Allow Xbox LIVE players to join your game midway.",
+    "addresses": [
+      "0x82035f30"
+    ],
+    "zh": "允许Xbox LIVE玩家中途加入游戏。"
+  },
+  {
+    "id": 497,
+    "en": "Begin a Network match.",
+    "addresses": [
+      "0x82035f94"
+    ],
+    "zh": "开始联网对战。"
+  },
+  {
+    "id": 498,
+    "en": "Create the session and wait for players to join.",
+    "addresses": [
+      "0x82035fc8"
+    ],
+    "zh": "创建房间，等待玩家加入。"
+  },
+  {
+    "id": 499,
+    "en": "Select your connection method.",
+    "addresses": [
+      "0x8203602c"
+    ],
+    "zh": "选择连接方式。"
+  },
+  {
+    "id": 500,
+    "en": "Set the number of slots reserved for inviting friends.",
+    "addresses": [
+      "0x82036070"
+    ],
+    "zh": "设置为邀请好友预留的席位数。"
+  },
+  {
+    "id": 501,
+    "en": "Set the number of players who can join.",
+    "addresses": [
+      "0x820360e0"
+    ],
+    "zh": "设置可加入的玩家人数。"
+  },
+  {
+    "id": 502,
+    "en": "Select rules to use in the game.",
+    "addresses": [
+      "0x82036130"
+    ],
+    "zh": "选择游戏使用的规则。"
+  },
+  {
+    "id": 503,
+    "en": "Begin searching.",
+    "addresses": [
+      "0x82036174"
+    ],
+    "zh": "开始搜索。"
+  },
+  {
+    "id": 504,
+    "en": "Enable or disable your character restrictions.",
+    "addresses": [
+      "0x82036198"
+    ],
+    "zh": "启用或禁用角色限制。"
+  },
+  {
+    "id": 505,
+    "en": "Display Xbox LIVE scores.",
+    "addresses": [
+      "0x820361f8"
+    ],
+    "zh": "显示Xbox LIVE分数。"
+  },
+  {
+    "id": 506,
+    "en": "Display local scores.",
+    "addresses": [
+      "0x8203622c"
+    ],
+    "zh": "显示本地分数。"
+  },
+  {
+    "id": 507,
+    "en": "Host your own Network session.",
+    "addresses": [
+      "0x82036258"
+    ],
+    "zh": "创建自己的联网房间。"
+  },
+  {
+    "id": 508,
+    "en": "Search for a System Link session.",
+    "addresses": [
+      "0x82036298"
+    ],
+    "zh": "搜索系统连线房间。"
+  },
+  {
+    "id": 509,
+    "en": "Search for a session with certain parameters.",
+    "addresses": [
+      "0x820362e0"
+    ],
+    "zh": "按指定条件搜索房间。"
+  },
+  {
+    "id": 510,
+    "en": "Search for a session without setting parameters.",
+    "addresses": [
+      "0x82036340"
+    ],
+    "zh": "不限条件搜索房间。"
+  },
+  {
+    "id": 511,
+    "en": "Begin a local match.",
+    "addresses": [
+      "0x820363a4"
+    ],
+    "zh": "开始本地对战。"
+  },
+  {
+    "id": 512,
+    "en": "Learn about Luck.",
+    "addresses": [
+      "0x820363d0"
+    ],
+    "zh": "了解幸运属性。"
+  },
+  {
+    "id": 513,
+    "en": "Learn about elements.",
+    "addresses": [
+      "0x820363f4"
+    ],
+    "zh": "了解元素属性。"
+  },
+  {
+    "id": 514,
+    "en": "Learn about Karma.",
+    "addresses": [
+      "0x82036420"
+    ],
+    "zh": "了解业力。"
+  },
+  {
+    "id": 515,
+    "en": "Learn about additional controls.",
+    "addresses": [
+      "0x82036448"
+    ],
+    "zh": "了解其他操作。"
+  },
+  {
+    "id": 516,
+    "en": "Learn about recovering from blows.",
+    "addresses": [
+      "0x82036490"
+    ],
+    "zh": "了解受身。"
+  },
+  {
+    "id": 517,
+    "en": "Learn about forcebacks.",
+    "addresses": [
+      "0x820364d8"
+    ],
+    "zh": "了解震退。"
+  },
+  {
+    "id": 518,
+    "en": "Learn about counters.",
+    "addresses": [
+      "0x82036508"
+    ],
+    "zh": "了解反击。"
+  },
+  {
+    "id": 519,
+    "en": "Learn about backsteps.",
+    "addresses": [
+      "0x82036534"
+    ],
+    "zh": "了解后撤步。"
+  },
+  {
+    "id": 520,
+    "en": "Learn about stuns.",
+    "addresses": [
+      "0x82036564"
+    ],
+    "zh": "了解眩晕。"
+  },
+  {
+    "id": 521,
+    "en": "Learn how MP is recovered.",
+    "addresses": [
+      "0x8203658c"
+    ],
+    "zh": "了解MP恢复方式。"
+  },
+  {
+    "id": 522,
+    "en": "Learn how to command the Undead Hero.",
+    "addresses": [
+      "0x820365c8"
+    ],
+    "zh": "了解如何指挥不死英雄。"
+  },
+  {
+    "id": 523,
+    "en": "Learn how leveling up works.",
+    "addresses": [
+      "0x82036614"
+    ],
+    "zh": "了解升级机制。"
+  },
+  {
+    "id": 524,
+    "en": "Learn how to block.",
+    "addresses": [
+      "0x82036650"
+    ],
+    "zh": "了解防御方法。"
+  },
+  {
+    "id": 525,
+    "en": "Learn about special moves.",
+    "addresses": [
+      "0x82036678"
+    ],
+    "zh": "了解必杀技。"
+  },
+  {
+    "id": 526,
+    "en": "Learn how to use magic.",
+    "addresses": [
+      "0x820366b0"
+    ],
+    "zh": "了解魔法使用方式。"
+  },
+  {
+    "id": 527,
+    "en": "Learn about basic attacks.",
+    "addresses": [
+      "0x820366e0"
+    ],
+    "zh": "了解基本攻击。"
+  },
+  {
+    "id": 528,
+    "en": "Learn how to dash.",
+    "addresses": [
+      "0x82036718"
+    ],
+    "zh": "了解冲刺。"
+  },
+  {
+    "id": 529,
+    "en": "Learn how to move your character.",
+    "addresses": [
+      "0x82036740"
+    ],
+    "zh": "了解角色移动方式。"
+  },
+  {
+    "id": 530,
+    "en": "View special tips for pros.",
+    "addresses": [
+      "0x82036784"
+    ],
+    "zh": "查看高手技巧。"
+  },
+  {
+    "id": 531,
+    "en": "View advanced instructions.",
+    "addresses": [
+      "0x820367bc"
+    ],
+    "zh": "查看进阶说明。"
+  },
+  {
+    "id": 532,
+    "en": "View basic instructions.",
+    "addresses": [
+      "0x820367f4"
+    ],
+    "zh": "查看基础说明。"
+  },
+  {
+    "id": 533,
+    "en": "Lock or unlock certain special moves.",
+    "addresses": [
+      "0x82036828"
+    ],
+    "zh": "禁用或启用指定必杀技。"
+  },
+  {
+    "id": 534,
+    "en": "Scale how much MP your magic uses.",
+    "addresses": [
+      "0x82036878"
+    ],
+    "zh": "调整魔法的MP消耗倍率。"
+  },
+  {
+    "id": 535,
+    "en": "Set the maximum selectable level.",
+    "addresses": [
+      "0x820368c0"
+    ],
+    "zh": "设置可选等级上限。"
+  },
+  {
+    "id": 536,
+    "en": "Set the minimum selectable level.",
+    "addresses": [
+      "0x82036908"
+    ],
+    "zh": "设置可选等级下限。"
+  },
+  {
+    "id": 537,
+    "en": "Allow players to use the Civilian Blimp.",
+    "addresses": [
+      "0x82036950"
+    ],
+    "zh": "允许玩家使用胖平民。"
+  },
+  {
+    "id": 538,
+    "en": "Allow players to use the Civilian Wimp.",
+    "addresses": [
+      "0x820369a8"
+    ],
+    "zh": "允许玩家使用瘦平民。"
+  },
+  {
+    "id": 539,
+    "en": "Allow players to use the Civilian Elder.",
+    "addresses": [
+      "0x820369f8"
+    ],
+    "zh": "允许玩家使用老年平民。"
+  },
+  {
+    "id": 540,
+    "en": "Allow players to use the Civilian Child.",
+    "addresses": [
+      "0x82036a50"
+    ],
+    "zh": "允许玩家使用儿童平民。"
+  },
+  {
+    "id": 541,
+    "en": "Allow players to use the Civilian Woman.",
+    "addresses": [
+      "0x82036aa8"
+    ],
+    "zh": "允许玩家使用女性平民。"
+  },
+  {
+    "id": 542,
+    "en": "Allow players to use Nando.",
+    "addresses": [
+      "0x82036afc"
+    ],
+    "zh": "允许玩家使用南多。"
+  },
+  {
+    "id": 543,
+    "en": "Allow players to use the Wolf.",
+    "addresses": [
+      "0x82036b34"
+    ],
+    "zh": "允许玩家使用狼。"
+  },
+  {
+    "id": 544,
+    "en": "Allow players to use the Loper.",
+    "addresses": [
+      "0x82036b78"
+    ],
+    "zh": "允许玩家使用弹跳怪。"
+  },
+  {
+    "id": 545,
+    "en": "Allow players to use the Goblin.",
+    "addresses": [
+      "0x82036bb8"
+    ],
+    "zh": "允许玩家使用哥布林。"
+  },
+  {
+    "id": 546,
+    "en": "Allow players to use the Gargoyle.",
+    "addresses": [
+      "0x82036c00"
+    ],
+    "zh": "允许玩家使用石像鬼。"
+  },
+  {
+    "id": 547,
+    "en": "Allow players to use Mid.",
+    "addresses": [
+      "0x82036c48"
+    ],
+    "zh": "允许玩家使用米德。"
+  },
+  {
+    "id": 548,
+    "en": "Allow players to use the Giant.",
+    "addresses": [
+      "0x82036c80"
+    ],
+    "zh": "允许玩家使用巨人。"
+  },
+  {
+    "id": 549,
+    "en": "Allow players to use the Cyclops.",
+    "addresses": [
+      "0x82036cc0"
+    ],
+    "zh": "允许玩家使用独眼巨人。"
+  },
+  {
+    "id": 550,
+    "en": "Allow players to use the Golem God.",
+    "addresses": [
+      "0x82036d08"
+    ],
+    "zh": "允许玩家使用魔像神。"
+  },
+  {
+    "id": 551,
+    "en": "Allow players to use the Royal Mech.",
+    "addresses": [
+      "0x82036d50"
+    ],
+    "zh": "允许玩家使用王国机甲。"
+  },
+  {
+    "id": 552,
+    "en": "Allow players to use the Royal Mage.",
+    "addresses": [
+      "0x82036da0"
+    ],
+    "zh": "允许玩家使用王国法师。"
+  },
+  {
+    "id": 553,
+    "en": "Allow players to use the Royal Purger.",
+    "addresses": [
+      "0x82036df0"
+    ],
+    "zh": "允许玩家使用王国净化者。"
+  },
+  {
+    "id": 554,
+    "en": "Allow players to use the Zombie.",
+    "addresses": [
+      "0x82036e40"
+    ],
+    "zh": "允许玩家使用僵尸。"
+  },
+  {
+    "id": 555,
+    "en": "Allow players to use the Skeleton.",
+    "addresses": [
+      "0x82036e88"
+    ],
+    "zh": "允许玩家使用骷髅。"
+  },
+  {
+    "id": 556,
+    "en": "Allow players to use the Rebel.",
+    "addresses": [
+      "0x82036ed0"
+    ],
+    "zh": "允许玩家使用叛军。"
+  },
+  {
+    "id": 557,
+    "en": "Allow players to use the Royal Blade.",
+    "addresses": [
+      "0x82036f10"
+    ],
+    "zh": "允许玩家使用王国剑士。"
+  },
+  {
+    "id": 558,
+    "en": "Allow players to use the Royal Knight.",
+    "addresses": [
+      "0x82036f60"
+    ],
+    "zh": "允许玩家使用王国骑士。"
+  },
+  {
+    "id": 559,
+    "en": "Allow players to use the Glutes.",
+    "addresses": [
+      "0x82036fb0"
+    ],
+    "zh": "允许玩家使用翘臀团。"
+  },
+  {
+    "id": 560,
+    "en": "Allow players to use Gambo.",
+    "addresses": [
+      "0x82036ff4"
+    ],
+    "zh": "允许玩家使用甘博。"
+  },
+  {
+    "id": 561,
+    "en": "Allow players to use Macho.",
+    "addresses": [
+      "0x8203702c"
+    ],
+    "zh": "允许玩家使用马乔。"
+  },
+  {
+    "id": 562,
+    "en": "Allow players to use the Earth Spirit.",
+    "addresses": [
+      "0x82037068"
+    ],
+    "zh": "允许玩家使用地灵。"
+  },
+  {
+    "id": 563,
+    "en": "Allow players to use the Sky Spirit.",
+    "addresses": [
+      "0x820370b8"
+    ],
+    "zh": "允许玩家使用天灵。"
+  },
+  {
+    "id": 564,
+    "en": "Allow players to use Xenovia.",
+    "addresses": [
+      "0x82037104"
+    ],
+    "zh": "允许玩家使用泽诺维娅。"
+  },
+  {
+    "id": 565,
+    "en": "Allow players to use the Sky Warrior.",
+    "addresses": [
+      "0x82037140"
+    ],
+    "zh": "允许玩家使用天界战士。"
+  },
+  {
+    "id": 566,
+    "en": "Allow players to use Golden Silver.",
+    "addresses": [
+      "0x82037190"
+    ],
+    "zh": "允许玩家使用黄金希尔弗。"
+  },
+  {
+    "id": 567,
+    "en": "Allow players to use Proto Silver.",
+    "addresses": [
+      "0x820371d8"
+    ],
+    "zh": "允许玩家使用原型希尔弗。"
+  },
+  {
+    "id": 568,
+    "en": "Allow players to use Super Zur.",
+    "addresses": [
+      "0x82037220"
+    ],
+    "zh": "允许玩家使用超级祖尔。"
+  },
+  {
+    "id": 569,
+    "en": "Allow players to use Zur.",
+    "addresses": [
+      "0x82037260"
+    ],
+    "zh": "允许玩家使用祖尔。"
+  },
+  {
+    "id": 570,
+    "en": "Allow players to use Gash.",
+    "addresses": [
+      "0x82037294"
+    ],
+    "zh": "允许玩家使用加修。"
+  },
+  {
+    "id": 571,
+    "en": "Allow players to use Katrina.",
+    "addresses": [
+      "0x820372cc"
+    ],
+    "zh": "允许玩家使用卡特莉娜。"
+  },
+  {
+    "id": 572,
+    "en": "Allow players to use Valgar.",
+    "addresses": [
+      "0x82037308"
+    ],
+    "zh": "允许玩家使用瓦尔加。"
+  },
+  {
+    "id": 573,
+    "en": "Allow players to use Kanon.",
+    "addresses": [
+      "0x82037344"
+    ],
+    "zh": "允许玩家使用卡农。"
+  },
+  {
+    "id": 574,
+    "en": "Allow players to use the Undead Rogue.",
+    "addresses": [
+      "0x82037380"
+    ],
+    "zh": "允许玩家使用不死游侠。"
+  },
+  {
+    "id": 575,
+    "en": "Allow players to use the Undead Hero.",
+    "addresses": [
+      "0x820373d0"
+    ],
+    "zh": "允许玩家使用不死英雄。"
+  },
+  {
+    "id": 576,
+    "en": "Allow players to use Serena.",
+    "addresses": [
+      "0x8203741c"
+    ],
+    "zh": "允许玩家使用瑟蕾娜。"
+  },
+  {
+    "id": 577,
+    "en": "Allow players to use Nicole.",
+    "addresses": [
+      "0x82037458"
+    ],
+    "zh": "允许玩家使用妮可。"
+  },
+  {
+    "id": 578,
+    "en": "Allow players to use Randy.",
+    "addresses": [
+      "0x82037494"
+    ],
+    "zh": "允许玩家使用兰迪。"
+  },
+  {
+    "id": 579,
+    "en": "Allow players to use Han the Hero.",
+    "addresses": [
+      "0x820374d0"
+    ],
+    "zh": "允许玩家使用英雄哈恩。"
+  },
+  {
+    "id": 580,
+    "en": "Allow players to use Han.",
+    "addresses": [
+      "0x82037518"
+    ],
+    "zh": "允许玩家使用哈恩。"
+  },
+  {
+    "id": 581,
+    "en": "Note: Turning this on may result in unfair or stalemate matches.",
+    "addresses": [
+      "0x82037550"
+    ],
+    "zh": "注意：开启后，可能出现不公平或僵持的对局。"
+  },
+  {
+    "id": 582,
+    "en": "Advanced",
+    "addresses": [
+      "0x820375d4"
+    ],
+    "zh": "进阶"
+  },
+  {
+    "id": 583,
+    "en": "Lock or unlock certain characters.",
+    "addresses": [
+      "0x820375e8"
+    ],
+    "zh": "禁用或启用指定角色。"
+  },
+  {
+    "id": 584,
+    "en": "Configure Player 12's character.",
+    "addresses": [
+      "0x82037630"
+    ],
+    "zh": "设置玩家12的角色。"
+  },
+  {
+    "id": 585,
+    "en": "Configure Player 11's character.",
+    "addresses": [
+      "0x82037678"
+    ],
+    "zh": "设置玩家11的角色。"
+  },
+  {
+    "id": 586,
+    "en": "Configure Player 10's character.",
+    "addresses": [
+      "0x820376c0"
+    ],
+    "zh": "设置玩家10的角色。"
+  },
+  {
+    "id": 587,
+    "en": "Configure Player 9's character.",
+    "addresses": [
+      "0x82037708"
+    ],
+    "zh": "设置玩家9的角色。"
+  },
+  {
+    "id": 588,
+    "en": "Configure Player 8's character.",
+    "addresses": [
+      "0x82037748"
+    ],
+    "zh": "设置玩家8的角色。"
+  },
+  {
+    "id": 589,
+    "en": "Configure Player 7's character.",
+    "addresses": [
+      "0x82037788"
+    ],
+    "zh": "设置玩家7的角色。"
+  },
+  {
+    "id": 590,
+    "en": "Configure Player 6's character.",
+    "addresses": [
+      "0x820377c8"
+    ],
+    "zh": "设置玩家6的角色。"
+  },
+  {
+    "id": 591,
+    "en": "Configure Player 5's character.",
+    "addresses": [
+      "0x82037808"
+    ],
+    "zh": "设置玩家5的角色。"
+  },
+  {
+    "id": 592,
+    "en": "Configure Player 4's character.",
+    "addresses": [
+      "0x82037848"
+    ],
+    "zh": "设置玩家4的角色。"
+  },
+  {
+    "id": 593,
+    "en": "Configure Player 3's character.",
+    "addresses": [
+      "0x82037888"
+    ],
+    "zh": "设置玩家3的角色。"
+  },
+  {
+    "id": 594,
+    "en": "Configure Player 2's character.",
+    "addresses": [
+      "0x820378c8"
+    ],
+    "zh": "设置玩家2的角色。"
+  },
+  {
+    "id": 595,
+    "en": "Configure Player 1's character.",
+    "addresses": [
+      "0x82037908"
+    ],
+    "zh": "设置玩家1的角色。"
+  },
+  {
+    "id": 596,
+    "en": "Configure Player 12's team.",
+    "addresses": [
+      "0x82037948"
+    ],
+    "zh": "设置玩家12的队伍。"
+  },
+  {
+    "id": 597,
+    "en": "Configure Player 11's team.",
+    "addresses": [
+      "0x82037980"
+    ],
+    "zh": "设置玩家11的队伍。"
+  },
+  {
+    "id": 598,
+    "en": "Configure Player 10's team.",
+    "addresses": [
+      "0x820379b8"
+    ],
+    "zh": "设置玩家10的队伍。"
+  },
+  {
+    "id": 599,
+    "en": "Configure Player 9's team.",
+    "addresses": [
+      "0x820379f0"
+    ],
+    "zh": "设置玩家9的队伍。"
+  },
+  {
+    "id": 600,
+    "en": "Configure Player 8's team.",
+    "addresses": [
+      "0x82037a28"
+    ],
+    "zh": "设置玩家8的队伍。"
+  },
+  {
+    "id": 601,
+    "en": "Configure Player 7's team.",
+    "addresses": [
+      "0x82037a60"
+    ],
+    "zh": "设置玩家7的队伍。"
+  },
+  {
+    "id": 602,
+    "en": "Configure Player 6's team.",
+    "addresses": [
+      "0x82037a98"
+    ],
+    "zh": "设置玩家6的队伍。"
+  },
+  {
+    "id": 603,
+    "en": "Configure Player 5's team.",
+    "addresses": [
+      "0x82037ad0"
+    ],
+    "zh": "设置玩家5的队伍。"
+  },
+  {
+    "id": 604,
+    "en": "Configure Player 4's team.",
+    "addresses": [
+      "0x82037b08"
+    ],
+    "zh": "设置玩家4的队伍。"
+  },
+  {
+    "id": 605,
+    "en": "Configure Player 3's team.",
+    "addresses": [
+      "0x82037b40"
+    ],
+    "zh": "设置玩家3的队伍。"
+  },
+  {
+    "id": 606,
+    "en": "Configure Player 2's team.",
+    "addresses": [
+      "0x82037b78"
+    ],
+    "zh": "设置玩家2的队伍。"
+  },
+  {
+    "id": 607,
+    "en": "Configure Player 1's team.",
+    "addresses": [
+      "0x82037bb0"
+    ],
+    "zh": "设置玩家1的队伍。"
+  },
+  {
+    "id": 608,
+    "en": "Choose how levels are assigned.",
+    "addresses": [
+      "0x82037be8"
+    ],
+    "zh": "选择等级分配方式。"
+  },
+  {
+    "id": 609,
+    "en": "Choose how teams are assigned.",
+    "addresses": [
+      "0x82037c28"
+    ],
+    "zh": "选择队伍分配方式。"
+  },
+  {
+    "id": 610,
+    "en": "Choose how characters are assigned.",
+    "addresses": [
+      "0x82037c68"
+    ],
+    "zh": "选择角色分配方式。"
+  },
+  {
+    "id": 611,
+    "en": "Toggle counters.",
+    "addresses": [
+      "0x82037cb0"
+    ],
+    "zh": "开启或关闭反击。"
+  },
+  {
+    "id": 612,
+    "en": "Toggle forcebacks.",
+    "addresses": [
+      "0x82037cd4"
+    ],
+    "zh": "开启或关闭震退。"
+  },
+  {
+    "id": 613,
+    "en": "Toggle \"mental distress\" when low on MP.",
+    "addresses": [
+      "0x82037d00"
+    ],
+    "zh": "开启或关闭MP不足时的“精神失衡”。"
+  },
+  {
+    "id": 614,
+    "en": "Toggle HP recovery while stunned.",
+    "addresses": [
+      "0x82037d58"
+    ],
+    "zh": "开启或关闭眩晕时恢复HP。"
+  },
+  {
+    "id": 615,
+    "en": "Toggle stuns.",
+    "addresses": [
+      "0x82037d9c"
+    ],
+    "zh": "开启或关闭眩晕。"
+  },
+  {
+    "id": 616,
+    "en": "Toggle whether Luck factors into combat.",
+    "addresses": [
+      "0x82037db8"
+    ],
+    "zh": "选择幸运属性是否影响战斗。"
+  },
+  {
+    "id": 617,
+    "en": "Toggle whether elements factor into combat.",
+    "addresses": [
+      "0x82037e10"
+    ],
+    "zh": "选择元素属性是否影响战斗。"
+  },
+  {
+    "id": 618,
+    "en": "Toggle whether characters can still be attacked after they are killed.",
+    "addresses": [
+      "0x82037e68"
+    ],
+    "zh": "选择是否可继续攻击已死亡的角色。"
+  },
+  {
+    "id": 619,
+    "en": "Toggle whether aerial special moves can be used in endless succession.",
+    "addresses": [
+      "0x82037ef8"
+    ],
+    "zh": "选择是否可无限连续使用空中必杀技。"
+  },
+  {
+    "id": 620,
+    "en": "Toggle the ability some characters have to fly.",
+    "addresses": [
+      "0x82037f88"
+    ],
+    "zh": "开启或关闭部分角色的飞行能力。"
+  },
+  {
+    "id": 621,
+    "en": "Toggle the ability some characters have to gradually move between rows.",
+    "addresses": [
+      "0x82037fe8"
+    ],
+    "zh": "开启或关闭部分角色在战斗线之间渐进移动的能力。"
+  },
+  {
+    "id": 622,
+    "en": "Toggle minor damage when blocking normal attacks.",
+    "addresses": [
+      "0x82038078"
+    ],
+    "zh": "选择防御普通攻击时是否受到少量伤害。"
+  },
+  {
+    "id": 623,
+    "en": "Set a time limit for matches.",
+    "addresses": [
+      "0x820380dc"
+    ],
+    "zh": "设置对局时间限制。"
+  },
+  {
+    "id": 624,
+    "en": "Scale the Strength of combatants.",
+    "addresses": [
+      "0x82038118"
+    ],
+    "zh": "调整参战角色的力量倍率。"
+  },
+  {
+    "id": 625,
+    "en": "Set the game mode.",
+    "addresses": [
+      "0x8203815c"
+    ],
+    "zh": "设置游戏模式。"
+  },
+  {
+    "id": 626,
+    "en": "Select the rules to swap places with.",
+    "addresses": [
+      "0x82038188"
+    ],
+    "zh": "选择要与之交换位置的规则。"
+  },
+  {
+    "id": 627,
+    "en": "Select the rules you want to reorder.",
+    "addresses": [
+      "0x820381d8"
+    ],
+    "zh": "选择要调整顺序的规则。"
+  },
+  {
+    "id": 628,
+    "en": "Select the rules to delete.",
+    "addresses": [
+      "0x82038224"
+    ],
+    "zh": "选择要删除的规则。"
+  },
+  {
+    "id": 629,
+    "en": "Rename",
+    "addresses": [
+      "0x8203825c"
+    ],
+    "zh": "重命名"
+  },
+  {
+    "id": 630,
+    "en": "Select the rules to edit.",
+    "addresses": [
+      "0x8203826c"
+    ],
+    "zh": "选择要编辑的规则。"
+  },
+  {
+    "id": 631,
+    "en": "Give these rules a name.",
+    "addresses": [
+      "0x820382a0"
+    ],
+    "zh": "为这些规则命名。"
+  },
+  {
+    "id": 632,
+    "en": "Select a rule set to start from.",
+    "addresses": [
+      "0x820382d8"
+    ],
+    "zh": "选择一套规则作为起点。"
+  },
+  {
+    "id": 633,
+    "en": "Reorder your rules.",
+    "addresses": [
+      "0x8203831c"
+    ],
+    "zh": "调整规则顺序。"
+  },
+  {
+    "id": 634,
+    "en": "Delete rules.",
+    "addresses": [
+      "0x82038344"
+    ],
+    "zh": "删除规则。"
+  },
+  {
+    "id": 635,
+    "en": "Edit your rules.",
+    "addresses": [
+      "0x82038360"
+    ],
+    "zh": "编辑规则。"
+  },
+  {
+    "id": 636,
+    "en": "Create new rules.",
+    "addresses": [
+      "0x82038384"
+    ],
+    "zh": "创建新规则。"
+  },
+  {
+    "id": 637,
+    "en": "Note: Certain character combinations and strategies may result in unfair or stalemate matches.",
+    "addresses": [
+      "0x820383a8"
+    ],
+    "zh": "注意：某些角色组合及战术，可能造成不公平或僵持的对局。"
+  },
+  {
+    "id": 638,
+    "en": "This rule set pits 6 teams of 2 players against each other.",
+    "addresses": [
+      "0x82038468"
+    ],
+    "zh": "此规则为6队对战，每队2人。"
+  },
+  {
+    "id": 639,
+    "en": "This rule set pits 4 teams of 3 players against each other.",
+    "addresses": [
+      "0x820384e0"
+    ],
+    "zh": "此规则为4队对战，每队3人。"
+  },
+  {
+    "id": 640,
+    "en": "This rule set pits 2 teams of 6 players against each other.",
+    "addresses": [
+      "0x82038558"
+    ],
+    "zh": "此规则为2队对战，每队6人。"
+  },
+  {
+    "id": 641,
+    "en": "This rule set for Remix Mode randomizes match rules.",
+    "addresses": [
+      "0x820385d0"
+    ],
+    "zh": "此重制模式规则会随机设置对局规则。"
+  },
+  {
+    "id": 642,
+    "en": "This rule set for Original Mode randomizes match rules.",
+    "addresses": [
+      "0x82038640"
+    ],
+    "zh": "此原版模式规则会随机设置对局规则。"
+  },
+  {
+    "id": 643,
+    "en": "This rule set for Remix Mode removes all play restrictions.",
+    "addresses": [
+      "0x820386b0"
+    ],
+    "zh": "此重制模式规则移除所有游玩限制。"
+  },
+  {
+    "id": 644,
+    "en": "This rule set for Original Mode removes all play restrictions.",
+    "addresses": [
+      "0x82038728"
+    ],
+    "zh": "此原版模式规则移除所有游玩限制。"
+  },
+  {
+    "id": 645,
+    "en": "This rule set for Remix Mode excludes weak characters.",
+    "addresses": [
+      "0x820387a8"
+    ],
+    "zh": "此重制模式规则禁用弱小角色。"
+  },
+  {
+    "id": 646,
+    "en": "This rule set for Original Mode excludes weak characters.",
+    "addresses": [
+      "0x82038818"
+    ],
+    "zh": "此原版模式规则禁用弱小角色。"
+  },
+  {
+    "id": 647,
+    "en": "Watch Ending 5 (dark path).",
+    "addresses": [
+      "0x8203888c"
+    ],
+    "zh": "观看结局5（黑暗路线）。"
+  },
+  {
+    "id": 648,
+    "en": "Watch Ending 5 (light path).",
+    "addresses": [
+      "0x820388c4"
+    ],
+    "zh": "观看结局5（光明路线）。"
+  },
+  {
+    "id": 649,
+    "en": "Watch Ending 4.",
+    "addresses": [
+      "0x82038900"
+    ],
+    "zh": "观看结局4。"
+  },
+  {
+    "id": 650,
+    "en": "Watch Ending 3 (dark path).",
+    "addresses": [
+      "0x82038920"
+    ],
+    "zh": "观看结局3（黑暗路线）。"
+  },
+  {
+    "id": 651,
+    "en": "Watch Ending 3 (light path).",
+    "addresses": [
+      "0x82038958"
+    ],
+    "zh": "观看结局3（光明路线）。"
+  },
+  {
+    "id": 652,
+    "en": "Watch Ending 2.",
+    "addresses": [
+      "0x82038994"
+    ],
+    "zh": "观看结局2。"
+  },
+  {
+    "id": 653,
+    "en": "Watch Ending 1.",
+    "addresses": [
+      "0x820389b4"
+    ],
+    "zh": "观看结局1。"
+  },
+  {
+    "id": 654,
+    "en": "Read about each game stage.",
+    "addresses": [
+      "0x820389d4"
+    ],
+    "zh": "阅读各个关卡介绍。"
+  },
+  {
+    "id": 655,
+    "en": "Read about the game's characters.",
+    "addresses": [
+      "0x82038a10"
+    ],
+    "zh": "阅读角色介绍。"
+  },
+  {
+    "id": 656,
+    "en": "Listen to sound effects from the game.",
+    "addresses": [
+      "0x82038a58"
+    ],
+    "zh": "试听游戏音效。"
+  },
+  {
+    "id": 657,
+    "en": "Listen to music from the game.",
+    "addresses": [
+      "0x82038aa8"
+    ],
+    "zh": "试听游戏音乐。"
+  },
+  {
+    "id": 658,
+    "en": "Open the Ending Gallery.",
+    "addresses": [
+      "0x82038ae8"
+    ],
+    "zh": "打开结局鉴赏。"
+  },
+  {
+    "id": 659,
+    "en": "Open the Story Gallery.",
+    "addresses": [
+      "0x82038b1c"
+    ],
+    "zh": "打开剧情鉴赏。"
+  },
+  {
+    "id": 660,
+    "en": "Open the Character Gallery.",
+    "addresses": [
+      "0x82038b4c"
+    ],
+    "zh": "打开角色鉴赏。"
+  },
+  {
+    "id": 661,
+    "en": "Open the Sound Gallery.",
+    "addresses": [
+      "0x82038b84"
+    ],
+    "zh": "打开声音鉴赏。"
+  },
+  {
+    "id": 662,
+    "en": "Adjust the CPU's Luck.",
+    "addresses": [
+      "0x82038bb4"
+    ],
+    "zh": "调整电脑的幸运。"
+  },
+  {
+    "id": 663,
+    "en": "Adjust the CPU's Agility.",
+    "addresses": [
+      "0x82038be4"
+    ],
+    "zh": "调整电脑的敏捷。"
+  },
+  {
+    "id": 664,
+    "en": "Adjust the CPU's Mentality.",
+    "addresses": [
+      "0x82038c18"
+    ],
+    "zh": "调整电脑的精神。"
+  },
+  {
+    "id": 665,
+    "en": "Adjust the CPU's Intelligence.",
+    "addresses": [
+      "0x82038c50"
+    ],
+    "zh": "调整电脑的智力。"
+  },
+  {
+    "id": 666,
+    "en": "Adjust the CPU's Vitality.",
+    "addresses": [
+      "0x82038c90"
+    ],
+    "zh": "调整电脑的体质。"
+  },
+  {
+    "id": 667,
+    "en": "Adjust the CPU's Strength.",
+    "addresses": [
+      "0x82038cc8"
+    ],
+    "zh": "调整电脑的力量。"
+  },
+  {
+    "id": 668,
+    "en": "Adjust the CPU's level.",
+    "addresses": [
+      "0x82038d00"
+    ],
+    "zh": "调整电脑的等级。"
+  },
+  {
+    "id": 669,
+    "en": "Select how the CPU recovers MP.",
+    "addresses": [
+      "0x82038d30"
+    ],
+    "zh": "选择电脑的MP恢复方式。"
+  },
+  {
+    "id": 670,
+    "en": "Tell the CPU whether to break out of stuns/freezes.",
+    "addresses": [
+      "0x82038d70"
+    ],
+    "zh": "设置电脑是否挣脱眩晕或冰冻。"
+  },
+  {
+    "id": 671,
+    "en": "Tell the CPU whether or not to block.",
+    "addresses": [
+      "0x82038dd8"
+    ],
+    "zh": "设置电脑是否防御。"
+  },
+  {
+    "id": 672,
+    "en": "Tell the CPU how to recover from blows.",
+    "addresses": [
+      "0x82038e28"
+    ],
+    "zh": "设置电脑的受身方式。"
+  },
+  {
+    "id": 673,
+    "en": "Tell the CPU to stand, jump, or crouch.",
+    "addresses": [
+      "0x82038e78"
+    ],
+    "zh": "设置电脑站立、跳跃或下蹲。"
+  },
+  {
+    "id": 674,
+    "en": "Adjust your character's Luck.",
+    "addresses": [
+      "0x82038ec8"
+    ],
+    "zh": "调整角色的幸运。"
+  },
+  {
+    "id": 675,
+    "en": "Adjust your character's Agility.",
+    "addresses": [
+      "0x82038f08"
+    ],
+    "zh": "调整角色的敏捷。"
+  },
+  {
+    "id": 676,
+    "en": "Adjust your character's Mentality.",
+    "addresses": [
+      "0x82038f50"
+    ],
+    "zh": "调整角色的精神。"
+  },
+  {
+    "id": 677,
+    "en": "Adjust your character's Intelligence.",
+    "addresses": [
+      "0x82038f98"
+    ],
+    "zh": "调整角色的智力。"
+  },
+  {
+    "id": 678,
+    "en": "Adjust your character's Vitality.",
+    "addresses": [
+      "0x82038fe8"
+    ],
+    "zh": "调整角色的体质。"
+  },
+  {
+    "id": 679,
+    "en": "Adjust your character's Strength.",
+    "addresses": [
+      "0x82039030"
+    ],
+    "zh": "调整角色的力量。"
+  },
+  {
+    "id": 680,
+    "en": "Adjust your character's level.",
+    "addresses": [
+      "0x82039074"
+    ],
+    "zh": "调整角色的等级。"
+  },
+  {
+    "id": 681,
+    "en": "Select how your character recovers MP.",
+    "addresses": [
+      "0x820390b8"
+    ],
+    "zh": "选择角色的MP恢复方式。"
+  },
+  {
+    "id": 682,
+    "en": "Open the setup menu for your computer opponent.",
+    "addresses": [
+      "0x82039108"
+    ],
+    "zh": "打开电脑对手设置菜单。"
+  },
+  {
+    "id": 683,
+    "en": "Open the setup menu for your character.",
+    "addresses": [
+      "0x82039168"
+    ],
+    "zh": "打开玩家角色设置菜单。"
+  },
+  {
+    "id": 684,
+    "en": "End this play session and return to the title screen.",
+    "addresses": [
+      "0x820391b8"
+    ],
+    "zh": "结束本次游戏，返回标题画面。"
+  },
+  {
+    "id": 685,
+    "en": "End this play session and pick another character.",
+    "addresses": [
+      "0x82039228"
+    ],
+    "zh": "结束本次游戏，另选角色。"
+  },
+  {
+    "id": 686,
+    "en": "Set up your training session.",
+    "addresses": [
+      "0x8203928c"
+    ],
+    "zh": "设置本次训练。"
+  },
+  {
+    "id": 687,
+    "en": "Show a list of your character's moves.",
+    "addresses": [
+      "0x820392c8"
+    ],
+    "zh": "显示角色招式列表。"
+  },
+  {
+    "id": 688,
+    "en": "Resume the game.",
+    "addresses": [
+      "0x82039318"
+    ],
+    "zh": "继续游戏。"
+  },
+  {
+    "id": 689,
+    "en": "Revert to the default settings.",
+    "addresses": [
+      "0x82039340"
+    ],
+    "zh": "恢复默认设置。"
+  },
+  {
+    "id": 690,
+    "en": "Set the volume for voices.",
+    "addresses": [
+      "0x82039380"
+    ],
+    "zh": "设置语音音量。"
+  },
+  {
+    "id": 691,
+    "en": "Set the volume for sound effects.",
+    "addresses": [
+      "0x820393b8"
+    ],
+    "zh": "设置音效音量。"
+  },
+  {
+    "id": 692,
+    "en": "Set the volume for music.",
+    "addresses": [
+      "0x820393fc"
+    ],
+    "zh": "设置音乐音量。"
+  },
+  {
+    "id": 693,
+    "en": "Adjust screen brightness.",
+    "addresses": [
+      "0x82039430"
+    ],
+    "zh": "调整画面亮度。"
+  },
+  {
+    "id": 694,
+    "en": "Adjust how much the screen shakes.",
+    "addresses": [
+      "0x82039468"
+    ],
+    "zh": "调整画面震动强度。"
+  },
+  {
+    "id": 695,
+    "en": "Show or hide the numbers that indicate damage dealt.",
+    "addresses": [
+      "0x820394b0"
+    ],
+    "zh": "显示或隐藏伤害数字。"
+  },
+  {
+    "id": 696,
+    "en": "Show or hide the numbers that count your consecutive hits.",
+    "addresses": [
+      "0x82039520"
+    ],
+    "zh": "显示或隐藏连击计数。"
+  },
+  {
+    "id": 697,
+    "en": "Select a storage device for saving your game data.",
+    "addresses": [
+      "0x82039598"
+    ],
+    "zh": "选择用于保存游戏数据的存储设备。"
+  },
+  {
+    "id": 698,
+    "en": "Open the sound setup menu.",
+    "addresses": [
+      "0x82039600"
+    ],
+    "zh": "打开声音设置菜单。"
+  },
+  {
+    "id": 699,
+    "en": "Open the graphics setup menu.",
+    "addresses": [
+      "0x82039638"
+    ],
+    "zh": "打开画面设置菜单。"
+  },
+  {
+    "id": 700,
+    "en": "Set up Remix Mode.",
+    "addresses": [
+      "0x82039674"
+    ],
+    "zh": "设置重制模式。"
+  },
+  {
+    "id": 701,
+    "en": "Set up Original Mode.",
+    "addresses": [
+      "0x8203969c"
+    ],
+    "zh": "设置原版模式。"
+  },
+  {
+    "id": 702,
+    "en": "Open the Remix Mode setup menu.",
+    "addresses": [
+      "0x820396c8"
+    ],
+    "zh": "打开重制模式设置菜单。"
+  },
+  {
+    "id": 703,
+    "en": "Open the Original Mode setup menu.",
+    "addresses": [
+      "0x82039708"
+    ],
+    "zh": "打开原版模式设置菜单。"
+  },
+  {
+    "id": 704,
+    "en": "View the credits.",
+    "addresses": [
+      "0x82039750"
+    ],
+    "zh": "查看制作人员名单。"
+  },
+  {
+    "id": 705,
+    "en": "Open the graphics and sound setup menu.",
+    "addresses": [
+      "0x82039778"
+    ],
+    "zh": "打开画面与声音设置菜单。"
+  },
+  {
+    "id": 706,
+    "en": "Open the controller setup menu.",
+    "addresses": [
+      "0x820397c8"
+    ],
+    "zh": "打开手柄设置菜单。"
+  },
+  {
+    "id": 707,
+    "en": "Get instructions on how to play the game.",
+    "addresses": [
+      "0x82039808"
+    ],
+    "zh": "查看游戏玩法说明。"
+  },
+  {
+    "id": 708,
+    "en": "Continue the game with a different character.",
+    "addresses": [
+      "0x82039860"
+    ],
+    "zh": "更换角色，继续游戏。"
+  },
+  {
+    "id": 709,
+    "en": "Set the mode for new Story Mode games.",
+    "addresses": [
+      "0x820398c0"
+    ],
+    "zh": "设置新剧情游戏的模式。"
+  },
+  {
+    "id": 710,
+    "en": "Set the difficulty for new Story Mode games.",
+    "addresses": [
+      "0x82039910"
+    ],
+    "zh": "设置新剧情游戏的难度。"
+  },
+  {
+    "id": 711,
+    "en": "Start a new Story Mode game from the beginning.",
+    "addresses": [
+      "0x82039970"
+    ],
+    "zh": "从头开始新的剧情游戏。"
+  },
+  {
+    "id": 712,
+    "en": "Continue Story Mode from the last stage you saved.",
+    "addresses": [
+      "0x820399d0"
+    ],
+    "zh": "从最近保存的关卡继续剧情模式。"
+  },
+  {
+    "id": 713,
+    "en": "End the game and return to the Game Library.",
+    "addresses": [
+      "0x82039a38"
+    ],
+    "zh": "结束游戏，返回游戏库。"
+  },
+  {
+    "id": 714,
+    "en": "Unlock the full game.",
+    "addresses": [
+      "0x82039a94"
+    ],
+    "zh": "解锁完整版游戏。"
+  },
+  {
+    "id": 715,
+    "en": "Learn how to play and configure game settings.",
+    "addresses": [
+      "0x82039ac0"
+    ],
+    "zh": "了解游戏玩法，调整游戏设置。"
+  },
+  {
+    "id": 716,
+    "en": "Display the list of achievements.",
+    "addresses": [
+      "0x82039b20"
+    ],
+    "zh": "显示成就列表。"
+  },
+  {
+    "id": 717,
+    "en": "View the leaderboards.",
+    "addresses": [
+      "0x82039b64"
+    ],
+    "zh": "查看排行榜。"
+  },
+  {
+    "id": 718,
+    "en": "Create personalized match rules for Versus Mode.",
+    "addresses": [
+      "0x82039b98"
+    ],
+    "zh": "为对战模式自定义对局规则。"
+  },
+  {
+    "id": 719,
+    "en": "View the game galleries.",
+    "addresses": [
+      "0x82039bfc"
+    ],
+    "zh": "查看游戏鉴赏。"
+  },
+  {
+    "id": 720,
+    "en": "Begin a game in Arcade Mode.",
+    "addresses": [
+      "0x82039c30"
+    ],
+    "zh": "开始街机模式。"
+  },
+  {
+    "id": 721,
+    "en": "Sharpen your skills in Training Mode.",
+    "addresses": [
+      "0x82039c70"
+    ],
+    "zh": "在训练模式中磨练技巧。"
+  },
+  {
+    "id": 722,
+    "en": "Begin a game in Versus Mode.",
+    "addresses": [
+      "0x82039cbc"
+    ],
+    "zh": "开始对战模式。"
+  },
+  {
+    "id": 723,
+    "en": "Begin a game in Story Mode.",
+    "addresses": [
+      "0x82039cf8"
+    ],
+    "zh": "开始剧情模式。"
+  },
+  {
+    "id": 724,
+    "en": "Special Moves list",
+    "addresses": [
+      "0x82052f7c"
+    ],
+    "zh": "必杀技列表"
+  },
+  {
+    "id": 725,
+    "en": "Starting Position",
+    "addresses": [
+      "0x82052fa4"
+    ],
+    "zh": "起始位置"
+  },
+  {
+    "id": 726,
+    "en": "Session Settings ",
+    "addresses": [
+      "0x82052fc8"
+    ],
+    "zh": "房间设置"
+  },
+  {
+    "id": 727,
+    "en": "Xbox LIVE Mode ",
+    "addresses": [
+      "0x82052fec"
+    ],
+    "zh": "Xbox LIVE模式"
+  },
+  {
+    "id": 728,
+    "en": "Automatic Optimization",
+    "addresses": [
+      "0x8205300c"
+    ],
+    "zh": "自动优化"
+  },
+  {
+    "id": 729,
+    "en": "Prioritize Stability ",
+    "addresses": [
+      "0x8205303c"
+    ],
+    "zh": "稳定优先"
+  },
+  {
+    "id": 730,
+    "en": "Connection type",
+    "addresses": [
+      "0x82053068"
+    ],
+    "zh": "连接类型"
+  },
+  {
+    "id": 731,
+    "en": "Row Shift",
+    "addresses": [
+      "0x82053088"
+    ],
+    "zh": "换线"
+  },
+  {
+    "id": 732,
+    "en": "Prioritize Quality ",
+    "addresses": [
+      "0x8205309c"
+    ],
+    "zh": "质量优先"
+  },
+  {
+    "id": 733,
+    "en": "Prioritize Speed ",
+    "addresses": [
+      "0x820530c4"
+    ],
+    "zh": "速度优先"
+  },
+  {
+    "id": 734,
+    "en": "Prioritize Connection Settings ",
+    "addresses": [
+      "0x820530e8"
+    ],
+    "zh": "连接设置优先"
+  },
+  {
+    "id": 735,
+    "en": "Equally divided ",
+    "addresses": [
+      "0x82053128"
+    ],
+    "zh": "平均分配"
+  },
+  {
+    "id": 736,
+    "en": "Distribution",
+    "addresses": [
+      "0x8205314c"
+    ],
+    "zh": "分配"
+  },
+  {
+    "id": 737,
+    "en": "Delay Correction",
+    "addresses": [
+      "0x82053168"
+    ],
+    "zh": "延迟修正"
+  },
+  {
+    "id": 738,
+    "en": "Bonus",
+    "addresses": [
+      "0x8205318c"
+    ],
+    "zh": "奖励"
+  },
+  {
+    "id": 739,
+    "en": "12 team Match",
+    "addresses": [
+      "0x82053198"
+    ],
+    "zh": "12队对战"
+  },
+  {
+    "id": 740,
+    "en": "6 team Match",
+    "addresses": [
+      "0x820531b4"
+    ],
+    "zh": "6队对战"
+  },
+  {
+    "id": 741,
+    "en": "4 team Match",
+    "addresses": [
+      "0x820531d0"
+    ],
+    "zh": "4队对战"
+  },
+  {
+    "id": 742,
+    "en": "2 team Match",
+    "addresses": [
+      "0x820531ec"
+    ],
+    "zh": "2队对战"
+  },
+  {
+    "id": 743,
+    "en": "Times Used",
+    "addresses": [
+      "0x82053208"
+    ],
+    "zh": "使用次数"
+  },
+  {
+    "id": 744,
+    "en": "Match Count",
+    "addresses": [
+      "0x82053220"
+    ],
+    "zh": "对局次数"
+  },
+  {
+    "id": 745,
+    "en": "Xbox LIVE Records",
+    "addresses": [
+      "0x82053238"
+    ],
+    "zh": "Xbox LIVE记录"
+  },
+  {
+    "id": 746,
+    "en": "Local Records",
+    "addresses": [
+      "0x8205325c"
+    ],
+    "zh": "本地记录"
+  },
+  {
+    "id": 747,
+    "en": "Point Match",
+    "addresses": [
+      "0x82053278"
+    ],
+    "zh": "积分战"
+  },
+  {
+    "id": 748,
+    "en": "Deathmatch",
+    "addresses": [
+      "0x82053290"
+    ],
+    "zh": "生存战"
+  },
+  {
+    "id": 749,
+    "en": "Match Type",
+    "addresses": [
+      "0x820532a8"
+    ],
+    "zh": "对战类型"
+  },
+  {
+    "id": 750,
+    "en": "All Decide",
+    "addresses": [
+      "0x820532c0"
+    ],
+    "zh": "全员决定"
+  },
+  {
+    "id": 751,
+    "en": "Host Decides",
+    "addresses": [
+      "0x820532d8"
+    ],
+    "zh": "房主决定"
+  },
+  {
+    "id": 752,
+    "en": "Randomize",
+    "addresses": [
+      "0x820532f4"
+    ],
+    "zh": "随机"
+  },
+  {
+    "id": 753,
+    "en": "Leave Empty",
+    "addresses": [
+      "0x82053308"
+    ],
+    "zh": "留空"
+  },
+  {
+    "id": 754,
+    "en": "Unfilled Slots",
+    "addresses": [
+      "0x82053320"
+    ],
+    "zh": "空缺席位"
+  },
+  {
+    "id": 755,
+    "en": "Include CPU",
+    "addresses": [
+      "0x82053340"
+    ],
+    "zh": "包含电脑"
+  },
+  {
+    "id": 756,
+    "en": "Players Only",
+    "addresses": [
+      "0x82053358"
+    ],
+    "zh": "仅限玩家"
+  },
+  {
+    "id": 757,
+    "en": "Eligibility",
+    "addresses": [
+      "0x82053374"
+    ],
+    "zh": "判定对象"
+  },
+  {
+    "id": 758,
+    "en": "Rows",
+    "addresses": [
+      "0x8205338c"
+    ],
+    "zh": "战斗线数"
+  },
+  {
+    "id": 759,
+    "en": "Game Modes",
+    "addresses": [
+      "0x82053398"
+    ],
+    "zh": "游戏模式"
+  },
+  {
+    "id": 760,
+    "en": "Custom Rules",
+    "addresses": [
+      "0x820533b0"
+    ],
+    "zh": "自定义规则"
+  },
+  {
+    "id": 761,
+    "en": "Create Session (Versus Mode)",
+    "addresses": [
+      "0x820533cc"
+    ],
+    "zh": "创建房间（对战模式）"
+  },
+  {
+    "id": 762,
+    "en": "Create Session (Story Mode)",
+    "addresses": [
+      "0x82053408"
+    ],
+    "zh": "创建房间（剧情模式）"
+  },
+  {
+    "id": 763,
+    "en": "Xbox LIVE Party",
+    "addresses": [
+      "0x82053440"
+    ],
+    "zh": "Xbox LIVE派对"
+  },
+  {
+    "id": 764,
+    "en": "Six-team Match (Remix)",
+    "addresses": [
+      "0x82053460"
+    ],
+    "zh": "六队战（重制）"
+  },
+  {
+    "id": 765,
+    "en": "Six-team Match (Original)",
+    "addresses": [
+      "0x82053490"
+    ],
+    "zh": "六队战（原版）"
+  },
+  {
+    "id": 766,
+    "en": "Four-team Match (Remix)",
+    "addresses": [
+      "0x820534c4"
+    ],
+    "zh": "四队战（重制）"
+  },
+  {
+    "id": 767,
+    "en": "Four-team Match (Original)",
+    "addresses": [
+      "0x820534f4"
+    ],
+    "zh": "四队战（原版）"
+  },
+  {
+    "id": 768,
+    "en": "Two-team Match (Remix)",
+    "addresses": [
+      "0x8205352c"
+    ],
+    "zh": "双队战（重制）"
+  },
+  {
+    "id": 769,
+    "en": "Two-team Match (Original)",
+    "addresses": [
+      "0x8205355c"
+    ],
+    "zh": "双队战（原版）"
+  },
+  {
+    "id": 770,
+    "en": "Default",
+    "addresses": [
+      "0x82053590"
+    ],
+    "zh": "默认"
+  },
+  {
+    "id": 771,
+    "en": "Filter",
+    "addresses": [
+      "0x820535a0"
+    ],
+    "zh": "滤镜"
+  },
+  {
+    "id": 772,
+    "en": "Graphics",
+    "addresses": [
+      "0x820535b0"
+    ],
+    "zh": "画面"
+  },
+  {
+    "id": 773,
+    "en": "Yours Only",
+    "addresses": [
+      "0x820535c4"
+    ],
+    "zh": "仅限本国"
+  },
+  {
+    "id": 774,
+    "en": "Country Filter",
+    "addresses": [
+      "0x820535dc"
+    ],
+    "zh": "国家筛选"
+  },
+  {
+    "id": 775,
+    "en": "Any",
+    "addresses": [
+      "0x820535fc"
+    ],
+    "zh": "不限"
+  },
+  {
+    "id": 776,
+    "en": "Network Match",
+    "addresses": [
+      "0x82053604"
+    ],
+    "zh": "联网对战"
+  },
+  {
+    "id": 777,
+    "en": "Private Slots",
+    "addresses": [
+      "0x82053620"
+    ],
+    "zh": "私人席位"
+  },
+  {
+    "id": 778,
+    "en": "Players",
+    "addresses": [
+      "0x8205363c"
+    ],
+    "zh": "玩家"
+  },
+  {
+    "id": 779,
+    "en": "Character",
+    "addresses": [
+      "0x8205364c"
+    ],
+    "zh": "角色"
+  },
+  {
+    "id": 780,
+    "en": "Play Time",
+    "addresses": [
+      "0x82053660"
+    ],
+    "zh": "游戏时间"
+  },
+  {
+    "id": 781,
+    "en": "Score",
+    "addresses": [
+      "0x82053674"
+    ],
+    "zh": "分数"
+  },
+  {
+    "id": 782,
+    "en": "Gamertag",
+    "addresses": [
+      "0x82053680"
+    ],
+    "zh": "玩家代号"
+  },
+  {
+    "id": 783,
+    "en": "Rank",
+    "addresses": [
+      "0x82053694"
+    ],
+    "zh": "名次"
+  },
+  {
+    "id": 784,
+    "en": "Friends",
+    "addresses": [
+      "0x820536a0"
+    ],
+    "zh": "好友"
+  },
+  {
+    "id": 785,
+    "en": "My Position",
+    "addresses": [
+      "0x820536b0"
+    ],
+    "zh": "我的排名"
+  },
+  {
+    "id": 786,
+    "en": "Global",
+    "addresses": [
+      "0x820536c8"
+    ],
+    "zh": "全球"
+  },
+  {
+    "id": 787,
+    "en": "Xbox LIVE",
+    "addresses": [
+      "0x820536d8"
+    ],
+    "zh": "Xbox LIVE"
+  },
+  {
+    "id": 788,
+    "en": "Local",
+    "addresses": [
+      "0x820536ec"
+    ],
+    "zh": "本地"
+  },
+  {
+    "id": 789,
+    "en": "Create New",
+    "addresses": [
+      "0x820536f8"
+    ],
+    "zh": "新建"
+  },
+  {
+    "id": 790,
+    "en": "Connection",
+    "addresses": [
+      "0x82053710"
+    ],
+    "zh": "连接"
+  },
+  {
+    "id": 791,
+    "en": "Private",
+    "addresses": [
+      "0x82053728"
+    ],
+    "zh": "私人"
+  },
+  {
+    "id": 792,
+    "en": "Select Rules",
+    "addresses": [
+      "0x82053738"
+    ],
+    "zh": "选择规则"
+  },
+  {
+    "id": 793,
+    "en": "Begin Search",
+    "addresses": [
+      "0x82053754"
+    ],
+    "zh": "开始搜索"
+  },
+  {
+    "id": 794,
+    "en": "Create Session",
+    "addresses": [
+      "0x82053770"
+    ],
+    "zh": "创建房间"
+  },
+  {
+    "id": 795,
+    "en": "System Link",
+    "addresses": [
+      "0x82053790"
+    ],
+    "zh": "系统连线"
+  },
+  {
+    "id": 796,
+    "en": "Custom Match",
+    "addresses": [
+      "0x820537a8"
+    ],
+    "zh": "自定义对战"
+  },
+  {
+    "id": 797,
+    "en": "Quick Match",
+    "addresses": [
+      "0x820537c4"
+    ],
+    "zh": "快速对战"
+  },
+  {
+    "id": 798,
+    "en": "Local Match",
+    "addresses": [
+      "0x820537dc"
+    ],
+    "zh": "本地对战"
+  },
+  {
+    "id": 799,
+    "en": "Luck",
+    "addresses": [
+      "0x820537f4"
+    ],
+    "zh": "幸运"
+  },
+  {
+    "id": 800,
+    "en": "The Elements",
+    "addresses": [
+      "0x82053800"
+    ],
+    "zh": "元素"
+  },
+  {
+    "id": 801,
+    "en": "Karma",
+    "addresses": [
+      "0x8205381c"
+    ],
+    "zh": "业力"
+  },
+  {
+    "id": 802,
+    "en": "Additional Controls",
+    "addresses": [
+      "0x82053828"
+    ],
+    "zh": "其他操作"
+  },
+  {
+    "id": 803,
+    "en": "Recovering",
+    "addresses": [
+      "0x82053850"
+    ],
+    "zh": "受身"
+  },
+  {
+    "id": 804,
+    "en": "Countering",
+    "addresses": [
+      "0x82053868"
+    ],
+    "zh": "反击"
+  },
+  {
+    "id": 805,
+    "en": "Backstepping",
+    "addresses": [
+      "0x82053880"
+    ],
+    "zh": "后撤步"
+  },
+  {
+    "id": 806,
+    "en": "Stun & Mental Distress",
+    "addresses": [
+      "0x8205389c"
+    ],
+    "zh": "眩晕与精神失衡"
+  },
+  {
+    "id": 807,
+    "en": "Recovering MP",
+    "addresses": [
+      "0x820538cc"
+    ],
+    "zh": "恢复MP"
+  },
+  {
+    "id": 808,
+    "en": "Issuing Commands",
+    "addresses": [
+      "0x820538e8"
+    ],
+    "zh": "下达指令"
+  },
+  {
+    "id": 809,
+    "en": "Leveling Up",
+    "addresses": [
+      "0x8205390c"
+    ],
+    "zh": "升级"
+  },
+  {
+    "id": 810,
+    "en": "Basic Attacks",
+    "addresses": [
+      "0x82053924"
+    ],
+    "zh": "基本攻击"
+  },
+  {
+    "id": 811,
+    "en": "Dashing",
+    "addresses": [
+      "0x82053940"
+    ],
+    "zh": "冲刺"
+  },
+  {
+    "id": 812,
+    "en": "Moving",
+    "addresses": [
+      "0x82053950"
+    ],
+    "zh": "移动"
+  },
+  {
+    "id": 813,
+    "en": "Sublime",
+    "addresses": [
+      "0x82053960"
+    ],
+    "zh": "高阶"
+  },
+  {
+    "id": 814,
+    "en": "Basics",
+    "addresses": [
+      "0x82053970"
+    ],
+    "zh": "基础"
+  },
+  {
+    "id": 815,
+    "en": "Special Moves",
+    "addresses": [
+      "0x82053980"
+    ],
+    "zh": "必杀技"
+  },
+  {
+    "id": 816,
+    "en": "MP Consumption",
+    "addresses": [
+      "0x8205399c"
+    ],
+    "zh": "MP消耗"
+  },
+  {
+    "id": 817,
+    "en": "Maximum Level",
+    "addresses": [
+      "0x820539bc"
+    ],
+    "zh": "等级上限"
+  },
+  {
+    "id": 818,
+    "en": "Minimum Level",
+    "addresses": [
+      "0x820539d8"
+    ],
+    "zh": "等级下限"
+  },
+  {
+    "id": 819,
+    "en": "Reorder",
+    "addresses": [
+      "0x820539f4"
+    ],
+    "zh": "排序"
+  },
+  {
+    "id": 820,
+    "en": "Delete",
+    "addresses": [
+      "0x82053a04"
+    ],
+    "zh": "删除"
+  },
+  {
+    "id": 821,
+    "en": "Edit",
+    "addresses": [
+      "0x82053a14"
+    ],
+    "zh": "编辑"
+  },
+  {
+    "id": 822,
+    "en": "New",
+    "addresses": [
+      "0x82053a20"
+    ],
+    "zh": "新建"
+  },
+  {
+    "id": 823,
+    "en": "Locked",
+    "addresses": [
+      "0x82053a28"
+    ],
+    "zh": "禁用"
+  },
+  {
+    "id": 824,
+    "en": "Selectable",
+    "addresses": [
+      "0x82053a38"
+    ],
+    "zh": "可选"
+  },
+  {
+    "id": 825,
+    "en": "15 minutes",
+    "addresses": [
+      "0x82053a50"
+    ],
+    "zh": "15分钟"
+  },
+  {
+    "id": 826,
+    "en": "12 minutes",
+    "addresses": [
+      "0x82053a68"
+    ],
+    "zh": "12分钟"
+  },
+  {
+    "id": 827,
+    "en": "10 minutes",
+    "addresses": [
+      "0x82053a80"
+    ],
+    "zh": "10分钟"
+  },
+  {
+    "id": 828,
+    "en": "7 minutes",
+    "addresses": [
+      "0x82053a98"
+    ],
+    "zh": "7分钟"
+  },
+  {
+    "id": 829,
+    "en": "5 minutes",
+    "addresses": [
+      "0x82053aac"
+    ],
+    "zh": "5分钟"
+  },
+  {
+    "id": 830,
+    "en": "3 minutes",
+    "addresses": [
+      "0x82053ac0"
+    ],
+    "zh": "3分钟"
+  },
+  {
+    "id": 831,
+    "en": "1 minute",
+    "addresses": [
+      "0x82053ad4"
+    ],
+    "zh": "1分钟"
+  },
+  {
+    "id": 832,
+    "en": "Levels",
+    "addresses": [
+      "0x82053ae8"
+    ],
+    "zh": "等级"
+  },
+  {
+    "id": 833,
+    "en": "Teams",
+    "addresses": [
+      "0x82053af8"
+    ],
+    "zh": "队伍"
+  },
+  {
+    "id": 834,
+    "en": "Counters",
+    "addresses": [
+      "0x82053b04"
+    ],
+    "zh": "反击"
+  },
+  {
+    "id": 835,
+    "en": "Forcebacks",
+    "addresses": [
+      "0x82053b18"
+    ],
+    "zh": "震退"
+  },
+  {
+    "id": 836,
+    "en": "Mental Distress",
+    "addresses": [
+      "0x82053b30"
+    ],
+    "zh": "精神失衡"
+  },
+  {
+    "id": 837,
+    "en": "Healthy Stun",
+    "addresses": [
+      "0x82053b50"
+    ],
+    "zh": "眩晕回血"
+  },
+  {
+    "id": 838,
+    "en": "Stun",
+    "addresses": [
+      "0x82053b6c"
+    ],
+    "zh": "眩晕"
+  },
+  {
+    "id": 839,
+    "en": "Luck Mods",
+    "addresses": [
+      "0x82053b78"
+    ],
+    "zh": "幸运修正"
+  },
+  {
+    "id": 840,
+    "en": "Element Mods",
+    "addresses": [
+      "0x82053b8c"
+    ],
+    "zh": "元素修正"
+  },
+  {
+    "id": 841,
+    "en": "Corpse Abuse",
+    "addresses": [
+      "0x82053ba8"
+    ],
+    "zh": "攻击尸体"
+  },
+  {
+    "id": 842,
+    "en": "Infinite Aerial Moves",
+    "addresses": [
+      "0x82053bc4"
+    ],
+    "zh": "无限空中技"
+  },
+  {
+    "id": 843,
+    "en": "Flight",
+    "addresses": [
+      "0x82053bf0"
+    ],
+    "zh": "飞行"
+  },
+  {
+    "id": 844,
+    "en": "Analog Row Movement",
+    "addresses": [
+      "0x82053c00"
+    ],
+    "zh": "渐进换线"
+  },
+  {
+    "id": 845,
+    "en": "Blocking Damage",
+    "addresses": [
+      "0x82053c28"
+    ],
+    "zh": "防御伤害"
+  },
+  {
+    "id": 846,
+    "en": "Time Limit",
+    "addresses": [
+      "0x82053c48"
+    ],
+    "zh": "时间限制"
+  },
+  {
+    "id": 847,
+    "en": "Strength Boost",
+    "addresses": [
+      "0x82053c60"
+    ],
+    "zh": "力量加成"
+  },
+  {
+    "id": 848,
+    "en": "Six-team Match",
+    "addresses": [
+      "0x82053c80"
+    ],
+    "zh": "六队战"
+  },
+  {
+    "id": 849,
+    "en": "Four-team Match",
+    "addresses": [
+      "0x82053ca0"
+    ],
+    "zh": "四队战"
+  },
+  {
+    "id": 850,
+    "en": "Two-team Match",
+    "addresses": [
+      "0x82053cc0"
+    ],
+    "zh": "双队战"
+  },
+  {
+    "id": 851,
+    "en": "Who Knows What Goes? (Remix)",
+    "addresses": [
+      "0x82053ce0"
+    ],
+    "zh": "随机规则（重制）"
+  },
+  {
+    "id": 852,
+    "en": "Who Knows What Goes? (Original)",
+    "addresses": [
+      "0x82053d20"
+    ],
+    "zh": "随机规则（原版）"
+  },
+  {
+    "id": 853,
+    "en": "Anything Goes (Remix)",
+    "addresses": [
+      "0x82053d60"
+    ],
+    "zh": "无限制（重制）"
+  },
+  {
+    "id": 854,
+    "en": "Anything Goes (Original)",
+    "addresses": [
+      "0x82053d8c"
+    ],
+    "zh": "无限制（原版）"
+  },
+  {
+    "id": 855,
+    "en": "Orthodox (Remix)",
+    "addresses": [
+      "0x82053dc0"
+    ],
+    "zh": "标准战（重制）"
+  },
+  {
+    "id": 856,
+    "en": "Orthodox (Original)",
+    "addresses": [
+      "0x82053de4"
+    ],
+    "zh": "标准战（原版）"
+  },
+  {
+    "id": 857,
+    "en": "Ending 5 (Darkness)",
+    "addresses": [
+      "0x82053e0c"
+    ],
+    "zh": "结局5（黑暗）"
+  },
+  {
+    "id": 858,
+    "en": "Ending 5 (Light)",
+    "addresses": [
+      "0x82053e34"
+    ],
+    "zh": "结局5（光明）"
+  },
+  {
+    "id": 859,
+    "en": "Ending 4",
+    "addresses": [
+      "0x82053e58"
+    ],
+    "zh": "结局4"
+  },
+  {
+    "id": 860,
+    "en": "Ending 3 (Darkness)",
+    "addresses": [
+      "0x82053e6c"
+    ],
+    "zh": "结局3（黑暗）"
+  },
+  {
+    "id": 861,
+    "en": "Ending 3 (Light)",
+    "addresses": [
+      "0x82053e94"
+    ],
+    "zh": "结局3（光明）"
+  },
+  {
+    "id": 862,
+    "en": "Ending 2",
+    "addresses": [
+      "0x82053eb8"
+    ],
+    "zh": "结局2"
+  },
+  {
+    "id": 863,
+    "en": "Ending 1",
+    "addresses": [
+      "0x82053ecc"
+    ],
+    "zh": "结局1"
+  },
+  {
+    "id": 864,
+    "en": "Stage",
+    "addresses": [
+      "0x82053ee0"
+    ],
+    "zh": "关卡"
+  },
+  {
+    "id": 865,
+    "en": "Voice",
+    "addresses": [
+      "0x82053eec"
+    ],
+    "zh": "语音"
+  },
+  {
+    "id": 866,
+    "en": "SFX",
+    "addresses": [
+      "0x82053ef8"
+    ],
+    "zh": "音效"
+  },
+  {
+    "id": 867,
+    "en": "Music",
+    "addresses": [
+      "0x82053f00"
+    ],
+    "zh": "音乐"
+  },
+  {
+    "id": 868,
+    "en": "Endings",
+    "addresses": [
+      "0x82053f0c"
+    ],
+    "zh": "结局"
+  },
+  {
+    "id": 869,
+    "en": "Characters",
+    "addresses": [
+      "0x82053f1c"
+    ],
+    "zh": "角色"
+  },
+  {
+    "id": 870,
+    "en": "Sound",
+    "addresses": [
+      "0x82053f34"
+    ],
+    "zh": "声音"
+  },
+  {
+    "id": 871,
+    "en": "Infinite",
+    "addresses": [
+      "0x82053f40"
+    ],
+    "zh": "无限"
+  },
+  {
+    "id": 872,
+    "en": "Reverse",
+    "addresses": [
+      "0x82053f54"
+    ],
+    "zh": "反向"
+  },
+  {
+    "id": 873,
+    "en": "Forward",
+    "addresses": [
+      "0x82053f64"
+    ],
+    "zh": "前向"
+  },
+  {
+    "id": 874,
+    "en": "Vertical",
+    "addresses": [
+      "0x82053f74"
+    ],
+    "zh": "垂直"
+  },
+  {
+    "id": 875,
+    "en": "On",
+    "addresses": [
+      "0x82053f88"
+    ],
+    "zh": "开"
+  },
+  {
+    "id": 876,
+    "en": "AI",
+    "addresses": [
+      "0x82053f90"
+    ],
+    "zh": "电脑"
+  },
+  {
+    "id": 877,
+    "en": "Jump",
+    "addresses": [
+      "0x82053f98"
+    ],
+    "zh": "跳跃"
+  },
+  {
+    "id": 878,
+    "en": "Crouch",
+    "addresses": [
+      "0x82053fa4"
+    ],
+    "zh": "下蹲"
+  },
+  {
+    "id": 879,
+    "en": "Stand",
+    "addresses": [
+      "0x82053fb4"
+    ],
+    "zh": "站立"
+  },
+  {
+    "id": 880,
+    "en": "LCK",
+    "addresses": [
+      "0x82053fc0"
+    ],
+    "zh": "幸运"
+  },
+  {
+    "id": 881,
+    "en": "AGI",
+    "addresses": [
+      "0x82053fc8"
+    ],
+    "zh": "敏捷"
+  },
+  {
+    "id": 882,
+    "en": "MNT",
+    "addresses": [
+      "0x82053fd0"
+    ],
+    "zh": "精神"
+  },
+  {
+    "id": 883,
+    "en": "INT",
+    "addresses": [
+      "0x82053fd8"
+    ],
+    "zh": "智力"
+  },
+  {
+    "id": 884,
+    "en": "VIT",
+    "addresses": [
+      "0x82053fe0"
+    ],
+    "zh": "体质"
+  },
+  {
+    "id": 885,
+    "en": "STR",
+    "addresses": [
+      "0x82053fe8"
+    ],
+    "zh": "力量"
+  },
+  {
+    "id": 886,
+    "en": "Level",
+    "addresses": [
+      "0x82053ff0"
+    ],
+    "zh": "等级"
+  },
+  {
+    "id": 887,
+    "en": "MP Regen",
+    "addresses": [
+      "0x82053ffc"
+    ],
+    "zh": "MP恢复"
+  },
+  {
+    "id": 888,
+    "en": "Un-stun",
+    "addresses": [
+      "0x82054010"
+    ],
+    "zh": "解除眩晕"
+  },
+  {
+    "id": 889,
+    "en": "Blocking",
+    "addresses": [
+      "0x82054020"
+    ],
+    "zh": "防御"
+  },
+  {
+    "id": 890,
+    "en": "Recovery",
+    "addresses": [
+      "0x82054034"
+    ],
+    "zh": "受身"
+  },
+  {
+    "id": 891,
+    "en": "Posture",
+    "addresses": [
+      "0x82054048"
+    ],
+    "zh": "姿态"
+  },
+  {
+    "id": 892,
+    "en": "CPU Settings",
+    "addresses": [
+      "0x82054058"
+    ],
+    "zh": "电脑设置"
+  },
+  {
+    "id": 893,
+    "en": "Player Settings",
+    "addresses": [
+      "0x82054074"
+    ],
+    "zh": "玩家设置"
+  },
+  {
+    "id": 894,
+    "en": "Training Setup",
+    "addresses": [
+      "0x82054094"
+    ],
+    "zh": "训练设置"
+  },
+  {
+    "id": 895,
+    "en": "Repertoire",
+    "addresses": [
+      "0x820540b4"
+    ],
+    "zh": "招式表"
+  },
+  {
+    "id": 896,
+    "en": "Resume Game",
+    "addresses": [
+      "0x820540cc"
+    ],
+    "zh": "继续游戏"
+  },
+  {
+    "id": 897,
+    "en": "Voice Volume",
+    "addresses": [
+      "0x820540e4"
+    ],
+    "zh": "语音音量"
+  },
+  {
+    "id": 898,
+    "en": "SFX Volume",
+    "addresses": [
+      "0x82054100"
+    ],
+    "zh": "音效音量"
+  },
+  {
+    "id": 899,
+    "en": "Music Volume",
+    "addresses": [
+      "0x82054118"
+    ],
+    "zh": "音乐音量"
+  },
+  {
+    "id": 900,
+    "en": "Mild",
+    "addresses": [
+      "0x82054134"
+    ],
+    "zh": "轻微"
+  },
+  {
+    "id": 901,
+    "en": "Off",
+    "addresses": [
+      "0x82054140"
+    ],
+    "zh": "关"
+  },
+  {
+    "id": 902,
+    "en": "Brightness",
+    "addresses": [
+      "0x82054148"
+    ],
+    "zh": "亮度"
+  },
+  {
+    "id": 903,
+    "en": "Screen Quake",
+    "addresses": [
+      "0x82054160"
+    ],
+    "zh": "画面震动"
+  },
+  {
+    "id": 904,
+    "en": "Damage Numbers",
+    "addresses": [
+      "0x8205417c"
+    ],
+    "zh": "伤害数字"
+  },
+  {
+    "id": 905,
+    "en": "Hit Count",
+    "addresses": [
+      "0x8205419c"
+    ],
+    "zh": "连击数"
+  },
+  {
+    "id": 906,
+    "en": "Select Storage Device",
+    "addresses": [
+      "0x820541b0"
+    ],
+    "zh": "选择存储设备"
+  },
+  {
+    "id": 907,
+    "en": "Audio Settings",
+    "addresses": [
+      "0x820541dc"
+    ],
+    "zh": "声音设置"
+  },
+  {
+    "id": 908,
+    "en": "Video Settings",
+    "addresses": [
+      "0x820541fc"
+    ],
+    "zh": "画面设置"
+  },
+  {
+    "id": 909,
+    "en": "Row Shift (Away)",
+    "addresses": [
+      "0x8205421c"
+    ],
+    "zh": "换线（远处）"
+  },
+  {
+    "id": 910,
+    "en": "Row Shift (Closer)",
+    "addresses": [
+      "0x82054240"
+    ],
+    "zh": "换线（近处）"
+  },
+  {
+    "id": 911,
+    "en": "Block",
+    "addresses": [
+      "0x82054268"
+    ],
+    "zh": "防御"
+  },
+  {
+    "id": 912,
+    "en": "Commands",
+    "addresses": [
+      "0x82054274"
+    ],
+    "zh": "指令"
+  },
+  {
+    "id": 913,
+    "en": "Backstep",
+    "addresses": [
+      "0x82054288"
+    ],
+    "zh": "后撤步"
+  },
+  {
+    "id": 914,
+    "en": "Strong Attack",
+    "addresses": [
+      "0x8205429c"
+    ],
+    "zh": "重攻击"
+  },
+  {
+    "id": 915,
+    "en": "Medium Attack",
+    "addresses": [
+      "0x820542b8"
+    ],
+    "zh": "中攻击"
+  },
+  {
+    "id": 916,
+    "en": "Quick Attack",
+    "addresses": [
+      "0x820542d4"
+    ],
+    "zh": "轻攻击"
+  },
+  {
+    "id": 917,
+    "en": "Vibration",
+    "addresses": [
+      "0x820542f0"
+    ],
+    "zh": "震动"
+  },
+  {
+    "id": 918,
+    "en": "Remix Mode Settings",
+    "addresses": [
+      "0x82054304"
+    ],
+    "zh": "重制模式设置"
+  },
+  {
+    "id": 919,
+    "en": "Original Mode Settings",
+    "addresses": [
+      "0x8205432c"
+    ],
+    "zh": "原版模式设置"
+  },
+  {
+    "id": 920,
+    "en": "Credits",
+    "addresses": [
+      "0x8205435c"
+    ],
+    "zh": "制作人员"
+  },
+  {
+    "id": 921,
+    "en": "Settings",
+    "addresses": [
+      "0x8205436c"
+    ],
+    "zh": "设置"
+  },
+  {
+    "id": 922,
+    "en": "Controls",
+    "addresses": [
+      "0x82054380"
+    ],
+    "zh": "操作"
+  },
+  {
+    "id": 923,
+    "en": "How to Play",
+    "addresses": [
+      "0x82054394"
+    ],
+    "zh": "游戏指南"
+  },
+  {
+    "id": 924,
+    "en": "Select Character",
+    "addresses": [
+      "0x820543ac"
+    ],
+    "zh": "选择角色"
+  },
+  {
+    "id": 925,
+    "en": "Remix",
+    "addresses": [
+      "0x820543d0"
+    ],
+    "zh": "重制"
+  },
+  {
+    "id": 926,
+    "en": "Original",
+    "addresses": [
+      "0x820543dc"
+    ],
+    "zh": "原版"
+  },
+  {
+    "id": 927,
+    "en": "Mode",
+    "addresses": [
+      "0x820543f0"
+    ],
+    "zh": "模式"
+  },
+  {
+    "id": 928,
+    "en": "Difficulty",
+    "addresses": [
+      "0x820543fc"
+    ],
+    "zh": "难度"
+  },
+  {
+    "id": 929,
+    "en": "New Game",
+    "addresses": [
+      "0x82054414"
+    ],
+    "zh": "新游戏"
+  },
+  {
+    "id": 930,
+    "en": "Continue",
+    "addresses": [
+      "0x82054428"
+    ],
+    "zh": "继续"
+  },
+  {
+    "id": 931,
+    "en": "Exit Game",
+    "addresses": [
+      "0x8205443c"
+    ],
+    "zh": "退出游戏"
+  },
+  {
+    "id": 932,
+    "en": "Unlock Full Game",
+    "addresses": [
+      "0x82054450"
+    ],
+    "zh": "解锁完整版"
+  },
+  {
+    "id": 933,
+    "en": "Help & Options",
+    "addresses": [
+      "0x82054474"
+    ],
+    "zh": "帮助与选项"
+  },
+  {
+    "id": 934,
+    "en": "Achievements",
+    "addresses": [
+      "0x82054494"
+    ],
+    "zh": "成就"
+  },
+  {
+    "id": 935,
+    "en": "Leaderboards",
+    "addresses": [
+      "0x820544b0"
+    ],
+    "zh": "排行榜"
+  },
+  {
+    "id": 936,
+    "en": "Rule Editor",
+    "addresses": [
+      "0x820544cc"
+    ],
+    "zh": "规则编辑器"
+  },
+  {
+    "id": 937,
+    "en": "Gallery",
+    "addresses": [
+      "0x820544e4"
+    ],
+    "zh": "鉴赏"
+  },
+  {
+    "id": 938,
+    "en": "Arcade",
+    "addresses": [
+      "0x820544f4"
+    ],
+    "zh": "街机"
+  },
+  {
+    "id": 939,
+    "en": "Training",
+    "addresses": [
+      "0x82054504"
+    ],
+    "zh": "训练"
+  },
+  {
+    "id": 940,
+    "en": "Versus",
+    "addresses": [
+      "0x82054518"
+    ],
+    "zh": "对战"
+  },
+  {
+    "id": 941,
+    "en": "Story",
+    "addresses": [
+      "0x82054528"
+    ],
+    "zh": "剧情"
+  },
+  {
+    "id": 942,
+    "en": "There are not enough open slots, unable to join the session.",
+    "addresses": [
+      "0x8205ae28"
+    ],
+    "zh": "空余席位不足，无法加入房间。"
+  },
+  {
+    "id": 943,
+    "en": "There are not enough open slots in the session for all profiles to join.",
+    "addresses": [
+      "0x8205aea8"
+    ],
+    "zh": "房间空余席位不足，无法让所有档案加入。"
+  },
+  {
+    "id": 944,
+    "en": "Xbox LIVE multiplayer functionality requires an Xbox LIVE Gold Membership",
+    "addresses": [
+      "0x8205af40"
+    ],
+    "zh": "Xbox LIVE多人功能需要Xbox LIVE金会员资格。"
+  },
+  {
+    "id": 945,
+    "en": "Raising this value will result in fewer instances of waiting for the match to sync, but lag after button input will increase. ",
+    "addresses": [
+      "0x8205afd8"
+    ],
+    "zh": "提高此数值，可减少等待对局同步的次数，但按键输入延迟会增加。"
+  },
+  {
+    "id": 946,
+    "en": "You do not have sufficient Xbox LIVE privileges to access this feature. ",
+    "addresses": [
+      "0x8205b0d8"
+    ],
+    "zh": "你的Xbox LIVE权限不足，无法使用此功能。"
+  },
+  {
+    "id": 947,
+    "en": "Please check the network connection and try again.",
+    "addresses": [
+      "0x8205b170"
+    ],
+    "zh": "请检查网络连接后重试。"
+  },
+  {
+    "id": 948,
+    "en": "You must be connected to a local network to access System Link features.",
+    "addresses": [
+      "0x8205b1d8"
+    ],
+    "zh": "必须连接至本地网络，才能使用系统连线功能。"
+  },
+  {
+    "id": 949,
+    "en": "Update leaderboards again?",
+    "addresses": [
+      "0x8205b26c"
+    ],
+    "zh": "是否再次更新排行榜？"
+  },
+  {
+    "id": 950,
+    "en": "Xbox LIVE to update the leaderboards.",
+    "addresses": [
+      "0x8205b2a8"
+    ],
+    "zh": "Xbox LIVE，才能更新排行榜。"
+  },
+  {
+    "id": 951,
+    "en": "You must be signed in to",
+    "addresses": [
+      "0x8205b2f4"
+    ],
+    "zh": "你必须登录"
+  },
+  {
+    "id": 952,
+    "en": "No friends ranked on the Leaderboard. ",
+    "addresses": [
+      "0x8205b328"
+    ],
+    "zh": "没有好友登上排行榜。"
+  },
+  {
+    "id": 953,
+    "en": "The selected session is no longer available. ",
+    "addresses": [
+      "0x8205b378"
+    ],
+    "zh": "所选房间已不可用。"
+  },
+  {
+    "id": 954,
+    "en": "Lost connection with Versus player.",
+    "addresses": [
+      "0x8205b3d8"
+    ],
+    "zh": "与对战玩家的连接已断开。"
+  },
+  {
+    "id": 955,
+    "en": "Lost connection with Co-op player. ",
+    "addresses": [
+      "0x8205b420"
+    ],
+    "zh": "与合作玩家的连接已断开。"
+  },
+  {
+    "id": 956,
+    "en": "Upload the current score. ",
+    "addresses": [
+      "0x8205b468"
+    ],
+    "zh": "上传当前分数。"
+  },
+  {
+    "id": 957,
+    "en": "Return to the Main Menu.",
+    "addresses": [
+      "0x8205b4a0"
+    ],
+    "zh": "返回主菜单。"
+  },
+  {
+    "id": 958,
+    "en": "End this play session and return to the Main Menu?",
+    "addresses": [
+      "0x8205b4d8"
+    ],
+    "zh": "结束本次游戏，返回主菜单？"
+  },
+  {
+    "id": 959,
+    "en": "[Gamertag] has left the session. ",
+    "addresses": [
+      "0x8205b540"
+    ],
+    "zh": "[Gamertag]离开了房间。"
+  },
+  {
+    "id": 960,
+    "en": "[Gamertag] has joined the session. ",
+    "addresses": [
+      "0x8205b588"
+    ],
+    "zh": "[Gamertag]加入了房间。"
+  },
+  {
+    "id": 961,
+    "en": "Return to Main Menu.",
+    "addresses": [
+      "0x8205b5d0"
+    ],
+    "zh": "返回主菜单。"
+  },
+  {
+    "id": 962,
+    "en": "Due to a connection error, the session cannot be continued.",
+    "addresses": [
+      "0x8205b600"
+    ],
+    "zh": "由于连接错误，无法继续本次游戏。"
+  },
+  {
+    "id": 963,
+    "en": "Press <BACK> to Skip",
+    "addresses": [
+      "0x8205b678"
+    ],
+    "zh": "按<BACK>跳过"
+  },
+  {
+    "id": 964,
+    "en": "PRESS <A> BUTTON",
+    "addresses": [
+      "0x8205b6a4"
+    ],
+    "zh": "请按<A>键"
+  },
+  {
+    "id": 965,
+    "en": "The connection to Xbox LIVE may have been interrupted. ",
+    "addresses": [
+      "0x8205b6c8"
+    ],
+    "zh": "与Xbox LIVE的连接可能已中断。"
+  },
+  {
+    "id": 966,
+    "en": "Rule Name Check could not be completed. ",
+    "addresses": [
+      "0x8205b738"
+    ],
+    "zh": "无法完成规则名称检查。"
+  },
+  {
+    "id": 967,
+    "en": "Switch NPC Controls",
+    "addresses": [
+      "0x8205b78c"
+    ],
+    "zh": "切换NPC操作"
+  },
+  {
+    "id": 968,
+    "en": "Preparing network connection. ",
+    "addresses": [
+      "0x8205b7b4"
+    ],
+    "zh": "正在准备网络连接。"
+  },
+  {
+    "id": 969,
+    "en": "Someone wants to join your session. ",
+    "addresses": [
+      "0x8205b7f8"
+    ],
+    "zh": "有玩家想加入你的房间。"
+  },
+  {
+    "id": 970,
+    "en": "Checking connection with other players.",
+    "addresses": [
+      "0x8205b848"
+    ],
+    "zh": "正在检查与其他玩家的连接。"
+  },
+  {
+    "id": 971,
+    "en": "Kick this player?",
+    "addresses": [
+      "0x8205b898"
+    ],
+    "zh": "移除此玩家？"
+  },
+  {
+    "id": 972,
+    "en": "Exit the lobby?",
+    "addresses": [
+      "0x8205b8bc"
+    ],
+    "zh": "退出大厅？"
+  },
+  {
+    "id": 973,
+    "en": "Closing session...",
+    "addresses": [
+      "0x8205b8dc"
+    ],
+    "zh": "正在关闭房间……"
+  },
+  {
+    "id": 974,
+    "en": "Join the session anyway?",
+    "addresses": [
+      "0x8205b904"
+    ],
+    "zh": "仍要加入房间？"
+  },
+  {
+    "id": 975,
+    "en": "so players may join from other countries.",
+    "addresses": [
+      "0x8205b938"
+    ],
+    "zh": "因此其他国家的玩家也可以加入。"
+  },
+  {
+    "id": 976,
+    "en": "The host is not using the country filter,",
+    "addresses": [
+      "0x8205b990"
+    ],
+    "zh": "房主未启用国家筛选，"
+  },
+  {
+    "id": 977,
+    "en": "Could not join the session because not everyone was able to connect.",
+    "addresses": [
+      "0x8205b9e8"
+    ],
+    "zh": "由于未能连接所有玩家，无法加入房间。"
+  },
+  {
+    "id": 978,
+    "en": "Please check your network settings to ensure your NAT type is not restricted.",
+    "addresses": [
+      "0x8205ba78"
+    ],
+    "zh": "请检查网络设置，确保NAT类型不受限制。"
+  },
+  {
+    "id": 979,
+    "en": "Some network environments may affect Xbox LIVE play.",
+    "addresses": [
+      "0x8205bb18"
+    ],
+    "zh": "某些网络环境可能影响Xbox LIVE游戏。"
+  },
+  {
+    "id": 980,
+    "en": "An unexpected error has occurred.",
+    "addresses": [
+      "0x8205bb88"
+    ],
+    "zh": "发生意外错误。"
+  },
+  {
+    "id": 981,
+    "en": "A new player has arrived!",
+    "addresses": [
+      "0x8205bbcc"
+    ],
+    "zh": "新玩家来了！"
+  },
+  {
+    "id": 982,
+    "en": "Session Options",
+    "addresses": [
+      "0x8205bc00"
+    ],
+    "zh": "房间选项"
+  },
+  {
+    "id": 983,
+    "en": "Syncing...",
+    "addresses": [
+      "0x8205bc20"
+    ],
+    "zh": "正在同步……"
+  },
+  {
+    "id": 984,
+    "en": "Damage",
+    "addresses": [
+      "0x8205bc38"
+    ],
+    "zh": "伤害"
+  },
+  {
+    "id": 985,
+    "en": "A total of 45 unlockable characters for Versus and Arcade Modes!",
+    "addresses": [
+      "0x8205bc4a"
+    ],
+    "zh": "共45名可解锁角色，可用于对战和街机模式！"
+  },
+  {
+    "id": 986,
+    "en": "Leaderboard support in Arcade Mode!",
+    "addresses": [
+      "0x8205bcd2"
+    ],
+    "zh": "街机模式支持排行榜！"
+  },
+  {
+    "id": 987,
+    "en": "Xbox LIVE matches in Versus Mode!",
+    "addresses": [
+      "0x8205bd22"
+    ],
+    "zh": "对战模式支持Xbox LIVE对战！"
+  },
+  {
+    "id": 988,
+    "en": "Xbox LIVE co-op for Story Mode!",
+    "addresses": [
+      "0x8205bd6a"
+    ],
+    "zh": "剧情模式支持Xbox LIVE合作！"
+  },
+  {
+    "id": 989,
+    "en": "All branches of Story Mode and multiple endings!",
+    "addresses": [
+      "0x8205bdb2"
+    ],
+    "zh": "完整剧情分支与多种结局！"
+  },
+  {
+    "id": 990,
+    "en": "Here's what you get with the full game.",
+    "addresses": [
+      "0x8205be18"
+    ],
+    "zh": "完整版游戏包含以下内容。"
+  },
+  {
+    "id": 991,
+    "en": "Voices",
+    "addresses": [
+      "0x8205be68"
+    ],
+    "zh": "语音"
+  },
+  {
+    "id": 992,
+    "en": "Colors",
+    "addresses": [
+      "0x8205be78"
+    ],
+    "zh": "配色"
+  },
+  {
+    "id": 993,
+    "en": "Element",
+    "addresses": [
+      "0x8205be88"
+    ],
+    "zh": "元素"
+  },
+  {
+    "id": 994,
+    "en": "Selecting",
+    "addresses": [
+      "0x8205be98"
+    ],
+    "zh": "选择中"
+  },
+  {
+    "id": 995,
+    "en": "Join",
+    "addresses": [
+      "0x8205beac"
+    ],
+    "zh": "加入"
+  },
+  {
+    "id": 996,
+    "en": "Start the Game",
+    "addresses": [
+      "0x8205beb8"
+    ],
+    "zh": "开始游戏"
+  },
+  {
+    "id": 997,
+    "en": "Xbox LIVE Party.",
+    "addresses": [
+      "0x8205bed8"
+    ],
+    "zh": "Xbox LIVE派对。"
+  },
+  {
+    "id": 998,
+    "en": "To proceed, you must first join an",
+    "addresses": [
+      "0x8205bf00"
+    ],
+    "zh": "要继续，必须先加入一个"
+  },
+  {
+    "id": 999,
+    "en": "sign in to a profile that is allowed",
+    "addresses": [
+      "0x8205bf48"
+    ],
+    "zh": "登录具有相应权限的玩家档案。"
+  },
+  {
+    "id": 1000,
+    "en": "To play on Xbox LIVE, you must",
+    "addresses": [
+      "0x8205bf94"
+    ],
+    "zh": "要在Xbox LIVE游玩，你必须"
+  },
+  {
+    "id": 1001,
+    "en": "you are not connected to Xbox LIVE.",
+    "addresses": [
+      "0x8205bfd8"
+    ],
+    "zh": "未连接至Xbox LIVE。"
+  },
+  {
+    "id": 1002,
+    "en": "Unable to complete the upload because",
+    "addresses": [
+      "0x8205c020"
+    ],
+    "zh": "无法完成上传，因为"
+  },
+  {
+    "id": 1003,
+    "en": "matched up with. Are you sure?",
+    "addresses": [
+      "0x8205c06c"
+    ],
+    "zh": "覆盖。确定吗？"
+  },
+  {
+    "id": 1004,
+    "en": "overwritten by that of the player you are",
+    "addresses": [
+      "0x8205c0b0"
+    ],
+    "zh": "与你匹配的玩家进度"
+  },
+  {
+    "id": 1005,
+    "en": "Your existing game in progress will be",
+    "addresses": [
+      "0x8205c108"
+    ],
+    "zh": "你目前的游戏进度将被"
+  },
+  {
+    "id": 1006,
+    "en": "game in progress. Are you sure?",
+    "addresses": [
+      "0x8205c158"
+    ],
+    "zh": "游戏进度。确定吗？"
+  },
+  {
+    "id": 1007,
+    "en": "This will cause you to lose your existing",
+    "addresses": [
+      "0x8205c198"
+    ],
+    "zh": "这会导致你失去当前的"
+  },
+  {
+    "id": 1008,
+    "en": "Your current score will be posted to the leaderboards.",
+    "addresses": [
+      "0x8205c1f0"
+    ],
+    "zh": "当前分数将发布至排行榜。"
+  },
+  {
+    "id": 1009,
+    "en": "End the play session and return to the title screen.",
+    "addresses": [
+      "0x8205c260"
+    ],
+    "zh": "结束本次游戏，返回标题画面。"
+  },
+  {
+    "id": 1010,
+    "en": "Unable to join the session because no slots were available.",
+    "addresses": [
+      "0x8205c2d0"
+    ],
+    "zh": "没有空余席位，无法加入房间。"
+  },
+  {
+    "id": 1011,
+    "en": "The host left while setting up the game. You will be returned to the lobby.",
+    "addresses": [
+      "0x8205c348"
+    ],
+    "zh": "房主在设置游戏时离开了。即将返回大厅。"
+  },
+  {
+    "id": 1012,
+    "en": "Time out in: ",
+    "addresses": [
+      "0x8205c3e0"
+    ],
+    "zh": "超时倒计时："
+  },
+  {
+    "id": 1013,
+    "en": "Connecting to the lobby...",
+    "addresses": [
+      "0x8205c3fc"
+    ],
+    "zh": "正在连接大厅……"
+  },
+  {
+    "id": 1014,
+    "en": "Setting up the game...",
+    "addresses": [
+      "0x8205c434"
+    ],
+    "zh": "正在设置游戏……"
+  },
+  {
+    "id": 1015,
+    "en": "Rules in Use",
+    "addresses": [
+      "0x8205c464"
+    ],
+    "zh": "当前规则"
+  },
+  {
+    "id": 1016,
+    "en": "View Rules",
+    "addresses": [
+      "0x8205c480"
+    ],
+    "zh": "查看规则"
+  },
+  {
+    "id": 1017,
+    "en": "LV",
+    "addresses": [
+      "0x8205c49c"
+    ],
+    "zh": "级"
+  },
+  {
+    "id": 1018,
+    "en": "Xbox LIVE Party?",
+    "addresses": [
+      "0x8205c4a4"
+    ],
+    "zh": "Xbox LIVE派对？"
+  },
+  {
+    "id": 1019,
+    "en": "Send a game invite to your",
+    "addresses": [
+      "0x8205c4c8"
+    ],
+    "zh": "是否发送游戏邀请至你的"
+  },
+  {
+    "id": 1020,
+    "en": "Invite Xbox LIVE Party",
+    "addresses": [
+      "0x8205c500"
+    ],
+    "zh": "邀请Xbox LIVE派对"
+  },
+  {
+    "id": 1021,
+    "en": "Uploading...",
+    "addresses": [
+      "0x8205c530"
+    ],
+    "zh": "正在上传……"
+  },
+  {
+    "id": 1022,
+    "en": "Retrieve Rankings",
+    "addresses": [
+      "0x8205c54c"
+    ],
+    "zh": "获取排名"
+  },
+  {
+    "id": 1023,
+    "en": "Downloading...",
+    "addresses": [
+      "0x8205c570"
+    ],
+    "zh": "正在下载……"
+  },
+  {
+    "id": 1024,
+    "en": "Begin an offline game?",
+    "addresses": [
+      "0x8205c590"
+    ],
+    "zh": "开始离线游戏？"
+  },
+  {
+    "id": 1025,
+    "en": "Connection failed.",
+    "addresses": [
+      "0x8205c5c0"
+    ],
+    "zh": "连接失败。"
+  },
+  {
+    "id": 1026,
+    "en": "You have been kicked from the session.",
+    "addresses": [
+      "0x8205c5e8"
+    ],
+    "zh": "你已被移出房间。"
+  },
+  {
+    "id": 1027,
+    "en": "You left the lobby.",
+    "addresses": [
+      "0x8205c638"
+    ],
+    "zh": "你已离开大厅。"
+  },
+  {
+    "id": 1028,
+    "en": "Sending request to join the session...",
+    "addresses": [
+      "0x8205c660"
+    ],
+    "zh": "正在发送加入房间的请求……"
+  },
+  {
+    "id": 1029,
+    "en": "Unable to join the session.",
+    "addresses": [
+      "0x8205c6b0"
+    ],
+    "zh": "无法加入房间。"
+  },
+  {
+    "id": 1030,
+    "en": "Accept the request?",
+    "addresses": [
+      "0x8205c6e8"
+    ],
+    "zh": "接受请求？"
+  },
+  {
+    "id": 1031,
+    "en": "Someone wants to join your session.",
+    "addresses": [
+      "0x8205c710"
+    ],
+    "zh": "有玩家想加入你的房间。"
+  },
+  {
+    "id": 1032,
+    "en": "Creating a session",
+    "addresses": [
+      "0x8205c758"
+    ],
+    "zh": "正在创建房间"
+  },
+  {
+    "id": 1033,
+    "en": "Waiting for opponents",
+    "addresses": [
+      "0x8205c780"
+    ],
+    "zh": "正在等待对手"
+  },
+  {
+    "id": 1034,
+    "en": "Canceling",
+    "addresses": [
+      "0x8205c7ac"
+    ],
+    "zh": "正在取消"
+  },
+  {
+    "id": 1035,
+    "en": "Playing",
+    "addresses": [
+      "0x8205c7c0"
+    ],
+    "zh": "游戏中"
+  },
+  {
+    "id": 1036,
+    "en": "Ready",
+    "addresses": [
+      "0x8205c7d0"
+    ],
+    "zh": "就绪"
+  },
+  {
+    "id": 1037,
+    "en": "Delay Level",
+    "addresses": [
+      "0x8205c7dc"
+    ],
+    "zh": "延迟等级"
+  },
+  {
+    "id": 1038,
+    "en": "Kick",
+    "addresses": [
+      "0x8205c7f4"
+    ],
+    "zh": "移除"
+  },
+  {
+    "id": 1039,
+    "en": "Gamer Card",
+    "addresses": [
+      "0x8205c800"
+    ],
+    "zh": "玩家名片"
+  },
+  {
+    "id": 1040,
+    "en": "Invite Friends",
+    "addresses": [
+      "0x8205c818"
+    ],
+    "zh": "邀请好友"
+  },
+  {
+    "id": 1041,
+    "en": "Refresh List",
+    "addresses": [
+      "0x8205c838"
+    ],
+    "zh": "刷新列表"
+  },
+  {
+    "id": 1042,
+    "en": "Back",
+    "addresses": [
+      "0x8205c854"
+    ],
+    "zh": "返回"
+  },
+  {
+    "id": 1043,
+    "en": "Search Again",
+    "addresses": [
+      "0x8205c860"
+    ],
+    "zh": "重新搜索"
+  },
+  {
+    "id": 1044,
+    "en": "Signal Strength",
+    "addresses": [
+      "0x8205c87c"
+    ],
+    "zh": "信号强度"
+  },
+  {
+    "id": 1045,
+    "en": "Receiving data...",
+    "addresses": [
+      "0x8205c89c"
+    ],
+    "zh": "正在接收数据……"
+  },
+  {
+    "id": 1046,
+    "en": "Sending data...",
+    "addresses": [
+      "0x8205c8c0"
+    ],
+    "zh": "正在发送数据……"
+  },
+  {
+    "id": 1047,
+    "en": "Rating",
+    "addresses": [
+      "0x8205c8e0"
+    ],
+    "zh": "评价"
+  },
+  {
+    "id": 1048,
+    "en": "Waiting for players...",
+    "addresses": [
+      "0x8205c8f0"
+    ],
+    "zh": "正在等待玩家……"
+  },
+  {
+    "id": 1049,
+    "en": "Searching for players...",
+    "addresses": [
+      "0x8205c920"
+    ],
+    "zh": "正在搜索玩家……"
+  },
+  {
+    "id": 1050,
+    "en": "No players found.",
+    "addresses": [
+      "0x8205c954"
+    ],
+    "zh": "未找到玩家。"
+  },
+  {
+    "id": 1051,
+    "en": "No sessions found.",
+    "addresses": [
+      "0x8205c978"
+    ],
+    "zh": "未找到房间。"
+  },
+  {
+    "id": 1052,
+    "en": "No entries.",
+    "addresses": [
+      "0x8205c9a0"
+    ],
+    "zh": "没有条目。"
+  },
+  {
+    "id": 1053,
+    "en": "You cannot perform this action when using System Link.",
+    "addresses": [
+      "0x8205c9b8"
+    ],
+    "zh": "使用系统连线时，无法执行此操作。"
+  },
+  {
+    "id": 1054,
+    "en": "Download failed.",
+    "addresses": [
+      "0x8205ca28"
+    ],
+    "zh": "下载失败。"
+  },
+  {
+    "id": 1055,
+    "en": "Upload failed.",
+    "addresses": [
+      "0x8205ca4c"
+    ],
+    "zh": "上传失败。"
+  },
+  {
+    "id": 1056,
+    "en": "Load failed.",
+    "addresses": [
+      "0x8205ca6c"
+    ],
+    "zh": "读取失败。"
+  },
+  {
+    "id": 1057,
+    "en": "Save failed.",
+    "addresses": [
+      "0x8205ca88"
+    ],
+    "zh": "保存失败。"
+  },
+  {
+    "id": 1058,
+    "en": "Please connect a controller.",
+    "addresses": [
+      "0x8205caa4"
+    ],
+    "zh": "请连接手柄。"
+  },
+  {
+    "id": 1059,
+    "en": "The controller has been disconnected.",
+    "addresses": [
+      "0x8205cae0"
+    ],
+    "zh": "手柄已断开连接。"
+  },
+  {
+    "id": 1060,
+    "en": "You cannot choose this in the trial game.",
+    "addresses": [
+      "0x8205cb30"
+    ],
+    "zh": "试玩版中无法选择此项。"
+  },
+  {
+    "id": 1061,
+    "en": "You will be returned to the lobby.",
+    "addresses": [
+      "0x8205cb88"
+    ],
+    "zh": "即将返回大厅。"
+  },
+  {
+    "id": 1062,
+    "en": "Communication failure.",
+    "addresses": [
+      "0x8205cbd0"
+    ],
+    "zh": "通信失败。"
+  },
+  {
+    "id": 1063,
+    "en": "Operation canceled.",
+    "addresses": [
+      "0x8205cc00"
+    ],
+    "zh": "操作已取消。"
+  },
+  {
+    "id": 1064,
+    "en": "To use these rules, please change the name.",
+    "addresses": [
+      "0x8205cc28"
+    ],
+    "zh": "请更改名称后使用这些规则。"
+  },
+  {
+    "id": 1065,
+    "en": "words that are not allowed on Xbox LIVE.",
+    "addresses": [
+      "0x8205cc80"
+    ],
+    "zh": "Xbox LIVE禁止使用的词语。"
+  },
+  {
+    "id": 1066,
+    "en": "The name you chose for your rules contains",
+    "addresses": [
+      "0x8205ccd8"
+    ],
+    "zh": "所选规则名称中含有"
+  },
+  {
+    "id": 1067,
+    "en": "The game will be reset.",
+    "addresses": [
+      "0x8205cd30"
+    ],
+    "zh": "游戏将重置。"
+  },
+  {
+    "id": 1068,
+    "en": "You will be returned to the title screen.",
+    "addresses": [
+      "0x8205cd60"
+    ],
+    "zh": "即将返回标题画面。"
+  },
+  {
+    "id": 1069,
+    "en": "Your sign-in status has changed.",
+    "addresses": [
+      "0x8205cdb8"
+    ],
+    "zh": "你的登录状态已更改。"
+  },
+  {
+    "id": 1070,
+    "en": "You have been disconnected from Xbox LIVE. ",
+    "addresses": [
+      "0x8205ce00"
+    ],
+    "zh": "你已断开与Xbox LIVE的连接。"
+  },
+  {
+    "id": 1071,
+    "en": "To continue, please reconnect to Xbox LIVE.",
+    "addresses": [
+      "0x8205ce58"
+    ],
+    "zh": "请重新连接Xbox LIVE以继续。"
+  },
+  {
+    "id": 1072,
+    "en": "You must be signed in to Xbox LIVE to access this feature.",
+    "addresses": [
+      "0x8205ceb0"
+    ],
+    "zh": "必须登录Xbox LIVE才能使用此功能。"
+  },
+  {
+    "id": 1073,
+    "en": "Unable to continue due to insufficient privileges in another player's profile.",
+    "addresses": [
+      "0x8205cf28"
+    ],
+    "zh": "另一位玩家的档案权限不足，无法继续。"
+  },
+  {
+    "id": 1074,
+    "en": "Unable to continue due to insufficient privileges in your current profile.",
+    "addresses": [
+      "0x8205cfc8"
+    ],
+    "zh": "当前档案权限不足，无法继续。"
+  },
+  {
+    "id": 1075,
+    "en": "privileges to perform this action.",
+    "addresses": [
+      "0x8205d060"
+    ],
+    "zh": "无法执行此操作。"
+  },
+  {
+    "id": 1076,
+    "en": "Your current profile has insufficient",
+    "addresses": [
+      "0x8205d0a8"
+    ],
+    "zh": "当前档案权限不足，"
+  },
+  {
+    "id": 1077,
+    "en": "You have been disconnected from Xbox LIVE. Returning to main menu. ",
+    "addresses": [
+      "0x8205d0f8"
+    ],
+    "zh": "你已断开与Xbox LIVE的连接。即将返回主菜单。"
+  },
+  {
+    "id": 1078,
+    "en": "Connecting...",
+    "addresses": [
+      "0x8205d180"
+    ],
+    "zh": "正在连接……"
+  },
+  {
+    "id": 1079,
+    "en": "Searching...",
+    "addresses": [
+      "0x8205d19c"
+    ],
+    "zh": "正在搜索……"
+  },
+  {
+    "id": 1080,
+    "en": "Darkproof",
+    "addresses": [
+      "0x8205d1b8"
+    ],
+    "zh": "暗免疫"
+  },
+  {
+    "id": 1081,
+    "en": "Darkguard",
+    "addresses": [
+      "0x8205d1cc"
+    ],
+    "zh": "抗暗"
+  },
+  {
+    "id": 1082,
+    "en": "Darkfrail",
+    "addresses": [
+      "0x8205d1e0"
+    ],
+    "zh": "弱暗"
+  },
+  {
+    "id": 1083,
+    "en": "Lightproof",
+    "addresses": [
+      "0x8205d1f4"
+    ],
+    "zh": "光免疫"
+  },
+  {
+    "id": 1084,
+    "en": "Lightguard",
+    "addresses": [
+      "0x8205d20c"
+    ],
+    "zh": "抗光"
+  },
+  {
+    "id": 1085,
+    "en": "Lightfrail",
+    "addresses": [
+      "0x8205d224"
+    ],
+    "zh": "弱光"
+  },
+  {
+    "id": 1086,
+    "en": "Iceproof",
+    "addresses": [
+      "0x8205d23c"
+    ],
+    "zh": "冰免疫"
+  },
+  {
+    "id": 1087,
+    "en": "Iceguard",
+    "addresses": [
+      "0x8205d250"
+    ],
+    "zh": "抗冰"
+  },
+  {
+    "id": 1088,
+    "en": "Icefrail",
+    "addresses": [
+      "0x8205d264"
+    ],
+    "zh": "弱冰"
+  },
+  {
+    "id": 1089,
+    "en": "Thndrproof",
+    "addresses": [
+      "0x8205d278"
+    ],
+    "zh": "雷免疫"
+  },
+  {
+    "id": 1090,
+    "en": "Thndrguard",
+    "addresses": [
+      "0x8205d290"
+    ],
+    "zh": "抗雷"
+  },
+  {
+    "id": 1091,
+    "en": "Thndrfrail",
+    "addresses": [
+      "0x8205d2a8"
+    ],
+    "zh": "弱雷"
+  },
+  {
+    "id": 1092,
+    "en": "Fireproof",
+    "addresses": [
+      "0x8205d2c0"
+    ],
+    "zh": "火免疫"
+  },
+  {
+    "id": 1093,
+    "en": "Fireguard",
+    "addresses": [
+      "0x8205d2d4"
+    ],
+    "zh": "抗火"
+  },
+  {
+    "id": 1094,
+    "en": "Firefrail",
+    "addresses": [
+      "0x8205d2e8"
+    ],
+    "zh": "弱火"
+  },
+  {
+    "id": 1095,
+    "en": "Forceproof",
+    "addresses": [
+      "0x8205d2fc"
+    ],
+    "zh": "物理免疫"
+  },
+  {
+    "id": 1096,
+    "en": "Forceguard",
+    "addresses": [
+      "0x8205d314"
+    ],
+    "zh": "抗物理"
+  },
+  {
+    "id": 1097,
+    "en": "Forcefrail",
+    "addresses": [
+      "0x8205d32c"
+    ],
+    "zh": "弱物理"
+  },
+  {
+    "id": 1098,
+    "en": "Are you sure?",
+    "addresses": [
+      "0x8205d344"
+    ],
+    "zh": "确定吗？"
+  },
+  {
+    "id": 1099,
+    "en": "Branch",
+    "addresses": [
+      "0x8205d360"
+    ],
+    "zh": "分支"
+  },
+  {
+    "id": 1100,
+    "en": "Team L",
+    "addresses": [
+      "0x8205d370"
+    ],
+    "zh": "L队"
+  },
+  {
+    "id": 1101,
+    "en": "Team K",
+    "addresses": [
+      "0x8205d380"
+    ],
+    "zh": "K队"
+  },
+  {
+    "id": 1102,
+    "en": "Team J",
+    "addresses": [
+      "0x8205d390"
+    ],
+    "zh": "J队"
+  },
+  {
+    "id": 1103,
+    "en": "Team I",
+    "addresses": [
+      "0x8205d3a0"
+    ],
+    "zh": "I队"
+  },
+  {
+    "id": 1104,
+    "en": "Team H",
+    "addresses": [
+      "0x8205d3b0"
+    ],
+    "zh": "H队"
+  },
+  {
+    "id": 1105,
+    "en": "Team G",
+    "addresses": [
+      "0x8205d3c0"
+    ],
+    "zh": "G队"
+  },
+  {
+    "id": 1106,
+    "en": "Team F",
+    "addresses": [
+      "0x8205d3d0"
+    ],
+    "zh": "F队"
+  },
+  {
+    "id": 1107,
+    "en": "Team E",
+    "addresses": [
+      "0x8205d3e0"
+    ],
+    "zh": "E队"
+  },
+  {
+    "id": 1108,
+    "en": "Team D",
+    "addresses": [
+      "0x8205d3f0"
+    ],
+    "zh": "D队"
+  },
+  {
+    "id": 1109,
+    "en": "Team C",
+    "addresses": [
+      "0x8205d400"
+    ],
+    "zh": "C队"
+  },
+  {
+    "id": 1110,
+    "en": "Team B",
+    "addresses": [
+      "0x8205d410"
+    ],
+    "zh": "B队"
+  },
+  {
+    "id": 1111,
+    "en": "Team A",
+    "addresses": [
+      "0x8205d420"
+    ],
+    "zh": "A队"
+  },
+  {
+    "id": 1112,
+    "en": "Player 12",
+    "addresses": [
+      "0x8205d430"
+    ],
+    "zh": "玩家12"
+  },
+  {
+    "id": 1113,
+    "en": "Player 11",
+    "addresses": [
+      "0x8205d444"
+    ],
+    "zh": "玩家11"
+  },
+  {
+    "id": 1114,
+    "en": "Player 10",
+    "addresses": [
+      "0x8205d458"
+    ],
+    "zh": "玩家10"
+  },
+  {
+    "id": 1115,
+    "en": "Player 9",
+    "addresses": [
+      "0x8205d46c"
+    ],
+    "zh": "玩家9"
+  },
+  {
+    "id": 1116,
+    "en": "Player 8",
+    "addresses": [
+      "0x8205d480"
+    ],
+    "zh": "玩家8"
+  },
+  {
+    "id": 1117,
+    "en": "Player 7",
+    "addresses": [
+      "0x8205d494"
+    ],
+    "zh": "玩家7"
+  },
+  {
+    "id": 1118,
+    "en": "Player 6",
+    "addresses": [
+      "0x8205d4a8"
+    ],
+    "zh": "玩家6"
+  },
+  {
+    "id": 1119,
+    "en": "Player 5",
+    "addresses": [
+      "0x8205d4bc"
+    ],
+    "zh": "玩家5"
+  },
+  {
+    "id": 1120,
+    "en": "Player 4",
+    "addresses": [
+      "0x8205d4d0"
+    ],
+    "zh": "玩家4"
+  },
+  {
+    "id": 1121,
+    "en": "Player 3",
+    "addresses": [
+      "0x8205d4e4"
+    ],
+    "zh": "玩家3"
+  },
+  {
+    "id": 1122,
+    "en": "Player 2",
+    "addresses": [
+      "0x8205d4f8"
+    ],
+    "zh": "玩家2"
+  },
+  {
+    "id": 1123,
+    "en": "Player 1",
+    "addresses": [
+      "0x8205d50c"
+    ],
+    "zh": "玩家1"
+  },
+  {
+    "id": 1124,
+    "en": "Controller 4",
+    "addresses": [
+      "0x8205d520"
+    ],
+    "zh": "手柄4"
+  },
+  {
+    "id": 1125,
+    "en": "Controller 3",
+    "addresses": [
+      "0x8205d53c"
+    ],
+    "zh": "手柄3"
+  },
+  {
+    "id": 1126,
+    "en": "Controller 2",
+    "addresses": [
+      "0x8205d558"
+    ],
+    "zh": "手柄2"
+  },
+  {
+    "id": 1127,
+    "en": "Controller 1",
+    "addresses": [
+      "0x8205d574"
+    ],
+    "zh": "手柄1"
+  },
+  {
+    "id": 1128,
+    "en": "Points",
+    "addresses": [
+      "0x8205d590"
+    ],
+    "zh": "点数"
+  },
+  {
+    "id": 1129,
+    "en": "MP",
+    "addresses": [
+      "0x8205d5a0"
+    ],
+    "zh": "MP"
+  },
+  {
+    "id": 1130,
+    "en": "HP",
+    "addresses": [
+      "0x8205d5a8"
+    ],
+    "zh": "HP"
+  },
+  {
+    "id": 1131,
+    "en": "Next",
+    "addresses": [
+      "0x8205d5b0"
+    ],
+    "zh": "下一级"
+  },
+  {
+    "id": 1132,
+    "en": "EXP",
+    "addresses": [
+      "0x8205d5bc"
+    ],
+    "zh": "经验"
+  },
+  {
+    "id": 1133,
+    "en": "Please choose a permitted character.",
+    "addresses": [
+      "0x8205d5c8"
+    ],
+    "zh": "请选择允许使用的角色。"
+  },
+  {
+    "id": 1134,
+    "en": "Please unlock at least one character.",
+    "addresses": [
+      "0x8205d618"
+    ],
+    "zh": "请至少启用一名角色。"
+  },
+  {
+    "id": 1135,
+    "en": "Please ensure you have at least 2 teams.",
+    "addresses": [
+      "0x8205d668"
+    ],
+    "zh": "请确保至少有2支队伍。"
+  },
+  {
+    "id": 1136,
+    "en": "Please ensure you have at least 2 players.",
+    "addresses": [
+      "0x8205d6c0"
+    ],
+    "zh": "请确保至少有2名玩家。"
+  },
+  {
+    "id": 1137,
+    "en": "playing with user-created content.",
+    "addresses": [
+      "0x8205d718"
+    ],
+    "zh": "玩家自创内容。"
+  },
+  {
+    "id": 1138,
+    "en": "Your current profile is restricted from",
+    "addresses": [
+      "0x8205d760"
+    ],
+    "zh": "当前档案无法使用"
+  },
+  {
+    "id": 1139,
+    "en": "to join multiplayer game sessions.",
+    "addresses": [
+      "0x8205d7b0"
+    ],
+    "zh": "Xbox LIVE。"
+  },
+  {
+    "id": 1140,
+    "en": "Xbox LIVE with a profile that is allowed",
+    "addresses": [
+      "0x8205d7f8"
+    ],
+    "zh": "允许参与多人游戏的档案登录"
+  },
+  {
+    "id": 1141,
+    "en": "To continue, you must sign in to",
+    "addresses": [
+      "0x8205d850"
+    ],
+    "zh": "要继续，你必须使用"
+  },
+  {
+    "id": 1142,
+    "en": "Sign in?",
+    "addresses": [
+      "0x8205d894"
+    ],
+    "zh": "是否登录？"
+  },
+  {
+    "id": 1143,
+    "en": "A gamer profile is required to play.",
+    "addresses": [
+      "0x8205d8a8"
+    ],
+    "zh": "游玩需要玩家档案。"
+  },
+  {
+    "id": 1144,
+    "en": "- ERROR -",
+    "addresses": [
+      "0x8205d8f4"
+    ],
+    "zh": "－错误－"
+  },
+  {
+    "id": 1145,
+    "en": "End this play session and select a new character?",
+    "addresses": [
+      "0x8205d908"
+    ],
+    "zh": "结束本次游戏，重新选择角色？"
+  },
+  {
+    "id": 1146,
+    "en": "Your current progress will be lost.",
+    "addresses": [
+      "0x8205d970"
+    ],
+    "zh": "当前进度将丢失。"
+  },
+  {
+    "id": 1147,
+    "en": "End this play session and return to the title screen?",
+    "addresses": [
+      "0x8205d9b8"
+    ],
+    "zh": "结束本次游戏，返回标题画面？"
+  },
+  {
+    "id": 1148,
+    "en": "Any unsaved data will be lost.",
+    "addresses": [
+      "0x8205da24"
+    ],
+    "zh": "未保存的数据将丢失。"
+  },
+  {
+    "id": 1149,
+    "en": "End the game and return to the Game Library?",
+    "addresses": [
+      "0x8205da68"
+    ],
+    "zh": "结束游戏，返回游戏库？"
+  },
+  {
+    "id": 1150,
+    "en": "The number of bars indicates the highest speed connection possible for sending data.",
+    "addresses": [
+      "0x8206b690"
+    ],
+    "zh": "格数表示发送数据时所能达到的最高连接速度。"
+  },
+  {
+    "id": 1151,
+    "en": "\"Upload Speed\" Icon",
+    "addresses": [
+      "0x8206b73c"
+    ],
+    "zh": "“上传速度”图标"
+  },
+  {
+    "id": 1152,
+    "en": "Even if more players join, performance will not decrease.",
+    "addresses": [
+      "0x8206b768"
+    ],
+    "zh": "即使有更多玩家加入，性能也不会降低。"
+  },
+  {
+    "id": 1153,
+    "en": "The number of bars indicates the fastest connection possible for receiving data.",
+    "addresses": [
+      "0x8206b7e0"
+    ],
+    "zh": "格数表示接收数据时所能达到的最高连接速度。"
+  },
+  {
+    "id": 1154,
+    "en": "\"Download Speed\" Icon",
+    "addresses": [
+      "0x8206b884"
+    ],
+    "zh": "“下载速度”图标"
+  },
+  {
+    "id": 1155,
+    "en": "The number of bars indicates how much delay will be reduced after button input. ",
+    "addresses": [
+      "0x8206b8b0"
+    ],
+    "zh": "格数表示按键输入延迟的减少程度。"
+  },
+  {
+    "id": 1156,
+    "en": "Response Icon",
+    "addresses": [
+      "0x8206b954"
+    ],
+    "zh": "响应图标"
+  },
+  {
+    "id": 1157,
+    "en": "When syncing and connection errors occur, increase this value to stabilize your connection.",
+    "addresses": [
+      "0x8206b970"
+    ],
+    "zh": "出现同步或连接错误时，提高此数值可稳定连接。"
+  },
+  {
+    "id": 1158,
+    "en": "Delay after button input increases in exchange for a more stable connection. ",
+    "addresses": [
+      "0x8206ba28"
+    ],
+    "zh": "以增加按键输入延迟为代价，换取更稳定的连接。"
+  },
+  {
+    "id": 1159,
+    "en": "but the possibility of connection errors increases if all players have a slow connection.",
+    "addresses": [
+      "0x8206bac8"
+    ],
+    "zh": "但若所有玩家的连接速度都较慢，连接错误的可能性会增加。"
+  },
+  {
+    "id": 1160,
+    "en": "this is most effective with a mixture of players with high and low speed connections,",
+    "addresses": [
+      "0x8206bb80"
+    ],
+    "zh": "玩家连接速度有快有慢时，效果最好，"
+  },
+  {
+    "id": 1161,
+    "en": "The player with the highest connection speed will become the host,",
+    "addresses": [
+      "0x8206bc30"
+    ],
+    "zh": "连接速度最快的玩家将成为房主，"
+  },
+  {
+    "id": 1162,
+    "en": "Effective when connected player(s) have a slower or unstable connection. ",
+    "addresses": [
+      "0x8206bcb8"
+    ],
+    "zh": "适用于玩家连接速度较慢或不稳定的情况。"
+  },
+  {
+    "id": 1163,
+    "en": "and connection errors may occur less often. ",
+    "addresses": [
+      "0x8206bd50"
+    ],
+    "zh": "连接错误也可能减少。"
+  },
+  {
+    "id": 1164,
+    "en": "but depending on your network connection, frequency of syncing can decrease,",
+    "addresses": [
+      "0x8206bdb0"
+    ],
+    "zh": "但视网络连接情况，同步频率可能降低，"
+  },
+  {
+    "id": 1165,
+    "en": "Lag after button input increases,",
+    "addresses": [
+      "0x8206be50"
+    ],
+    "zh": "按键输入延迟会增加，"
+  },
+  {
+    "id": 1166,
+    "en": "Prioritize Stability",
+    "addresses": [
+      "0x8206be94"
+    ],
+    "zh": "稳定优先"
+  },
+  {
+    "id": 1167,
+    "en": "Effective when all players have a stable, high-speed connection. ",
+    "addresses": [
+      "0x8206bec0"
+    ],
+    "zh": "适用于所有玩家都拥有稳定高速连接的情况。"
+  },
+  {
+    "id": 1168,
+    "en": "connection errors may occur more often. ",
+    "addresses": [
+      "0x8206bf48"
+    ],
+    "zh": "连接错误也可能增多。"
+  },
+  {
+    "id": 1169,
+    "en": "but depending on your network connection, frequency of syncing can increase and",
+    "addresses": [
+      "0x8206bfa0"
+    ],
+    "zh": "但视网络连接情况，同步频率可能提高，"
+  },
+  {
+    "id": 1170,
+    "en": "Lag after button input is reduced,",
+    "addresses": [
+      "0x8206c040"
+    ],
+    "zh": "按键输入延迟会降低，"
+  },
+  {
+    "id": 1171,
+    "en": "Prioritize Speed",
+    "addresses": [
+      "0x8206c088"
+    ],
+    "zh": "速度优先"
+  },
+  {
+    "id": 1172,
+    "en": "The Host can change \"Session Settings\" from Versus Lobby.",
+    "addresses": [
+      "0x8206c0b0"
+    ],
+    "zh": "房主可在对战大厅中更改“房间设置”。"
+  },
+  {
+    "id": 1173,
+    "en": "Shift  to the row furthest away when in the closest row. ",
+    "addresses": [
+      "0x8206c128"
+    ],
+    "zh": "位于最近的战斗线时，换至最远的战斗线。"
+  },
+  {
+    "id": 1174,
+    "en": "Shift to the closest row when in the row farthest away. ",
+    "addresses": [
+      "0x8206c1a0"
+    ],
+    "zh": "位于最远的战斗线时，换至最近的战斗线。"
+  },
+  {
+    "id": 1175,
+    "en": "You can exit an Xbox LIVE play session by holding down START.",
+    "addresses": [
+      "0x8206c218"
+    ],
+    "zh": "长按START可退出Xbox LIVE游戏。"
+  },
+  {
+    "id": 1176,
+    "en": "where you can see how you stack up against players across the globe.",
+    "addresses": [
+      "0x8206c298"
+    ],
+    "zh": "与全球玩家一较高下。"
+  },
+  {
+    "id": 1177,
+    "en": "Your score (and time) will be logged to the leaderboards, ",
+    "addresses": [
+      "0x8206c328"
+    ],
+    "zh": "分数及时间会记录至排行榜，"
+  },
+  {
+    "id": 1178,
+    "en": "at random, and you keep playing until your character is defeated. ",
+    "addresses": [
+      "0x8206c3a0"
+    ],
+    "zh": "随机提升属性，持续挑战，直至角色被击败。"
+  },
+  {
+    "id": 1179,
+    "en": "of opponents. Leveling up in Arcade Mode will improve your stats ",
+    "addresses": [
+      "0x8206c428"
+    ],
+    "zh": "对手。在街机模式中升级时，会"
+  },
+  {
+    "id": 1180,
+    "en": "This mode lets you test your endurance against wave after wave",
+    "addresses": [
+      "0x8206c4b0"
+    ],
+    "zh": "在此模式中，你将接连迎战一波又一波"
+  },
+  {
+    "id": 1181,
+    "en": "the pause menu to adjust settings for your character and the CPU.",
+    "addresses": [
+      "0x8206c530"
+    ],
+    "zh": "暂停菜单，调整自己角色及电脑的设置。"
+  },
+  {
+    "id": 1182,
+    "en": "Set up general rules on the character selection screen, then open ",
+    "addresses": [
+      "0x8206c5b8"
+    ],
+    "zh": "先在角色选择画面设置基本规则，再打开"
+  },
+  {
+    "id": 1183,
+    "en": "Use this mode to create the perfect training ground. ",
+    "addresses": [
+      "0x8206c640"
+    ],
+    "zh": "使用此模式，打造理想的训练环境。"
+  },
+  {
+    "id": 1184,
+    "en": "   (Characters cannot be permanently defeated.)",
+    "addresses": [
+      "0x8206c6b0"
+    ],
+    "zh": "（角色不会永久出局。）"
+  },
+  {
+    "id": 1185,
+    "en": "- Point Matches, where you vie for the most points before time runs out.",
+    "addresses": [
+      "0x8206c710"
+    ],
+    "zh": "－积分战：在时限内争取最高积分。"
+  },
+  {
+    "id": 1186,
+    "en": "- Deathmatches, where you fight to be the last hero standing, and",
+    "addresses": [
+      "0x8206c7a8"
+    ],
+    "zh": "－生存战：奋战至只剩最后一位英雄；以及"
+  },
+  {
+    "id": 1187,
+    "en": "You can choose from two match types:",
+    "addresses": [
+      "0x8206c830"
+    ],
+    "zh": "有两种对战类型可选："
+  },
+  {
+    "id": 1188,
+    "en": "Story Mode. You can use the Rule Editor to create custom rules.",
+    "addresses": [
+      "0x8206c880"
+    ],
+    "zh": "剧情模式中解锁的角色。可使用规则编辑器自定义规则。"
+  },
+  {
+    "id": 1189,
+    "en": "battle each other using any characters that have been unlocked in ",
+    "addresses": [
+      "0x8206c900"
+    ],
+    "zh": "使用任意已在"
+  },
+  {
+    "id": 1190,
+    "en": "In this mode, up to 4 people locally or 12 people on Xbox LIVE can  ",
+    "addresses": [
+      "0x8206c988"
+    ],
+    "zh": "此模式支持本地最多4人、Xbox LIVE最多12人对战，"
+  },
+  {
+    "id": 1191,
+    "en": "the same pool of credits.",
+    "addresses": [
+      "0x8206ca14"
+    ],
+    "zh": "同一份续关次数。"
+  },
+  {
+    "id": 1192,
+    "en": "game by pressing START on a controller not in use. Both players share ",
+    "addresses": [
+      "0x8206ca48"
+    ],
+    "zh": "在未使用的手柄上按START加入。两位玩家共用"
+  },
+  {
+    "id": 1193,
+    "en": "and your progress will be erased. A second player can join your 1-player  ",
+    "addresses": [
+      "0x8206cad8"
+    ],
+    "zh": "游戏进度也将清除。单人游戏中，第二位玩家可"
+  },
+  {
+    "id": 1194,
+    "en": "However, if you are defeated with no credits to spare, it's Game Over ",
+    "addresses": [
+      "0x8206cb70"
+    ],
+    "zh": "但若被击败时已无剩余续关次数，游戏就会结束，"
+  },
+  {
+    "id": 1195,
+    "en": "After each stage, your progress will be saved automatically. ",
+    "addresses": [
+      "0x8206cc00"
+    ],
+    "zh": "每过一关，游戏进度都会自动保存。"
+  },
+  {
+    "id": 1196,
+    "en": "on the choices you make. ",
+    "addresses": [
+      "0x8206cc7c"
+    ],
+    "zh": "而发生很大的变化。"
+  },
+  {
+    "id": 1197,
+    "en": "The game's stages, story and ending will change greatly depending ",
+    "addresses": [
+      "0x8206ccb0"
+    ],
+    "zh": "游戏的关卡、剧情和结局，都会根据你的选择"
+  },
+  {
+    "id": 1198,
+    "en": "In this mode, you play alone or as a two-person team. ",
+    "addresses": [
+      "0x8206cd38"
+    ],
+    "zh": "此模式可单人游玩，也可双人组队。"
+  },
+  {
+    "id": 1199,
+    "en": "- HP/MP recovery after each scene",
+    "addresses": [
+      "0x8206cda8"
+    ],
+    "zh": "－每个场景结束后的HP／MP恢复量"
+  },
+  {
+    "id": 1200,
+    "en": "- How much EXP you earn",
+    "addresses": [
+      "0x8206cdec"
+    ],
+    "zh": "－获得的经验值"
+  },
+  {
+    "id": 1201,
+    "en": "- How much damage you take",
+    "addresses": [
+      "0x8206ce1c"
+    ],
+    "zh": "－受到的伤害"
+  },
+  {
+    "id": 1202,
+    "en": "- How much damage you deal",
+    "addresses": [
+      "0x8206ce54"
+    ],
+    "zh": "－造成的伤害"
+  },
+  {
+    "id": 1203,
+    "en": "Your Luck stat affects the following:",
+    "addresses": [
+      "0x8206ce90"
+    ],
+    "zh": "幸运属性会影响以下项目："
+  },
+  {
+    "id": 1204,
+    "en": "Characters who are weak against light will take damage from healing magic.",
+    "addresses": [
+      "0x8206cee0"
+    ],
+    "zh": "弱光角色会受到治愈魔法的伤害。"
+  },
+  {
+    "id": 1205,
+    "en": "Characters marked as \"-proof\" take zero damage from that element.",
+    "addresses": [
+      "0x8206cf78"
+    ],
+    "zh": "标有“免疫”的角色，不受该元素伤害。"
+  },
+  {
+    "id": 1206,
+    "en": "Characters marked as \"-frail\" take more damage from that element.",
+    "addresses": [
+      "0x8206d000"
+    ],
+    "zh": "标有“弱”的角色，受到该元素伤害更多。"
+  },
+  {
+    "id": 1207,
+    "en": "Characters marked as \"-guard\" take less damage from that element.",
+    "addresses": [
+      "0x8206d088"
+    ],
+    "zh": "标有“抗”的角色，受到该元素伤害更少。"
+  },
+  {
+    "id": 1208,
+    "en": "- Darkness",
+    "addresses": [
+      "0x8206d10c"
+    ],
+    "zh": "－暗"
+  },
+  {
+    "id": 1209,
+    "en": "- Light",
+    "addresses": [
+      "0x8206d124"
+    ],
+    "zh": "－光"
+  },
+  {
+    "id": 1210,
+    "en": "- Ice",
+    "addresses": [
+      "0x8206d134"
+    ],
+    "zh": "－冰"
+  },
+  {
+    "id": 1211,
+    "en": "- Thunder",
+    "addresses": [
+      "0x8206d140"
+    ],
+    "zh": "－雷"
+  },
+  {
+    "id": 1212,
+    "en": "- Fire",
+    "addresses": [
+      "0x8206d154"
+    ],
+    "zh": "－火"
+  },
+  {
+    "id": 1213,
+    "en": "- Force (physical attacks)",
+    "addresses": [
+      "0x8206d164"
+    ],
+    "zh": "－力（物理攻击）"
+  },
+  {
+    "id": 1214,
+    "en": "There are six elements:",
+    "addresses": [
+      "0x8206d19c"
+    ],
+    "zh": "共有六种元素："
+  },
+  {
+    "id": 1215,
+    "en": "Negative Karma changes certain endings to \"dark\" endings.",
+    "addresses": [
+      "0x8206d1d0"
+    ],
+    "zh": "负业力会使部分结局变为“黑暗”结局。"
+  },
+  {
+    "id": 1216,
+    "en": "- Allowing fleeing soldiers to escape",
+    "addresses": [
+      "0x8206d248"
+    ],
+    "zh": "－放过正在逃跑的士兵"
+  },
+  {
+    "id": 1217,
+    "en": "- Allowing fleeing civilians to escape",
+    "addresses": [
+      "0x8206d298"
+    ],
+    "zh": "－放过正在逃跑的平民"
+  },
+  {
+    "id": 1218,
+    "en": "- Completing scenes in each stage",
+    "addresses": [
+      "0x8206d2e8"
+    ],
+    "zh": "－完成各关卡的场景"
+  },
+  {
+    "id": 1219,
+    "en": "You can raise your Karma with these actions:",
+    "addresses": [
+      "0x8206d330"
+    ],
+    "zh": "以下行为可提升业力："
+  },
+  {
+    "id": 1220,
+    "en": "- Continuing to attack slain enemies",
+    "addresses": [
+      "0x8206d390"
+    ],
+    "zh": "－继续攻击已被杀死的敌人"
+  },
+  {
+    "id": 1221,
+    "en": "- Attacking fleeing soldiers",
+    "addresses": [
+      "0x8206d3dc"
+    ],
+    "zh": "－攻击正在逃跑的士兵"
+  },
+  {
+    "id": 1222,
+    "en": "- Attacking civilians",
+    "addresses": [
+      "0x8206d418"
+    ],
+    "zh": "－攻击平民"
+  },
+  {
+    "id": 1223,
+    "en": "- Breaking bushels of produce or certain other objects",
+    "addresses": [
+      "0x8206d448"
+    ],
+    "zh": "－打碎装有农产品的筐或某些其他物品"
+  },
+  {
+    "id": 1224,
+    "en": "The following actions in Story Mode lower your Karma:",
+    "addresses": [
+      "0x8206d4b8"
+    ],
+    "zh": "剧情模式中的以下行为会降低业力："
+  },
+  {
+    "id": 1225,
+    "en": "Escape Throw",
+    "addresses": [
+      "0x8206d524"
+    ],
+    "zh": "挣脱投技"
+  },
+  {
+    "id": 1226,
+    "en": "(the instant you are thrown)",
+    "addresses": [
+      "0x8206d540"
+    ],
+    "zh": "（被投出的瞬间）"
+  },
+  {
+    "id": 1227,
+    "en": "Sidestep",
+    "addresses": [
+      "0x8206d57c"
+    ],
+    "zh": "侧闪"
+  },
+  {
+    "id": 1228,
+    "en": "Hold the block button",
+    "addresses": [
+      "0x8206d590"
+    ],
+    "zh": "按住防御键"
+  },
+  {
+    "id": 1229,
+    "en": "Blocking Recovery",
+    "addresses": [
+      "0x8206d5bc"
+    ],
+    "zh": "防御受身"
+  },
+  {
+    "id": 1230,
+    "en": "Reverse Recovery",
+    "addresses": [
+      "0x8206d5e0"
+    ],
+    "zh": "后向受身"
+  },
+  {
+    "id": 1231,
+    "en": "Forward Recovery",
+    "addresses": [
+      "0x8206d604"
+    ],
+    "zh": "前向受身"
+  },
+  {
+    "id": 1232,
+    "en": "Vertical Recovery",
+    "addresses": [
+      "0x8206d628"
+    ],
+    "zh": "垂直受身"
+  },
+  {
+    "id": 1233,
+    "en": "(on the way down after being sent flying)",
+    "addresses": [
+      "0x8206d650"
+    ],
+    "zh": "（被击飞后下落时）"
+  },
+  {
+    "id": 1234,
+    "en": "Recover",
+    "addresses": [
+      "0x8206d6a4"
+    ],
+    "zh": "受身"
+  },
+  {
+    "id": 1235,
+    "en": "Repeatedly tap the attack/block buttons",
+    "addresses": [
+      "0x8206d6b8"
+    ],
+    "zh": "连续按攻击键或防御键"
+  },
+  {
+    "id": 1236,
+    "en": "(after being sent flying)",
+    "addresses": [
+      "0x8206d708"
+    ],
+    "zh": "（被击飞后）"
+  },
+  {
+    "id": 1237,
+    "en": "This uses MP to force surrounding enemies away.",
+    "addresses": [
+      "0x8206d740"
+    ],
+    "zh": "消耗MP，震退周围的敌人。"
+  },
+  {
+    "id": 1238,
+    "en": "(right after blocking an attack)",
+    "addresses": [
+      "0x8206d7a0"
+    ],
+    "zh": "（刚防住攻击时）"
+  },
+  {
+    "id": 1239,
+    "en": "Forceback",
+    "addresses": [
+      "0x8206d7e4"
+    ],
+    "zh": "震退"
+  },
+  {
+    "id": 1240,
+    "en": "Uses MP. You will avoid being sent flying and attack foes in range.",
+    "addresses": [
+      "0x8206d7f8"
+    ],
+    "zh": "消耗MP，避免被击飞，并攻击范围内的敌人。"
+  },
+  {
+    "id": 1241,
+    "en": "(while under attack)",
+    "addresses": [
+      "0x8206d880"
+    ],
+    "zh": "（受到攻击时）"
+  },
+  {
+    "id": 1242,
+    "en": "You will avoid being sent flying and attack the assailant behind you.",
+    "addresses": [
+      "0x8206d8b0"
+    ],
+    "zh": "避免被击飞，并攻击身后的袭击者。"
+  },
+  {
+    "id": 1243,
+    "en": "(right after being struck from behind on the ground)",
+    "addresses": [
+      "0x8206d940"
+    ],
+    "zh": "（在地面刚被从背后击中时）"
+  },
+  {
+    "id": 1244,
+    "en": "Counter",
+    "addresses": [
+      "0x8206d9ac"
+    ],
+    "zh": "反击"
+  },
+  {
+    "id": 1245,
+    "en": "- Using it repeatedly saps MP, but lets you move about unharmed",
+    "addresses": [
+      "0x8206d9c0"
+    ],
+    "zh": "－连续使用会消耗MP，但可安全移动"
+  },
+  {
+    "id": 1246,
+    "en": "- It lets you cancel your basic attacks",
+    "addresses": [
+      "0x8206da40"
+    ],
+    "zh": "－可取消基本攻击动作"
+  },
+  {
+    "id": 1247,
+    "en": "- You can slip past enemies",
+    "addresses": [
+      "0x8206da90"
+    ],
+    "zh": "－可穿过敌人"
+  },
+  {
+    "id": 1248,
+    "en": "- You are invulnerable at the start of the backstep",
+    "addresses": [
+      "0x8206dac8"
+    ],
+    "zh": "－后撤步起始时处于无敌状态"
+  },
+  {
+    "id": 1249,
+    "en": "Using the backstep has certain advantages:",
+    "addresses": [
+      "0x8206db30"
+    ],
+    "zh": "后撤步具有以下优势："
+  },
+  {
+    "id": 1250,
+    "en": "Rapidly tap the directional pad/attack buttons to regain control.",
+    "addresses": [
+      "0x8206db88"
+    ],
+    "zh": "快速连按方向键或攻击键，恢复控制。"
+  },
+  {
+    "id": 1251,
+    "en": "Just like a normal stun, this causes you to lose control of your character.",
+    "addresses": [
+      "0x8206dc10"
+    ],
+    "zh": "与普通眩晕一样，这会让你失去对角色的控制。"
+  },
+  {
+    "id": 1252,
+    "en": "If you try to use magic without enough MP, you will suffer \"mental distress.\"",
+    "addresses": [
+      "0x8206dca8"
+    ],
+    "zh": "MP不足时强行使用魔法，会陷入“精神失衡”。"
+  },
+  {
+    "id": 1253,
+    "en": "However, you will gradually recover HP while stunned.",
+    "addresses": [
+      "0x8206dd48"
+    ],
+    "zh": "但眩晕期间，HP会逐渐恢复。"
+  },
+  {
+    "id": 1254,
+    "en": "Rapidly tap the directional pad/attack buttons to break out of the stun.",
+    "addresses": [
+      "0x8206ddb8"
+    ],
+    "zh": "快速连按方向键或攻击键，可挣脱眩晕。"
+  },
+  {
+    "id": 1255,
+    "en": "Stuns cause you to lose control of your character for a set amount of time.",
+    "addresses": [
+      "0x8206de50"
+    ],
+    "zh": "眩晕会让你在一段时间内失去对角色的控制。"
+  },
+  {
+    "id": 1256,
+    "en": "You will be stunned if you take a certain amount of damage in a row.",
+    "addresses": [
+      "0x8206dee8"
+    ],
+    "zh": "短时间内连续受到一定伤害，就会眩晕。"
+  },
+  {
+    "id": 1257,
+    "en": "In Story Mode, you also recover some MP for finishing scenes in each stage.",
+    "addresses": [
+      "0x8206df78"
+    ],
+    "zh": "剧情模式中，完成各关卡的场景，也可恢复部分MP。"
+  },
+  {
+    "id": 1258,
+    "en": "The more hits you land, the more MP you will recover.",
+    "addresses": [
+      "0x8206e010"
+    ],
+    "zh": "命中次数越多，恢复的MP就越多。"
+  },
+  {
+    "id": 1259,
+    "en": "- Wait for it to gradually recover (to a point)",
+    "addresses": [
+      "0x8206e080"
+    ],
+    "zh": "－等待MP逐渐恢复（恢复至一定程度）"
+  },
+  {
+    "id": 1260,
+    "en": "- Land direct attacks",
+    "addresses": [
+      "0x8206e0e0"
+    ],
+    "zh": "－用直接攻击命中"
+  },
+  {
+    "id": 1261,
+    "en": "- Land direct attacks of 2 hits or more",
+    "addresses": [
+      "0x8206e110"
+    ],
+    "zh": "－用直接攻击连续命中2次以上"
+  },
+  {
+    "id": 1262,
+    "en": "You can recover MP in the following ways:",
+    "addresses": [
+      "0x8206e160"
+    ],
+    "zh": "可通过以下方式恢复MP："
+  },
+  {
+    "id": 1263,
+    "en": "He will mercilessly lash out at nearby foes.",
+    "addresses": [
+      "0x8206e1b8"
+    ],
+    "zh": "他会无情地猛攻附近的敌人。"
+  },
+  {
+    "id": 1264,
+    "en": "He will stop in place and cease all activity.",
+    "addresses": [
+      "0x8206e218"
+    ],
+    "zh": "他会停留原地，停止一切行动。"
+  },
+  {
+    "id": 1265,
+    "en": "He will stand behind you and await further orders.",
+    "addresses": [
+      "0x8206e278"
+    ],
+    "zh": "他会站在你身后，等候进一步指令。"
+  },
+  {
+    "id": 1266,
+    "en": "He will seek out foes and attack with his sword.",
+    "addresses": [
+      "0x8206e2e0"
+    ],
+    "zh": "他会寻找敌人，挥剑攻击。"
+  },
+  {
+    "id": 1267,
+    "en": "He will stand in front of you and block attacks.",
+    "addresses": [
+      "0x8206e348"
+    ],
+    "zh": "他会站在你前方，抵挡攻击。"
+  },
+  {
+    "id": 1268,
+    "en": "\"Go berserk!\"",
+    "addresses": [
+      "0x8206e3ac"
+    ],
+    "zh": "“狂暴吧！”"
+  },
+  {
+    "id": 1269,
+    "en": "\"Stay put!\"",
+    "addresses": [
+      "0x8206e3c8"
+    ],
+    "zh": "“原地待命！”"
+  },
+  {
+    "id": 1270,
+    "en": "\"Follow me!\"",
+    "addresses": [
+      "0x8206e3e0"
+    ],
+    "zh": "“跟着我！”"
+  },
+  {
+    "id": 1271,
+    "en": "\"Attack!\"",
+    "addresses": [
+      "0x8206e3fc"
+    ],
+    "zh": "“进攻！”"
+  },
+  {
+    "id": 1272,
+    "en": "\"Protect me!\"",
+    "addresses": [
+      "0x8206e410"
+    ],
+    "zh": "“保护我！”"
+  },
+  {
+    "id": 1273,
+    "en": "You can issue the following commands:",
+    "addresses": [
+      "0x8206e430"
+    ],
+    "zh": "可下达以下指令："
+  },
+  {
+    "id": 1274,
+    "en": "Open Command Palette",
+    "addresses": [
+      "0x8206e47c"
+    ],
+    "zh": "打开指令菜单"
+  },
+  {
+    "id": 1275,
+    "en": "Once the Undead Hero joins you in Story Mode, you can command him.",
+    "addresses": [
+      "0x8206e4a8"
+    ],
+    "zh": "不死英雄在剧情模式中加入后，你便可向他下令。"
+  },
+  {
+    "id": 1276,
+    "en": "Brightens up your day.",
+    "addresses": [
+      "0x8206e530"
+    ],
+    "zh": "让你走好运。"
+  },
+  {
+    "id": 1277,
+    "en": "Speeds up all your movement.",
+    "addresses": [
+      "0x8206e560"
+    ],
+    "zh": "加快所有移动动作。"
+  },
+  {
+    "id": 1278,
+    "en": "Decreases the magical damage you take.",
+    "addresses": [
+      "0x8206e5a0"
+    ],
+    "zh": "降低受到的魔法伤害。"
+  },
+  {
+    "id": 1279,
+    "en": "Powers up your magical attacks.",
+    "addresses": [
+      "0x8206e5f0"
+    ],
+    "zh": "增强魔法攻击。"
+  },
+  {
+    "id": 1280,
+    "en": "Decreases the physical damage you take.",
+    "addresses": [
+      "0x8206e630"
+    ],
+    "zh": "降低受到的物理伤害。"
+  },
+  {
+    "id": 1281,
+    "en": "Powers up your physical attacks.",
+    "addresses": [
+      "0x8206e680"
+    ],
+    "zh": "增强物理攻击。"
+  },
+  {
+    "id": 1282,
+    "en": "Luck (LCK)",
+    "addresses": [
+      "0x8206e6c4"
+    ],
+    "zh": "幸运（LCK）"
+  },
+  {
+    "id": 1283,
+    "en": "Agility (AGI)",
+    "addresses": [
+      "0x8206e6dc"
+    ],
+    "zh": "敏捷（AGI）"
+  },
+  {
+    "id": 1284,
+    "en": "Mentality (MNT)",
+    "addresses": [
+      "0x8206e6f8"
+    ],
+    "zh": "精神（MNT）"
+  },
+  {
+    "id": 1285,
+    "en": "Intelligence (INT)",
+    "addresses": [
+      "0x8206e718"
+    ],
+    "zh": "智力（INT）"
+  },
+  {
+    "id": 1286,
+    "en": "Vitality (VIT)",
+    "addresses": [
+      "0x8206e740"
+    ],
+    "zh": "体质（VIT）"
+  },
+  {
+    "id": 1287,
+    "en": "Strength (STR)",
+    "addresses": [
+      "0x8206e760"
+    ],
+    "zh": "力量（STR）"
+  },
+  {
+    "id": 1288,
+    "en": "Leveling up also earns you bonus points, which can be funneled into your stats:",
+    "addresses": [
+      "0x8206e780"
+    ],
+    "zh": "升级还会获得奖励点数，可分配至各项属性："
+  },
+  {
+    "id": 1289,
+    "en": "Gain enough EXP and you will \"level up\" on the spot, increasing your Max HP/MP.",
+    "addresses": [
+      "0x8206e820"
+    ],
+    "zh": "获得足够经验后，会立即升级，HP和MP上限随之提高。"
+  },
+  {
+    "id": 1290,
+    "en": "- Expending MP",
+    "addresses": [
+      "0x8206e8c0"
+    ],
+    "zh": "－消耗MP"
+  },
+  {
+    "id": 1291,
+    "en": "- Landing attacks",
+    "addresses": [
+      "0x8206e8e0"
+    ],
+    "zh": "－攻击命中"
+  },
+  {
+    "id": 1292,
+    "en": "You can earn EXP in the following ways:",
+    "addresses": [
+      "0x8206e908"
+    ],
+    "zh": "可通过以下方式获得经验："
+  },
+  {
+    "id": 1293,
+    "en": "Aerial Block",
+    "addresses": [
+      "0x8206e958"
+    ],
+    "zh": "空中防御"
+  },
+  {
+    "id": 1294,
+    "en": "Jumping Block",
+    "addresses": [
+      "0x8206e974"
+    ],
+    "zh": "跳跃防御"
+  },
+  {
+    "id": 1295,
+    "en": "Throw",
+    "addresses": [
+      "0x8206e990"
+    ],
+    "zh": "投技"
+  },
+  {
+    "id": 1296,
+    "en": "(near an opponent)",
+    "addresses": [
+      "0x8206e99c"
+    ],
+    "zh": "（靠近对手时）"
+  },
+  {
+    "id": 1297,
+    "en": "Special Move",
+    "addresses": [
+      "0x8206e9c4"
+    ],
+    "zh": "必杀技"
+  },
+  {
+    "id": 1298,
+    "en": "Cast Magic Directly",
+    "addresses": [
+      "0x8206e9e0"
+    ],
+    "zh": "直接施放魔法"
+  },
+  {
+    "id": 1299,
+    "en": "Open Magic Palette",
+    "addresses": [
+      "0x8206ea08"
+    ],
+    "zh": "打开魔法菜单"
+  },
+  {
+    "id": 1300,
+    "en": "Directional Air Attack",
+    "addresses": [
+      "0x8206ea30"
+    ],
+    "zh": "空中方向攻击"
+  },
+  {
+    "id": 1301,
+    "en": "Directional Ground Attack",
+    "addresses": [
+      "0x8206ea60"
+    ],
+    "zh": "地面方向攻击"
+  },
+  {
+    "id": 1302,
+    "en": "Basic Attack",
+    "addresses": [
+      "0x8206ea94"
+    ],
+    "zh": "基本攻击"
+  },
+  {
+    "id": 1303,
+    "en": "Aerial Dash",
+    "addresses": [
+      "0x8206eab0"
+    ],
+    "zh": "空中冲刺"
+  },
+  {
+    "id": 1304,
+    "en": "Dash mid-jump",
+    "addresses": [
+      "0x8206eac8"
+    ],
+    "zh": "跳跃中冲刺"
+  },
+  {
+    "id": 1305,
+    "en": "Sprint",
+    "addresses": [
+      "0x8206eae4"
+    ],
+    "zh": "疾跑"
+  },
+  {
+    "id": 1306,
+    "en": "Dash and hold the directional pad",
+    "addresses": [
+      "0x8206eaf8"
+    ],
+    "zh": "冲刺后按住方向键"
+  },
+  {
+    "id": 1307,
+    "en": "Dash",
+    "addresses": [
+      "0x8206eb3c"
+    ],
+    "zh": "冲刺"
+  },
+  {
+    "id": 1308,
+    "en": "Double Jump",
+    "addresses": [
+      "0x8206eb48"
+    ],
+    "zh": "二段跳"
+  },
+  {
+    "id": 1309,
+    "en": "Jump again mid-jump",
+    "addresses": [
+      "0x8206eb60"
+    ],
+    "zh": "跳跃中再次跳跃"
+  },
+  {
+    "id": 1310,
+    "en": "Move",
+    "addresses": [
+      "0x8206eb88"
+    ],
+    "zh": "移动"
+  },
+  {
+    "id": 1311,
+    "en": "Cancel",
+    "addresses": [
+      "0x8206eb94"
+    ],
+    "zh": "取消"
+  },
+  {
+    "id": 1312,
+    "en": "Select",
+    "addresses": [
+      "0x8206eba4"
+    ],
+    "zh": "选择"
+  },
+  {
+    "id": 1313,
+    "en": "(Original & Remix Modes)",
+    "addresses": [
+      "0x8206ebb4"
+    ],
+    "zh": "（原版及重制模式）"
+  },
+  {
+    "id": 1314,
+    "en": "(Remix Mode)",
+    "addresses": [
+      "0x8206ebe8"
+    ],
+    "zh": "（重制模式）"
+  },
+  {
+    "id": 1315,
+    "en": "(Original Mode)",
+    "addresses": [
+      "0x8206ec04"
+    ],
+    "zh": "（原版模式）"
+  },
+  {
+    "id": 1316,
+    "en": "Note: Some controls may not apply to every character.",
+    "addresses": [
+      "0x8206ec28"
+    ],
+    "zh": "注意：部分操作并非适用于所有角色。"
+  },
+  {
+    "id": 1317,
+    "en": "The default buttons are shown.",
+    "addresses": [
+      "0x8206ec94"
+    ],
+    "zh": "显示的按键为默认设置。"
+  },
+  {
+    "id": 1318,
+    "en": "Easy",
+    "addresses": [
+      "0x8201C8E0"
+    ],
+    "zh": "简单"
+  },
+  {
+    "id": 1319,
+    "en": "Normal",
+    "addresses": [
+      "0x8201C8EC"
+    ],
+    "zh": "普通"
+  },
+  {
+    "id": 1320,
+    "en": "Hard",
+    "addresses": [
+      "0x8201C8FC"
+    ],
+    "zh": "困难"
+  },
+  {
+    "id": 1321,
+    "en": "ON",
+    "addresses": [
+      "0x8201C8C0"
+    ],
+    "zh": "开"
+  },
+  {
+    "id": 1322,
+    "en": "OFF",
+    "addresses": [
+      "0x8201C8C8"
+    ],
+    "zh": "关"
+  }
+]

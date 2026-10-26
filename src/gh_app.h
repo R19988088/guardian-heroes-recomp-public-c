@@ -3,6 +3,8 @@
 
 #include <rex/rex_app.h>
 
+#include "localization.h"
+
 #if !defined(__SWITCH__)
 #include <rex/cvar.h>
 #include "gh_settings.h"
@@ -32,7 +34,19 @@ class GhApp : public rex::ReXApp {
     // First start (no gh.toml yet): the keyboard plays as pad 1; the settings window can switch it off.
     if (!std::filesystem::exists(config_path_)) REXCVAR_SET(mnk_mode, true);
   }
+#else
+  void OnConfigurePaths(rex::PathConfig& paths) override {
+    if (paths.game_data_root.empty()) paths.game_data_root = "sdmc:/switch/gh/game";
+    if (paths.user_data_root.empty()) paths.user_data_root = "sdmc:/switch/gh/user";
+  }
+#endif
 
+  void OnPostLoadXexImage() override {
+    gh::localization::Initialize(game_data_root(), user_data_root(), runtime()->memory(),
+                                 [](bool) {});
+  }
+
+#if !defined(__SWITCH__)
   // The window deletes itself with the drawer; it opens on Back/Select (held) or F1.
   void OnCreateDialogs(rex::ui::ImGuiDrawer* drawer) override {
     new GhSettings(drawer, [this] { return runtime(); }, [this] { return window(); }, config_path_);

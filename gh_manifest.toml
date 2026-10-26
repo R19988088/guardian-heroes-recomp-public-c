@@ -27,3 +27,45 @@ reserved_as_local = false
 # The explicit end makes the copy complete (same pattern as cvhd's 0x8277ECF0). The next function starts at 0x826C6E68.
 [entrypoint.functions.0x826C6740]
 end = 0x826C6E68
+
+# Chinese language option and runtime menu refresh hooks.
+[[entrypoint.midasm_hook]]
+address = 0x824B33FC
+name = "GhAppendLanguageOption"
+registers = ["r1", "r27"]
+
+[[entrypoint.midasm_hook]]
+address = 0x824F01F8
+name = "GhHandleLanguageOption"
+registers = ["r1", "r30", "r31"]
+
+[[entrypoint.midasm_hook]]
+address = 0x824DBE9C
+name = "GhHandleLanguageOption"
+registers = ["r1", "r30", "r31"]
+
+[[entrypoint.midasm_hook]]
+address = 0x824F14DC
+name = "GhRefreshTitleOptions"
+registers = ["r1", "r31"]
+
+[[entrypoint.midasm_hook]]
+address = 0x824DD0F4
+name = "GhRefreshPauseOptions"
+registers = ["r1", "r31"]
+
+# Keep player health at maximum around the native damage checks.
+[[entrypoint.midasm_hook]]
+address = 0x824A275C
+name = "GhKeepHealthMax"
+registers = ["r31"]
+
+[[entrypoint.midasm_hook]]
+address = 0x824A20E8
+name = "GhKeepSharedHealthMax"
+registers = ["r30", "r11"]
+
+[[entrypoint.midasm_hook]]
+address = 0x824A0FAC
+name = "GhKeepHealthMax"
+registers = ["r29"]

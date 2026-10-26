@@ -1,0 +1,178 @@
+diff --git a/cmake/rexglue_helpers.cmake b/cmake/rexglue_helpers.cmake
+index 41e6dce..914436b 100644
+--- a/cmake/rexglue_helpers.cmake
++++ b/cmake/rexglue_helpers.cmake
+@@ -12,7 +12,7 @@ function(_rexglue_stage_macos_vulkan_runtime target_name)
+     if(TARGET Vulkan::Loader AND TARGET MoltenVK::MoltenVK)
+         set(_rexglue_vulkan_loader Vulkan::Loader)
+         set(_rexglue_moltenvk MoltenVK::MoltenVK)
+-        set(_rexglue_moltenvk_icd "${REXGLUE_ROOT}/cmake/MoltenVK_icd.json")
++        set(_rexglue_moltenvk_icd "${CMAKE_CURRENT_FUNCTION_LIST_DIR}/MoltenVK_icd.json")
+     elseif(TARGET rex::vulkan-loader AND TARGET rex::moltenvk)
+         set(_rexglue_vulkan_loader rex::vulkan-loader)
+         set(_rexglue_moltenvk rex::moltenvk)
+@@ -109,10 +109,10 @@ function(rexglue_configure_target target_name)
+             COMMAND_EXPAND_LISTS
+             VERBATIM
+         )
+-    elseif(APPLE)
+-        # macOS: $<TARGET_RUNTIME_DLLS> does not resolve imported dylibs, so
+-        # stage the shared runtime libraries explicitly next to the executable
+-        # (paired with the @executable_path rpath above). Everything else the
++    elseif(UNIX)
++        # UNIX: $<TARGET_RUNTIME_DLLS> does not resolve shared libraries, so
++        # stage them explicitly next to the executable, matching $ORIGIN on
++        # Linux and @executable_path on macOS above. Everything else the
+         # runtime links (fmt, spdlog, SDL3, ...) is static. Target names
+         # differ between an in-tree build and an installed SDK import.
+         foreach(_rexglue_runtime_lib rex::runtime rexruntime rex::TracyClient TracyClient)
+diff --git a/resources/templates/codegen/init_cpp.inja b/resources/templates/codegen/init_cpp.inja
+index 1be4759..f8f2040 100644
+--- a/resources/templates/codegen/init_cpp.inja
++++ b/resources/templates/codegen/init_cpp.inja
+@@ -2,6 +2,7 @@
+ // DO NOT EDIT - this file is auto-generated
+ 
+ #include "{{ project }}_init.h"
++#include "../../src/guest_dispatch.h"
+ 
+ {% if has_dll_modules and not is_dll %}
+ void RegisterRecompiledModules(rex::system::KernelState*);
+@@ -30,6 +31,16 @@ const rex::PPCImageInfo PPCImageConfig = {
+ };
+ 
+ PPCFuncMapping PPCFuncMappings[] = {
+-{% for fn in functions %}{% if not fn.below_code_base or fn.is_import %}	{ {{ fn.address }}, {{ fn.name }} },
++{% for fn in functions %}{% if not fn.below_code_base or fn.is_import %}	{ {{ fn.address }}, REX_GUEST_FUNCTION_POINTER({{ fn.name }}) },
+ {% endif %}{% endfor %}	{ 0, nullptr }
+ };
++
++namespace {
++struct ProjectFunctionRegistration {
++  ProjectFunctionRegistration() {
++{% for fn in functions %}{% if not fn.below_code_base or fn.is_import %}    guest::RegisterFunction<REX_GUEST_CONTEXT_TYPE>(static_cast<uint32_t>({{ fn.address }}), &{{ fn.name }});
++{% endif %}{% endfor %}
++  }
++};
++const ProjectFunctionRegistration kProjectFunctionRegistration{};
++}  // namespace
+diff --git a/resources/templates/codegen/pch_h.inja b/resources/templates/codegen/pch_h.inja
+index 68274d2..7138e89 100644
+--- a/resources/templates/codegen/pch_h.inja
++++ b/resources/templates/codegen/pch_h.inja
+@@ -36,7 +36,20 @@
+ #include <rex/perf/counter.h>
+ #include <rex/thread/mutex.h>
+ #include <rex/system/mmio_handler.h>
++#include "../../src/guest_dispatch.h"
+ 
++// Generated guest entry points can use a project-owned ABI context. Keep the
++// ReXGlue context as the default so existing generated projects remain source
++// and binary compatible until they opt in.
++#ifndef REX_GUEST_CONTEXT_TYPE
++#define REX_GUEST_CONTEXT_TYPE PPCContext
++#endif
++
++// Registration keeps the runtime's PPCFunc ABI by default. A platform adapter
++// can replace the expression without changing generated registration tables.
++#ifndef REX_GUEST_FUNCTION_POINTER
++#define REX_GUEST_FUNCTION_POINTER(name) (name)
++#endif
+ #include <atomic>
+ #include <cassert>
+ #include <csetjmp>
+@@ -56,10 +69,14 @@ extern PPCFuncMapping PPCFuncMappings[];
+ // Function Definition Macros
+ //=============================================================================
+ 
++
++
+ #ifndef DECLARE_REX_FUNC
+-#define DECLARE_REX_FUNC(name) \
+-  REX_EXTERN(name);            \
+-  REX_EXTERN(__imp__##name)
++#define DECLARE_REX_FUNC(name)                                                             \
++  extern "C" void name([[maybe_unused]] REX_GUEST_CONTEXT_TYPE& __restrict ctx,            \
++                       uint8_t* base);                                                     \
++  extern "C" void __imp__##name([[maybe_unused]] REX_GUEST_CONTEXT_TYPE& __restrict ctx, \
++                                uint8_t* base)
+ #endif
+ 
+ #ifndef DEFINE_REX_FUNC
+@@ -71,18 +88,30 @@ extern PPCFuncMapping PPCFuncMappings[];
+ // single `jmp` (no stack frame, no call/return), stays weak so hooks can replace
+ // it, and keeps __imp__##name as the always-original entry point. This is a thin
+ // thunk, not a same-address alias: &name != &__imp__##name by design.
+-#define DEFINE_REX_FUNC(name)                                                       \
+-  extern "C" void __imp__##name(PPCContext& __restrict, uint8_t*);                  \
+-  __attribute__((weak, noinline)) extern "C" void name(                             \
+-      PPCContext& __restrict ctx, uint8_t* base) {                                  \
+-    [[clang::musttail]] return __imp__##name(ctx, base);                            \
+-  }                                                                                 \
+-  extern "C" void __imp__##name([[maybe_unused]] PPCContext& __restrict ctx, uint8_t* base)
++#define DEFINE_REX_FUNC(name)                                                            \
++  extern "C" void __imp__##name(REX_GUEST_CONTEXT_TYPE& __restrict, uint8_t*);            \
++  __attribute__((weak, noinline)) extern "C" void name(                                  \
++      REX_GUEST_CONTEXT_TYPE& __restrict ctx, uint8_t* base) {                           \
++    [[clang::musttail]] return __imp__##name(ctx, base);                                 \
++  }                                                                                      \
++  extern "C" void __imp__##name([[maybe_unused]] REX_GUEST_CONTEXT_TYPE& __restrict ctx, \
++                                uint8_t* base)
++#elif defined(__GNUC__)
++#define DEFINE_REX_FUNC(name)                                                    \
++  extern "C" void __imp__##name(REX_GUEST_CONTEXT_TYPE& __restrict, uint8_t*);  \
++  __attribute__((weak, noinline)) extern "C" void name(                          \
++      [[maybe_unused]] REX_GUEST_CONTEXT_TYPE& __restrict ctx, uint8_t* base) {   \
++    return __imp__##name(ctx, base);                                               \
++  }                                                                                \
++  extern "C" void __imp__##name(                                                  \
++      [[maybe_unused]] REX_GUEST_CONTEXT_TYPE& __restrict ctx, uint8_t* base)
+ #else
+-#define DEFINE_REX_FUNC(name)                                       \
+-  __attribute__((alias("__imp__" #name)))                           \
+-  __attribute__((weak, noinline)) extern "C" REX_FUNC(name);        \
+-  REX_EXTERN(__imp__##name)
++#define DEFINE_REX_FUNC(name)                                                    \
++  __attribute__((alias("__imp__" #name)))                                        \
++  __attribute__((weak, noinline)) extern "C" void name(                          \
++      [[maybe_unused]] REX_GUEST_CONTEXT_TYPE& __restrict ctx, uint8_t* base);   \
++  extern "C" void __imp__##name(                                                 \
++      [[maybe_unused]] REX_GUEST_CONTEXT_TYPE& __restrict ctx, uint8_t* base)
+ #endif
+ #endif
+ 
+@@ -286,7 +315,7 @@ inline std::unordered_map<u32, jmp_buf>& get_jmp_buf_map() {
+ // Trap Handling
+ //=============================================================================
+ 
+-inline void ppc_trap(PPCContext& ctx, u8* base, u16 trap_type) {
++inline void ppc_trap(REX_GUEST_CONTEXT_TYPE& ctx, u8* base, u16 trap_type) {
+   switch (trap_type) {
+     case 20:
+     case 26: {
+diff --git a/resources/templates/codegen/register_cpp.inja b/resources/templates/codegen/register_cpp.inja
+index 0be31c4..18e0382 100644
+--- a/resources/templates/codegen/register_cpp.inja
++++ b/resources/templates/codegen/register_cpp.inja
+@@ -17,7 +17,7 @@ void ReXModule_Register(rex::runtime::IModuleRegistrar* registrar) {
+ {% else %}
+ void {{ project }}_RegisterFunctions(rex::runtime::IModuleRegistrar* registrar) {
+ {% endif %}
+-{% for fn in functions %}{% if not fn.below_code_base or fn.is_import %}  registrar->SetFunction({{ fn.address }}, {{ fn.name }});
++{% for fn in functions %}{% if not fn.below_code_base or fn.is_import %}  registrar->SetFunction({{ fn.address }}, REX_GUEST_FUNCTION_POINTER({{ fn.name }}));
+ {% endif %}{% endfor %}}
+ 
+ {% if is_dll %}
+diff --git a/src/codegen/function_graph.cpp b/src/codegen/function_graph.cpp
+index fc918bb..0ccbd5e 100644
+--- a/src/codegen/function_graph.cpp
++++ b/src/codegen/function_graph.cpp
+@@ -666,7 +666,7 @@ std::string FunctionNode::emitCpp(const EmitContext& ctx) const {
+   }
+ 
+   if (localVariables.env)
+-    emit_println(out, "\tPPCContext env{{}};");
++    emit_println(out, "\tREX_GUEST_CONTEXT_TYPE env{{}};");
+   if (localVariables.temp)
+     emit_println(out, "\tPPCRegister temp{{}};");
+   if (localVariables.v_temp)
