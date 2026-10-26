@@ -100,28 +100,12 @@ jobs:
           ) > "$RUNNER_TEMP/codegen-debug/heartbeat.log" 2>&1 &
           monitor_pid=$!
           trap 'kill "$monitor_pid" 2>/dev/null || true; tail -100 "$RUNNER_TEMP/codegen-debug/heartbeat.log"' EXIT
-          "$SDK/out/linux-amd64/Release/rexglue" codegen gh_manifest.toml \
-            > "$RUNNER_TEMP/codegen-debug/codegen.log" 2>&1 &
-          codegen_pid=$!
-          code=124
-          for _ in $(seq 1 180); do
-            if test -f generated/default/gh_pch.h && test -f generated/default/sources.cmake; then
-              code=0
-              kill -TERM "$codegen_pid" 2>/dev/null || true
-              break
-            fi
-            if ! kill -0 "$codegen_pid" 2>/dev/null; then
-              wait "$codegen_pid" || code=$?
-              break
-            fi
-            sleep 10
-          done
-          if kill -0 "$codegen_pid" 2>/dev/null; then
-            kill -KILL "$codegen_pid" 2>/dev/null || true
-          fi
-          wait "$codegen_pid" 2>/dev/null || true
+          timeout --signal=TERM --kill-after=60s 30m \
+            "$SDK/out/linux-amd64/Release/rexglue" codegen gh_manifest.toml \
+            > "$RUNNER_TEMP/codegen-debug/codegen.log" 2>&1
           cat "$RUNNER_TEMP/codegen-debug/codegen.log"
-          test "$code" -eq 0
+          test -f generated/default/codegen.build.stamp
+          test -f generated/default/codegen.d
           test -f generated/default/gh_pch.h
           test -f generated/default/sources.cmake
 
