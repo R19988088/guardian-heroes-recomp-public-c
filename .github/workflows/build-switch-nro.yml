@@ -30,6 +30,13 @@ jobs:
           apt-get install -y --no-install-recommends clang lld libclang-dev pkg-config unrar gh
           git config --global --add safe.directory '*'
 
+      - name: Install Clang 20
+        run: |
+          wget -qO llvm.sh https://apt.llvm.org/llvm.sh
+          chmod +x llvm.sh
+          ./llvm.sh 20
+          apt-get install -y clang-20 lld-20
+
       - name: Install devkitPro Switch toolchain
         run: |
           dkp-pacman -Q switch-cmake switch-tools deko3d switch-libdrm_nouveau
@@ -60,7 +67,8 @@ jobs:
           git -C "$RUNNER_TEMP/rexglue-sdk" apply "$GITHUB_WORKSPACE/patches/sdk/0003-project-guest-abi.patch"
           python3 "$GITHUB_WORKSPACE/switch/sdk-edits.py" "$RUNNER_TEMP/rexglue-sdk"
           python3 "$GITHUB_WORKSPACE/patches/sdk-edits-gh.py" "$RUNNER_TEMP/rexglue-sdk"
-          cmake --preset linux-amd64 -S "$RUNNER_TEMP/rexglue-sdk"
+          cmake --preset linux-amd64 -S "$RUNNER_TEMP/rexglue-sdk" \
+            -DCMAKE_C_COMPILER=clang-20 -DCMAKE_CXX_COMPILER=clang++-20
           cmake --build --preset linux-amd64-release --parallel 2
           echo "SDK=$RUNNER_TEMP/rexglue-sdk" >> "$GITHUB_ENV"
 
