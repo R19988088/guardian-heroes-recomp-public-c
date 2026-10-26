@@ -69,6 +69,8 @@ jobs:
           git -C "$RUNNER_TEMP/rexglue-sdk" apply "$GITHUB_WORKSPACE/patches/sdk/0003-project-guest-abi.patch"
           python3 "$GITHUB_WORKSPACE/switch/sdk-edits.py" "$RUNNER_TEMP/rexglue-sdk"
           python3 "$GITHUB_WORKSPACE/patches/sdk-edits-gh.py" "$RUNNER_TEMP/rexglue-sdk"
+          sed -i 's/^#ifdef __APPLE__/#if defined(__APPLE__) || defined(_LIBCPP_VERSION)/' \
+            "$RUNNER_TEMP/rexglue-sdk/include/rex/chrono/chrono.h"
           cmake --preset linux-amd64 -S "$RUNNER_TEMP/rexglue-sdk" \
             -DCMAKE_C_COMPILER=clang-20 -DCMAKE_CXX_COMPILER=clang++-20 \
             -DCMAKE_CXX_FLAGS='-march=x86-64-v2 -stdlib=libc++'
