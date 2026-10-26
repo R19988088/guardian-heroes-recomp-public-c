@@ -27,7 +27,7 @@ jobs:
         run: |
           echo 'deb [signed-by=/usr/share/keyrings/debian-archive-keyring.gpg] http://deb.debian.org/debian bookworm contrib non-free non-free-firmware' > /etc/apt/sources.list.d/non-free.list
           apt-get update
-          apt-get install -y --no-install-recommends clang lld libclang-dev pkg-config unrar gh
+          apt-get install -y --no-install-recommends clang lld libclang-dev pkg-config unrar gh lsb-release
           git config --global --add safe.directory '*'
 
       - name: Install Clang 20
